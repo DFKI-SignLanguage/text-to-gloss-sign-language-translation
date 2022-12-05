@@ -1,0 +1,4470 @@
+$prod
+$gest-nm-schulterzucken1
+$gest-nm-kopfnicken1
+stimmt1 genau1 $index1
+$gest-abwinken1
+ja1 gut1
+$gest-nm-kopfnicken1 stimmt1
+$index1 $gest-nm-kopfnicken1
+nein1 moment2
+sagen1 auch3 dazu1 haken1 wollen-nicht2
+haken1 kreuz1 haken1
+gross3
+schon1 bleiben2 $oral
+wie4 $index1 bestrahlung1 wie4
+$index1 knochen1 wie4 brechen1 brustkorb1 zusammenbruch1
+körper1 energie3 sterben2
+grausam2
+klar1
+war1 spannung5 du1
+fussball2 ich1 selbst1 fussball2 ich1 schauen1 ich1 noch4 ich1
+selten2 ich1
+wenn1 endlich2 spielen2 ich2 fertig1 ziel4 schauen1
+einige1 ich1 niemals2 ich1
+stimmt1 klar1
+$gest-nm-kopfnicken1 stimmt1 du1 $gest-abwinken1 du1
+$oral fussball2 station4 gut1 sehen-auf3 $oral spielen2 ich1 sehen1 klein9
+fernseher1
+fernseher1 $index1 nahe4 gross3 besser2 sehen1
+$gest-abwinken1
+$gest-abwinken1
+ich1 wissen2
+ich1 glauben2 nicht3
+ich1 glauben2 nicht3
+$num-ord1:2 $num-ord1:3 $num-ord1:4
+$gest-abwinken1
+
+nächste1
+stimmt1 genau1
+und2 auch3 allgemein1
+$index1 allgemein1
+umwelt1 genau1 umwelt1 dasselbe2
+$oral erdbeben1 unten1 erde6 überschneidung1
+oben3 welle1
+schnell3 mass-sagittal2
+schnell1 als4 boot1
+laufen1 schaffen1 nicht3
+klar1 wasser1 schief1 aus-vorbei1 schnell2 gewalt1 alles2
+$gest-nm-kopfnicken1
+
+wenn1
+$oral ich1 sehen1 auch3 ich1 hände-weg1 ich1 $index1 kann2
+ich1 nächste1 ich1 urlaub6 kann2 ich1
+klar1
+kann1 riechen4
+zuhause1 auch3 passiert2 auch3
+warum10
+erde-planet2 warum10 erde-planet2 untereinander1
+dünn5 oben1 dünn5 dick9
+boden5 dick9
+erdbeben1
+selten2 erdbeben1
+oft1
+einmal1 ich1 gewesen1 erdbeben1
+$num-teen1:9 $num-zehner2:7 früher1 einmal1
+erdbeben1 kurz3
+$index1 mehr1 dünn5 erdbeben1 leicht1 zickzack-verlauf1
+leicht1 immer4 klar1
+nicht3 kreis2
+$gest-abwinken1
+$gest-abwinken1 ich1 dickkopf1
+$index1
+ich1 papst1 ich1 nicht-gern1
+ich1 plötzlich4 ich1 vor-kurzem1 gewesen2 ich1 dort1 $num-einer1:1 taub-gehörlos1 erzählen3 $index1 sagen1 $index1 jetzt3 papst1 $index1 $alpha1:b diese2 $index1
+besser1 anders4 $alpha1:j besser1
+$index1 sehen1 $index1 warm2 herz1
+gewesen1 schütteln-hand5 taub-gehörlos1 person1 schütteln1
+sehen1 gut1
+$index1 gefühl3 vergleich2 ob3 unterschied1 unterschied1 verhalten1 $index1
+ich1 $prod
+ich1 nicht3 hobby1 ich1 nicht3
+$oral sehen1 $index1 $index1 unterschied1 bild2
+$index1 $index1 warm2 $index1 normal1 bereich1
+$index1 mehr1 zeigen1 mehr1
+$index1 kaum1 zeigen1
+$oral ich1 wundern1 gewesen1 $index1 schiessen1 gewesen1 $index1
+was1
+auch1 ärgern-sich4 auch1 was1
+manchmal1 später4 auch1 glas1 $prod
+sehr6 $index1 $prod
+$index1 ohne1 öffentlich1 $gest
+unterschied1 $gest
+möglich2 $index1 haben-besitzen1 gegen1 $index1 haben-besitzen1 gegen1 $index1 $index1 unschuldig1 $gest
+richtig1 mensch3 haltung-körper1 einteilen1 richtig1
+$index1 einteilen1 modern1 möglich2
+ich1 wissen2 ich1 nicht3 $gest-nm-schulterzucken1
+ich1 thema1 ich1 interesse-nicht1
+ddr4
+wann1
+$num-teen1:9 $num-einer1:4 $num-zehner1:7
+selbst1 ich1 klein5 sehen-auf3 fernseher1 $index1 wissen2 ich1 $index1 wissen2 ich1 nicht1
+sehen-auf3 $gest
+ich1 früher1 kein3 wahrnehmung1 erfahrung2 über1 fussball1
+keine-ahnung1 ich1
+$gest-nm-kopfschütteln1
+ich1 keine-ahnung1 fussball1 nicht3 wirklich2 ich1 $gest
+$index1
+nur2 $index1
+$num-einer1:4 $num-zehner2:9 glauben2 ich1
+$num-einer1:4 $num-zehner2:9 oder1 $num-einer1:6 $num-zehner2:9
+$gest wissen2 ich1 erstens1 sohn1 jetzt3 geburt1 fernseher1 $index1 fussball1 welt1 fussball1 sehen-auf3
+$gest ende1
+$index1 auch1 $num-einer1:4 $num-zehner1:9 aber1 $init-kreis1 trinken1 $init-gerade1 $num-zehner1:9 gold3 $num-zehner1:9
+$prod ausziehen4
+$init-kreis1 ich1
+
+fertig1
+sonst1 nicht1
+bald2 $gest-aufmerksamkeit1 bald2 $gest welt1 fragezeichen2
+$index1 wie-frage-vergleich1 pflege1
+wie-frage-vergleich1 $index1
+bekommen1 $index1 pflege1
+bekommen1 finanzierung1 bekommen1
+was1
+wie4 sorgen-sich1 $gest regen2
+nur2 regen2 harmlos1 $index1
+nein1 wirklich2 hoch1
+da1 haben-existieren1 regen2 gross11 fliessen-strahl1 da1
+nicht3 genug2
+schrumpfen1
+zeitung1 schon1 zeitung1
+fernseher1 ich1 sehen-auf3
+das-ist-alles1
+ich1 besuchen1 kein7 ich2
+ich1 besuchen1 wer6
+leute2 da1
+darum1 zeitung1 lesen-zeitung1
+fernseher1 sehen-auf3
+ich1 $index1 fernseher1 wahr2
+ja1 wahr2
+sehen-auf3 sorgen-sich1 $gest
+das-ist-alles1
+$index1 war1 $index1 war1 $index1 schön1 $index1 köln2
+sehen-auf4
+$list1:1of1 $index1 thema1 über1 vortrag1 frau1 thema1 oder1
+sehr6 sehen-auf4 aber1 schaffen1 ich1 nicht3 alles1
+sehr7 friseur1 taub-gehörlos1 $index1 sehr7
+$index2 vorstellung1 $index1 $gest
+sehr7 auch1 über1 $index1 blitz-foto1 zeigen1 wie-frage-vergleich1 ich1 sehen-auf3 sehr7
+ich2 wünschen1 neu4 blitz-foto1 $gest sehen-auf3 information1 $index1 sehr6
+einfach1 handy2 neu4 modell1
+empfehlen1 diese2 ich1 sehen-auf3
+ich2 schaffen1 nicht3
+aber1 selbst1 stehen1 foto1 $index1 taub-gehörlos1 $index1 sehr7
+kann1 vorstellung1 es-gibt1
+$index1
+sonne-brennt1
+ich1 hoffen1 $index1 untertitel2 bleiben2 durch1 schaffen1
+aber1 schwer1 wissen2 $gest
+auch1 vorstellung1 sehr7
+auch1 tanzen1 veranstaltung1 auch1 finden1 schön1 $index1
+vortrag1 $index1 einteilen1 okay1
+soll1 sehr7 vorstellung1 bereich1 $gest
+ich2 aufzählen1 $index2 ich2 dabei1
+$gest
+durst2 sehr7 stimmt1
+ja2
+ja2
+$gest
+ich1 dabei1 dorthin-gehen1
+erstens1 ich1 köln2 ich1 erstens1 ich1 $gest
+hören2 gut1
+als4 gebärden1 sagen1 $index1 $gest-abwinken1 vorher3 besser1 $index1
+ich1 sehen-auf3 aber1 ich1 kognition2 ich1 aber1
+$gest abend2 sehr7 leiden2 ohne2 trinken1 $gest
+schluss3 $prod haben-besitzen1 schlange-personen1
+sehr7 $gest
+hauptsächlich2 $index1 $gest tag1 alle1 gehören1 sehr3 schön1 $index1
+nur2 abend1 $index1 $gest
+$gest
+stimmt1
+$gest
+hand1 erfolg1 ich2 dabei1 ich2 $gest ich2 dabei1 ich2 $gest
+klar1
+
+ich2 dabei1 nichts1
+theater4 damals1 ja1
+jetzt1 eben-zeit1 kein7 dabei1
+damals1 dortmund1 $index1 gewesen1 theater4 ich1 dorthin-gehen1 mein1 eltern1 $index1 begleiten2
+war1 schön1 theater4
+war1 alt2 zeit7 dortmund1 gut1 $gest
+aussen1 still3 $gest
+ich2 wissen2 warum1 was1 $gest
+ich1 dabei1 ich1
+soll1 verschieben4
+ich2 nichts1 erfahren1 nichts1
+$gest
+aber1 $index1 $num-woche-vor-jetzt1:1 $num-woche-vor-jetzt1:2 schon1 theater4 jetzt1 $index1 jetzt1 rendsburg1 gleich8 stimmt1
+$index1 vor-kurzem1 stimmt1 achtung1
+
+$gest $index1
+kultur1 ohne1 wort2 ich1 dabei1
+nur2 tag1 ich1
+schon1
+ich2 dabei1 ich1
+du1 wenn1 du1 war1 hamburg2 $index1 sehr7 anders1 $index1 vergleich1 anders2
+hamburg2 $index1 besser1 organisieren2 super1 $index1
+kann1 alle1 bekommen1 programm1
+$index1 $gest klein2 in-der-klemme-stecken2
+$gest-nm-kopfnicken1
+warten1 $gest
+$gest-aufmerksamkeit1 es-gibt3 mann1 theater6
+was1 es-gibt3 programm1 was1 $index1 was-bedeutet1 $index1 dabei1
+deutsch1 taub-gehörlos1 theater6 taub-gehörlos1 sein-ihr1
+eigentlich1 $index1 greifen1 kommen1 nicht3 $index1
+entschuldigung1
+selbst1 termin1 kann1 kommen1 stimmt1 du1
+auflösung1
+achtung1 gehören1 begreifen1 denken1 selbst1 termin1 $index1 auflösung1
+$gest-abwinken1
+toll1 $gest plan2 organisieren2 super1 $gest
+damals1 dabei1 schon1 letzte1 ich2 $num-jahr-vor-jetzt1:4 $num-jahr-vor-jetzt1:3 $num-jahr-vor-jetzt1:4 letzte1
+bis-heute2 $gest
+$gest-nm-kopfnicken1 $oral
+wichtig1 pflege1 mehr1 unterhaltung1
+zuhause2 ohr1 aus-zu1 nein1 kontakt2 ja2
+basar1 $index1 hamburg2 auch1 $gest
+dasselbe2 $gest beere1 fest-feier3 $index1 hamburg2 $gest
+dazu1 auch1 $index1 es-gibt3 $gest-überlegen3 faust1 fan2 feiern1 $index1 es-gibt3 $index1
+veranstaltung1 $index1 es-gibt3
+hamburg2 viel1 programm1 als4 kiel1 $index1
+ausfallen1
+warum1 $gest
+krone1 durch2 nerven1 und2 $alpha1:p paparazzi1
+$index1 nerven1 verstecken2 allein1 ich2 weg-entfernen1 privat2 fort1 $index1 wünschen1
+deshalb1 kampf1 warten1
+anders1 aussen1 tür1 draussen1 masse-person-aktiv2
+dann1 fort1 auch1 folgen1
+$prod
+probe1 versuchen2 $index1 tempo1 $index1 schnell3 fahren1 mann1 chauffeur1 muss1 lösung3 schnell3 $prod
+irgendwie1 gewitter1 ein1 auto1 $prod
+farbe1 weiss1 selbst1
+bisher1 nicht1 finden1 forschung1
+$prod plötzlich4 $prod wie-frage-vergleich1 $prod orientierung1 $prod $prod und-dann2 $prod ende1
+krone1 über1 überleben1 $index1
+aber1 später10 krankenhaus1 versuchen1 kampf1 schaffen1 nicht1 sterben2
+innen1 voll2 innen1 blut1 körper1
+aussichtslos3 rettung1 sterben2 ende1
+ich1 wundern1 chauffeur1 eigentlich1 technik1 und2 mercedes2 $prod stabil1
+stossen1 merkwürdig1
+ich1 erfahren1 $index1 chauffeur1 diese2 haben-existieren1 schon1 vor1 haschisch2 droge1 schon1 da1
+um2 sagen1 anders2 auch1 alkohol2
+verwechseln1 ich2 klar1
+und2 $num-einer1:1 $index1 $prod wer2 $index1 erwischen1 bisher1 nichts1 klar1
+und2 paparazzi1
+verkaufen1 darf2 nicht3 auf-person1 verletzung1 liegen-bein1 paparazzi1 erfolg1 verkaufen1 $index-oral1 verboten1
+aber1 gesamt1 ergebnis1 $wortteil-un3 klar1
+ich1 wollen2 ich1 wissen2 nichts1 klar1
+$index1 vermuten2 vermuten2 $index1 mord2
+verdacht1 anders2 $index1 $alpha1:c haben1 auftrag1
+drehen8 nichts1 lösung2 kein1 lösung3
+ablauf1 $gest-ich-weiss-nicht1
+grausam5
+verschieden1 $index1 um2
+schon1 lang-zeit5 vorbei2 das-ist-alles1 $index1 weiter1
+und2 berühmt1 könig1 $index2 prinz1 berühmt1 fan2 liebe1 alle2 welt1 liebe1 über2
+du1 nächste1 armer1 $gest-zustimmung1
+nächste1 schlimm3 armer1 beerdigung1 $index1 ablehnen1 fahne1 fahne1
+kampf1 nachgeben1 fahne1 halb3 fahne1
+frech3 $index1 gegen1 $index1 gegen1 auf-person1 $index1
+$index1 toll1
+schmutzig2 nicht3 $index1
+anfang1 handschuh2 interesse1 ablehnen2 anfassen1 umarmen2 lieb1 umarmen2
+$index1 $gest-nm kritisieren1
+später6 zugeben1 schweigen3 alle1 schock1 begeistert1 überall1 berühmt1 $index1
+$gest-nm sich-mit-etwas-abfinden2 $wortteil-un3 zufrieden8 geh-weg1 ich1 beste1 $index1 sich-mit-etwas-abfinden2
+nächste1 ein1 verwandt1 $index1 $alpha1:f $alpha1:f $index1 feind1
+grund4 schuh5 pilz1 anstecken1 nervös1 feind1
+tod2 in-bedrängnis-sein1 wohl1 $index1 stimmt1 wollen7 austauschen1 aus-vorbei1 lassen2
+aus-vorbei1 entwickeln1 beispiel1 alle1 nur2 mann1 beerdigung1 sitzen2
+obwohl2 vater1 $index1 anführungszeichen2 schwager2 schwager1 vater1 mit1 sitzen1
+$index1 $alpha1:s $index1 frau1 $index1 könig1 $index1 $alpha1:s $index1 nicht3 $index1 mit2 $index1 zurücktreten1
+$index2 masse-person-aktiv2 $prod $prod toll1
+$index2
+nichts-damit-zu-tun-haben-wollen3 schlimm3 erlebnis1 geschichte3 $gest-ruhig-bleiben1
+$alpha1:d armer1 viel1 alles1 $gest-nm
+ich1 sehen1 $alpha1:w ähnlich1 mama10 erben2 $index1 ähnlich1 ähnlich1
+aber1 sohn1 $index1 echt1 von4 vater1 $alpha1:c $index1 nicht3 anders2 $index1 mann1
+$gest-ich-weiss-nicht1 nichts-damit-zu-tun-haben-wollen3 diskussion1 nichts-damit-zu-tun-haben-wollen3 ich1 interesse1 nicht5 sein-ihr1 problem1 ich1 unser1 nicht3
+besonders1 $alpha1:d armer1 person1
+jung1
+verlieren1
+selbst1 könig1 $gest-zustimmung1 $alpha1:d krone1 kann1 gebärden1
+taub-gehörlos1 besuchen2 gebärden1 $index1 kann1 gebärden1
+verlieren1
+sehr6 gänsehaut1 betroffen2
+glauben2 sehen-auf2 $alpha1:d tod2 glauben2
+ich1 wie7
+brauchen1 person1
+ich1 wie7 brauchen1
+stimmt1
+ich2 wie7 brauchen1 ich2 $index1 wie4
+ich1 grund4 nichts1 $index2 kein7 grund4
+helfen1 ich2 kein9 $index1 sehr6 viel1 helfen1
+$index1 bewusst1 da1
+gebärden1 verstehen1 behinderung1 für1 akzeptieren1 aufzählen1 $index1 gefühl1
+aber1 $index1 plötzlich4 krank1 aids1 oder4 $list1:2of2 krebs1 $list1:2of2 verletzung1 schneiden-trennen-körperteil1
+$index1 benutzen1 umarmen2 benutzen1 handschuh2 nicht3 ohne1
+$index1 ich1 sehr7 gänsehaut1
+tod2 $gest tod2 nein1 glauben2 nicht3
+ich1 warum1 stossen1
+ich1 glauben2 nicht3
+traurig2 sehr6
+auflösung1 ab1
+du1 $alpha1:d diese2 kind1 geburt1 wollen7 kümmern1 behalten4
+baby1 babysitter2 weg-entfernen1
+$index1 könig1 $index1 muss1 babysitter2 werfen1 $index1 nein2 muss1 arbeiten2 schicken1 werfen1
+$index1 $gest-nm ich1 kind2 ich2 werfen1 arbeiten2 nein2 nicht3 frage1
+kampf2 $index1 kritisieren1
+du1 klar1 warum1 selbst1 kein5 könig1 prinz1 $index1 früher1 kein8
+$index1 könig1 mit1 entwickeln1 geburt1 ablauf1 nicht3 ablauf1 geh-weg1 ablauf1 einsetzen1 ablauf1
+schmerz3 sehr7
+ich2 anders1
+ich2 ende1 fort1 kollege1 frage1 auf-person1 $gest-abwinken1 sehr6 grausam5
+$gest-nm $gest-nm $gest-nm
+du1 kalt2
+$gest-hand-auf-brust1
+bedeutung1 gegen1 behinderung1 was1
+ich2 lassen1 spazieren1 ignorieren2 spazieren1
+anders2 $index1 geschichte2 schlimm3 $index1 anders1 person1 nicht3 kalt2
+
+weiter1 presse1 bisher1 noch4 weiter1 egal3
+beliebt1 achtung1 automatisch2 bleiben3 weiter1
+auch1 $alpha1:d $index1 später3 $index1 $num-zehner2:6 $num-zehner2:5 wie-sieht-aus1 alt8 form1 schrumpfen1 falte1 ich1
+$index1 fotoapparat1 dazu1 voraus1 lustig1
+toll1 du1
+dasselbe2 anders1 gehören1
+dasselbe2 oder4 anders1 erfinden1 gehören1
+stimmt1
+selbst2 gebärden1 $gest
+dasselbe2 $index1 oder4 anders1
+ich1 gegen1
+ich1 gegen1
+tut-mir-leid3 gegen1
+du1 sagen1 geburt1 taub-gehörlos1 oder2 $alpha1:f taub-gehörlos1 auswahl1
+sagen1 meinung1 dein1
+okay1
+okay1 stimmt1
+stimmt1 okay1
+super4
+$gest
+klappt1 selbst2 klappt1 nicht3 kind1 $gest
+es-gibt3 $oral es-gibt3 befruchtung3 $prod befruchtung3
+aber1 selbst1 sagen1 thema1 quatsch1 $index1
+untersuchung2 zelle1 $num-einer1:1 taub-gehörlos1 $prod
+quatsch1
+wahr2 gut1 schön1 $index1 für1 taub-gehörlos1 welt1 ausbreiten1
+taub-gehörlos1 welt1
+gebärden1 hörend1 $prod $gest-nm-schulterzucken1
+leider1 nicht3
+möglich1
+klappt1 nicht3 ich1 wünschen1 zukunft1 möglich1
+welt1 welt2 taub-gehörlos1 möglich1 zukunft1
+wünschen1 ich1
+mögen4 nicht3
+mögen4 ci1 mögen4 nicht3
+$gest-nm-kopfwippen1 ci1 gefühl3 ich1 wie4 gewalt1
+$gest-nm für1 ci1 vorteil1 $index1
+bisschen2 hören1 gut1 kann1
+$gest
+warum1 baby1 $prod
+baby1 $prod
+weich1 schädel1
+schädel1 schädel1 weich1
+einfach1 operation1 einfach1 gehören1
+ändern1 selbst1 kind1 wohl1 ci1 oder1 nicht3
+ich1 schwierig1 $gest-vorsichtig1 $oral
+gut5
+stimmt1
+$oral $oral
+was1 sagen1
+interesse1 thema1
+ich1 gehören1 interesse1 thema1
+mauer1 mauerfall2
+interesse1 thema1 mauer1 mauerfall2
+kennen1 du1 geschichte3 damals1 mauer1 mauerfall2
+kennen1
+stimmt2
+ich1 meinung1 ich1 frage1 $index1 mauer1 mauerfall2 lohnen1 oder1 nicht3 mauer1 bleiben2
+dein1 vorstellung1
+moment1 osten1 anders1 gebärdensprache1 gehören1 westen1 anders1 gebärdensprache1
+ineinandergreifen1
+ich1 selbst1 sagen1 $num-einer1:1 einheit2 gut4
+osten1 armer1 wirtschaft1 krise1
+heute1 besser1
+schon1 $num-zehner2:2 year-asl1 besser1
+hoffen1 irgendwann1 gleich8 einheit2
+$oral
+selbst1 vergleich2 ich1 westen1 deutsch1 schreiben1 gehören1 osten1 deutsch1 schreiben1 vergleich1 vergleich2
+ich1 schon1 $index1 bald5 lang-zeit4
+plötzlich4 bekommen1 bildung1 titel-person1 vor1 bildung1 $index1 schwerin2 $alpha1:i
+ich1 einsteigen1
+$index1 buch1 deutsch1 buch1 ich2 $prod
+$index1 wie4 geschichte1 ich2 $num-teen1:9 und2 ungefähr1 $num-einer1:4 $num-einer1:5 $num-zehner2:7 $num-teen1:9 und2 $num-zehner2:7 gleich1 westen1 schreiben1
+ich1 $index1 $gest-nm wie4 früher1 westen1 unterschreiben1
+ich1 kennen1
+ich1 lesen2 interesse1
+westen1 neu1 wort3 $prod oben2
+ich1 $index1 osten1 angenehm1
+ich1 deutsch1 schreiben1 angenehm1 wahrnehmen-ohr1
+stimmt1 meinung1 was1
+bedeutung1 gehören1 osten1 $index1 westen1
+westen1
+sagen1 $gest-ruhig-bleiben1
+aber1 osten1 $index1 schreiben1 dasselbe2 mein1 lehrer1 unterrichten1
+dasselbe2 satz2
+ich1 deutsch1 wahrnehmung3
+kennen1 wahrnehmung3
+gesamt1 keine-lust1 ich2 gebärden4
+bis2 osten1 $prod $gest-nm beide2 westen1 unterrichten1 ich1 satz2 dasselbe2
+ich1 schön1 $index1 schreiben1 schön1
+wahr1 toll1 $index1
+begeistert1 ich2 super1
+früher1 $num-teen1:9
+dabei1 du1
+dabei1 $num-teen1:9 und2 $num-einer1:6 $num-einer1:7
+jung1 fest-feier1 sport1 fest-feier1 in1 berlin1
+du1 dabei1
+zusammen3 husum1 $index1 $init-gerade1 bus1
+$prod $index1
+$prod autobahn1 sehr7 $prod
+erinnerung3 du1
+$prod
+sehr7
+pause1 $prod test1 anschauen1
+sehr7
+wir1 bedürfnis1 essen1 bestellen1 wurst1
+wurst1 $prod ekel4
+bier1
+
+schäbig1
+$gest sehr-viel2 $alpha2:d $alpha1:r bereich1 sehr-viel2
+$prod bis1 fertig1 berlin1 mauer1
+sehr-viel2 prüfen1 sehr-viel2
+hineingehen1
+kann2 ablauf1 vergleich1 $num-teen2:9 und2 $num-einer1:5 $num-zehner2:9 familie1 kind2 alle3 aktion1 fahren1
+ich1 nach2 berlin1
+fahren1 $prod
+teil1 bau1 teil1 alt5 $prod
+besser1
+schlecht1
+leider1 $prod noch4
+bau1
+$prod ankommen1 berlin1
+potsdam1 $index4 potsdam1
+sehr6 sauber-machen1
+alt5 $prod
+alt5 strassenbahn1 wimmeln1
+ich1 begeistert1 bereich1
+letzte1 tag-zurück1 $index1 $num-tausender1:2
+$num-einer1:3 $num-einer1:7 $num-einer1:6
+ungefähr1
+berlin1 $index1 modern1
+bau1 bereich1
+autobahn1 praktisch1
+$prod schnell3
+ich1 erinnerung3 ich1 tag-zurück1 $num-tausender1:2 $num-einer1:9 tag-zurück1 motorrad1 ich2
+mögen4 osten1 anders1 landschaft2
+ich1 schauen1 motorrad1 ich1 warten1 beobachten4 wo2 bleiben3 ddr2
+wissen2
+motorrad1 erblicken1 lampe1 $prod ich1 anschauen3 mögen4
+alt5 bleiben2
+motorrad1 alt5 haus1 zerfallen1
+$prod modern1 endlich3 alt5 noch4 ddr2
+produzieren2 ich1 beobachten4 produzieren2
+aber1 leider1 viel1 $alpha1:r $prod
+ich1 beobachten4
+sehr6
+motorrad1 strasse1 einfach1 $prod einfach1
+aber1 um-die-ecke1 dorf3 um-die-ecke1 sehr6 zerfallen1
+ich1 motorrad1 $prod
+ich1 für1 begeistert1 ich1
+gut1 frage1
+super1
+wirklich1
+wirklich1 wirklich1 ich1 besuchen1 freund1 $index1 besuchen1
+grenze1
+ich1 vergessen1 ich1
+wissen2 ich1 $num-teen1:9 $num-hundert3 $num-doppel1:8 oder1 $num-einer1:9 $num-zehner2:8 zwischen1
+genau1 $index1 monat1 halb6 glauben2 ungefähr1 halb6 vor1
+ich1 denken1 da1 mauer1 sehen1 echt1 mauer1 aufsicht1 $prod ich1 $prod sagen1 muss1 bald2 irgendwann1 muss1 mauer1 weg-verschwinden1
+muss1 irgendwann1
+stimmt1 mauerfall2
+stimmt1 ich1
+erschöpfung3 bisschen2 froh1 ich1
+bisschen2 froh1
+für1 sehen1 ddr2 bereich1 sehr6 wie3 isolation1
+sehr6 rund4 bereich1 sehr-viel1
+mauerfall2 frei2
+leider1 land1 sehr-viel2
+beide2 westen1 reich3 osten1 armut2 $prod
+sehr-viel2
+ich1 gefühl3 jahr1 $num-zehner2:2 jahr1 $prod
+$oral osten1 sehr-viel2
+niemals2 vergessen1 ich1 osten1 sehr-viel2 über1 $num-zehner2:2 prozent1 arbeitslos1
+sehr6
+westen1 schön1 unter1
+$num-einer1:7
+lassen1 umgekehrt1 $num-einer1:2 komma1 $num-einer1:5 bis1 $num-einer1:3 $num-million1
+schön1
+osten1 mauerfall2 wirtschaft4 mahlen1 $prod
+zusammen1 sehr-viel2
+warten1 auf9 osten1 besser1 fördern1
+warten1 $prod
+hoffen1 irgendwann1 ende1
+bleiben3 gut1 wissen2 $gest-ruhig-bleiben1 osten1
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+$oral früher1 zeit7 $num-einer1:5 $num-zehner2:9 zwischen1 sehr6 wirtschaft2 kaputt4
+westen1 bereich1 sehr6 alle3 für1
+viel1 arbeitslos1 sehr-viel2
+heute1 hoffen1 nicht-mehr1 nicht4 wieder1 zurück1
+bitte2 nicht3 vorne1 wirtschaft1 bleiben3 $prod
+früher1 deutsch1 mark2 stimmt1
+damals1 deutsch1 mark2
+$index1 super1
+geschäft-handel1 super1
+euro1 krise1
+früher1 billig5 milch2
+billig5
+$num-zehner2:7 pfennig1 ungefähr1 $num-zehner2:7 pfennig1
+heute1
+dasselbe2
+sehr6 teuer1 bereich1 aushalten1
+lohn1 normal1 geteilt-durch2 $num-einer1:2
+ungefähr1
+wenig4 lebensmittel2 mehr4 $prod dasselbe2
+besonders1 $index1 sehr-viel2
+
+früher1 gut1 nicht3 gut1
+zeit7
+tanken2 wissen2 tanken2
+früher1 über1 $num-einer1:7 $num-zehner2:7 $num-zehner2:8 $num-zehner2:9 ungefähr2 $num-zehner2:9 cent1
+$index1 tanken2 praktisch1
+früher1 gut1 viel1 fahren1
+abenteuer1 überall1
+schön1
+euro1 halb6 verringern1
+ich1 verstehen1 $index1 sagen1 ob2 arbeiten1 assistenz1 oder1
+kommunikation1
+unterschied1
+dasselbe2 assistenz1 ähnlich1 ungefähr2 assistenz1
+aber1 nicht-mehr1 nicht3 bildung1 wie3
+lassen1
+nicht3 meinung1
+klar1
+$gest
+wie4 anführungszeichen2 ohne1 $prod oder1 staat1 ohne1 kommunikation1 wie4 stimmt1
+$gest-nm-kopfnicken1
+moment2
+dgs1
+$alpha1:d deutsch1 gebärdensprache1
+pur1 gebärden1
+stimmt1
+$index1 aussen1 dolmetscher1 brauchen1 anerkennen1 blatt-papier1
+anerkennen1 $index1 pur1 gebärden1 gut1 gehören1 $index1
+aussen1 einfach1
+wie4 familie1 bereich1 familie1
+einfach1 besuchen1 einfach1
+okay1
+beispiel1 eltern1 abend1 einfach1
+okay1
+aussen1 $index1 stimmt1 rein1 arzt1 handlung3
+$list1:2of2 gericht1
+
+$gest genau1 $gest-abwinken1
+$gest-nm-kopfnicken1
+beispiel1 arzt1 vorteil1 krankenkasse1 bezahlen1 abgeben1
+muss1 bezahlen1
+achtung1 gericht1 teil1 staat1 oder5 schuld3 selbst1 geben-geld3
+unterschied1
+aber1 $index1 integration1 amt1 integration1 amt1 auftrag1 für2 antrag1 geben-geld5
+$index1 wenn1 $index1 ablehnen2 firma1 geben-geld3
+firma1 ich1 ab1
+unterschied1
+warum1
+wenig4 information3
+wenig4
+muss1 richtig1 information3 $index1
+firma1 begreifen1 vorher4 ich1 antrag1 bezahlen1 geld1
+$index1 dolmetscher1 da1
+taub-gehörlos1 brauchen1 mehr1 kommunikation1
+brauchen1 dolmetscher1 wahrnehmen-auge1
+brauchen1
+kein9 etwas-nicht-mitbekommen1 schief1
+selbst1 brauchen1 dolmetscher1
+wenn1 ohne1 dolmetscher1 schlecht2
+kann1 du1 nicht-mehr1 dolmetscher1 klappt1 $index1 kann2 $index1 kollege1 $index1
+$index1 versammlung1 fertig1 raum1 anders1 fertig1 treffen2
+was-bedeutet1 $index1 $prod verstehen1 ich1 beide2 verstehen1 kommunikation1 verstehen1
+ich1 genug2 selbst1 erklären1
+nur2 wort1 erklären1 fertig1
+aber1 streicheln1 besser1 dolmetscher1 einsetzen1
+besser1
+moment2 verstehen1 dein1 dolmetscher1 oder1 kollege1
+dolmetscher1
+ohne1
+$index1 besser1
+beide2 $gest-nm-kopfschütteln1
+auf-person1 treffen2
+tief1 gebärden4
+wenn1 $prod wissen2 $index1 merken2 wissen2 $prod sehen-auf-gegenseitig1
+muss1 sagen4 nicht3 beide2 bescheid1
+aber1 dolmetscher1 da1 besser1
+$gest-nm-kopfnicken1
+termin1 anders1 termin1 abmachen1
+wenn1 not1 da1 muss1 anders1 termin1 abmachen1
+möglich1
+möglich1
+termin1 $index1 gericht1 so1 gericht1 $index1 $index1 erledigen1 da2 finden1 $oral $num-einer1:1 fehlen1 dolmetscher1 kann1 anders1 termin1 verschieben4
+so1
+$gest gut1
+selbst1 schon1 leben1
+ich1 gefühl3 leben1 sehr6 kommunikation1 arzt1 sehr6 ich1
+einfach1 schriftlich1 schicken2 dolmetscher1 termin1 schicken2
+woher1 $prod gehören1 termin1 frei1
+$index1 egal3 $prod $gest $index1 sofort6 zusammen-person1 begleiten1
+termin1 klappt1
+ich1 wünschen1 ich1 $prod $index1 klappt1 nicht3 $prod
+einfach1 schicken2 selbst1 termin1 frei1
+ich1 bescheid1 chef1 bescheid1 ich1 muss1 arzt1 termin1 zusammen-person2
+klappt1
+aber1 sagen1 plötzlich4 körper1 brauchen1 heute1 bescheid1 kann1
+problem2
+beispiel1 bedeutung1 dolmetscher1 holen1
+ungefähr2 teil1 gut1 teil1 nicht3
+beispiel1 $index1
+beispiel1 mein1 arbeiten1 platz3 sagen1 arbeiten1 platz3 $index1
+früher1 firma1 $index1 anerkennen1 noch-nicht2 dolmetscher1 anerkennen1 noch-nicht2
+schwer1 schicken2 ungefähr1 holen1 dolmetscher1 $gest
+irgendwo1 verschwunden1 $index1 umziehen1 neu1 arbeiten1 platz3
+erstes-mal3 mal3 arbeiten1 assistenz1 bekommen2
+erstes-mal3 arbeiten1 assistenz1 noch-nicht2 es-läuft1 noch-nicht2
+aber1 mein1 kollege1 einstellen-arbeit1 dolmetscher1
+selbst1 wohl1 gefühl3
+$prod ich1 kollege1 $prod nein1
+warten1 arbeiten1 assistenz1 werfen1 bekommen2 ich1 richtig1 dolmetscher1 einsetzen1
+sinn1 voll2 ich1
+sinn1 voll2 gebärden2 treffen2 neutral1 einsetzen1
+ich1 ich1 super1
+kollege1 $index1 kann1 gebärden2 kann1
+$prod dolmetscher1 für1 nicht4 ich1
+$index1 trennen1
+$index1 aber1 bereich1 kommunikation1
+aber1 gewesen1 gruppe3 anders1 ich1 neutral1 dolmetscher1 einstellen-arbeit1
+ich1 bis-jetzt1 angenehm2
+$oral
+beispiel1 du1 beispiel1 dolmetscher1 schicken2 termin1 schicken2
+kommen1 $index1 lassen1
+wenn1 verstehen-nicht1 kommunikation1 verstehen-nicht1 du1 schicken2 bescheid1 person1 klappt1 nicht3
+bitte1 person1 nicht-mehr1 anders1 aussen1 dolmetscher1 bescheid1
+ich1 immer4 mein1 immer4 $num-einer1:1 person1 stamm4
+ich1 $gest-nm-kopfschütteln1 person1 stamm4
+aufzählen1 okay1
+aber1 gut1 ich1 person1 umziehen1 bestimmt1
+bedeutung1 thema1 gut1
+auch3 dolmetscher1 dasselbe2 $prod $prod
+arbeiten2 assistenz1 bedeutung1 für1 schreiben1 deutsch1 übersetzen1 für1
+beispiel1 problem2 da1 unterhaltung1 problem2 arbeiten2 assistenz1 für1 anrufen1 beispiel1 anrufen1
+$index1 thema1 assistenz1 $index1 sowieso1 $index1 dolmetscher1 sowieso1 in-enthalten2
+dolmetscher1 $index1 nur2 $prod gebärden1 $prod
+$prod $prod klappt1
+$gest du1 erlebnis1 arbeiten2 assistenz1 du1 erlebnis1
+arbeiten2 platz3 bekommen3 ich1 sehr3 froh1 ich1
+arbeiten1 assistenz1 praktisch1
+ja2 wünschen1 zukunft1 alle3
+taub-gehörlos1 brauchen1 arbeiten2 assistenz1
+immer4 $num-ord1:3 woche1
+$num-ord1:3 woche1 woche4 fach1
+$num-ord1:4 nein1 $num-ord1:3 $index1
+verschieben3
+$num-ord1:3 fest1
+$num-einer1:1 $num-zehner2:2 bis1 $num-einer1:4 $num-zehner2:2 phase1 $num-ord1:3 woche1 $gest-nm-kopfnicken1
+stimmt1
+$gest-nm-kopfnicken1
+schon3 kiel1 woche1 tradition3 über1 $num-hunderter1:1 $num-einer1:5 $num-zehner1:2 ungefähr1 vor1
+zuerst1 segeln1
+später5 festival2 masse-person-aktiv1 $prod
+später5 telesign1 masse-person-aktiv1
+$oral
+russland2
+welt1 masse-person-aktiv1
+international1
+$alpha1:h
+international1 ort1 rund3
+$oral
+$oral
+heissen1 tradition2 kiel1 taub-gehörlos1 zentrum1 $index1 $index1 sommer10 fest-feier1
+inklusiv3 kind2 spielen1 wimmeln1
+ablauf1 masse-person-aktiv1 immer4 für1 taub-gehörlos1 kultur1 bereich1
+$oral
+$index1 $prod
+kennen1 $prod
+$index1 fisch2
+fest-feier1 hafen2
+fisch2 fest-feier1 und2 hafen2 fest-feier1 bereich1
+$oral schmal-dünn1
+$gest-abwinken1 $oral
+winkel1 $index1 bekannt1 fisch3 finden1 fest-feier1 bereich1 fisch2 fest-feier1
+winkel1 $gest-nm-kopfnicken1
+früher1 bis1 toll1
+taub-gehörlos1 zusammen1 aktiv1
+selbst2 glauben2 ich1 $num-einer1:3 $index1 $num-einer1:4 mal3 schlagen1 hin-und-her1
+für1 wie4 anführungszeichen1 freund1 beide2 schütteln-hand5 zusammen1
+ich1 erstes-mal3 eintreten1
+für1 organisieren2
+sehr6 $num-zehner2:3 $num-zehner2:3 alle3 taub-gehörlos1 kultur1 zusammen1 schiff1
+billig5 schiff1
+$index1 alt5 $prod schiff1
+geld1 schiff1 preis3 halb6 $gest-nm-kopfnicken1 technik1 klappt1
+$prod integration1
+schiff1
+werfen1 mit1 auto1 $prod
+schiff1 okay1 aussteigen1
+$prod
+glauben2 $num-einer1:5 auto1 folgen1 reihe1 $num-einer1:5
+dazu1 $num-von-bis1 $index1 schlagen1 gehören1 auto1 privat1 kommen2 $prod
+einsteigen1
+zusammen1 $num-einer1:7 $num-einer1:8 schlange-personen1 $prod
+da1 schlagen1 spazieren1 irgendwo1 zurück1
+zeit7 schön3
+heute1 neu1 schiff1 teuer1 $index1
+schiff1 teuer1 modern1 gut3
+besser1 $index1 als1 alt5
+schön3
+$gest-nm-kopfnicken1
+wissen2 hoch3 see6 angeln1
+toll1
+$prod erbrechen3
+$prod
+angeln1 $prod
+gross4 fangen1
+super1
+schiff1 klein1 gross4
+klein1 $prod
+kann1 ungefähr3 $num-zehner2:2 bis1 $num-zehner2:5 person1 ehren1 person1
+verschieden1 gross4 klein1
+toll1
+schiff1 weit-sehr1 stunde2 endlich2 angeln1
+viel1 spass1
+zurück1
+schön1 $index1 $gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+
+$oral stimmt1
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+pulver1 strand1 sehr6 tourist1
+masse-person-aktiv1 masse-person-aktiv2
+besonders1 zeit5 fach2
+phase3 masse-person-aktiv2
+sehr6
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+$oral
+haupt1 bekannt1 masse-person-aktiv2 vorteil1 nord1 osten1 und2 nord1 und2 osten1 nichts1 $prod schwimmen1
+heiss2 masse-person-aktiv1 schwimmen1 masse-person-aktiv1 schwimmen1
+viel1 $prod
+meistens1 nord1 ort3 person1 $oral
+interesse1 über1 ebbe1 und2 flut1
+interesse1 $index1
+$alpha1:w gesund1 fuss3
+meistens1 viel1 alt5 leute2 masse-person-aktiv1 $prod
+nicht3 schön3
+$alpha1:f schon1
+ich1 stimmt1 ich1 familie1 alle3 fahrrad1
+$prod zurück1
+ja2
+kennen1 du1 rendsburg2
+brücke1 $prod $prod
+nord1 und2 ort3 kanal1
+schön3
+achtung1 $prod
+kann1 besichtigen1 hier1
+besichtigen1 interesse1
+ich1 glauben2 sehen1 schiff1 $prod $gest
+darf1 $index1 museum1 besuchen1
+bescheid1 termin1 führen1
+dann1 $gest-nm $prod
+schiff1 nase1 $prod $alpha1:b $index1 $prod
+schon3 stehen1 $prod
+interesse1 besichtigen1
+führen1 $index1 motor1 schiff1 werfen1 und-so-weiter5 öffnen3 gross3 gross3
+sehr7
+vorstellung1 ich2 $index2
+interesse1 museum1 interesse1
+$alpha1:e $pms kanal1
+ja2 stimmt1
+schade1
+nord1 rund6 osten1 rund6 stopfen1 kanal1 abschnitt2
+
+$oral
+$gest-nm $alpha1:t
+$gest-nm-kopfnicken1
+alt5 $index1
+ab1 $num-teen1:9 kreuz1 unter1 $num-zehner2:6
+unter1 $gest-nm-kopfnicken1
+$gest-nm-kopfschütteln1
+später10
+$num-zehner2:5 zwischen1
+$index1 $gest-nm-kopfnicken1
+$oral wo3 wissen2 ich2 nicht1
+bereich1 wissen2 ich1
+$num-zehner2:6 später1 $gest-nm-kopfnicken1 $init-gerade1 brücke1 $index1 alt5
+vorher4 bereich1 ich2 $index1
+früher1 $index1 gegend1 früher1 pastor1 für1 taub-gehörlos1
+mehr1 ort3 lokal-gaststätte1
+$alpha1:l $prod
+viel1 $index1
+verringern1
+verein1 $prod
+$gest-nm-kopfnicken1
+$alpha-sk:s bis1 fahrrad1 $gest-nm-kopfnicken1
+vergangenheit1 plan2 stimmt1
+$oral irgendwie1 finanzierung1
+frage1 unbestimmt1
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+$num-einer1:7 $prod bekannt1 hemd3
+stimmt1
+bekannt1 $alpha $index2
+bekannt3
+masse-person-aktiv2 $alpha $index2
+$gest-nm-kopfnicken1 weihnachten4 markt6 sagen1 christ1 markt6 bereich1 toll1 $index1
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1 $gest-nm-kopfnicken1
+gleich1 $index1 kiel1 $index1
+dann1
+genau3
+segeln1 bekannt3 $index1
+travemünde-$kandidat-sh10 $index1 familie1 muskel3 familie1 bereich1
+in1 kiel1 verschwommen1 masse-person-aktiv1 bereich1
+stimmt1 $gest-nm-kopfnicken1
+$oral
+$oral
+nahe1 $prod $prod
+ich1 wundern1 wo3 anders1 $index1 $prod $gest-abwinken1 stimmt1 $gest-abwinken1
+nahe1 baden1 bereich1 $index1
+kanal1 $index1 fach2 $gest-nm-kopfnicken1
+$oral
+graben-vertiefung2
+$oral $gest-abwinken1 klappe1
+$index1 früher1 $init-gerade1
+handlung1 $prod dänemark1
+$prod $prod
+stimmt1
+$num-hunderter1:5
+$num-teen1:5
+stimmt1 $num-teen1:5 $num-hunderter1:1 krieg1 $prod handlung1
+stimmt1
+$gest-nm-kopfnicken1
+$oral schnabel3 $index1 neben1 $init-gerade1
+toll1
+$index1 viel1 tourist1 bereich1 schön3 $gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+empfehlen1 husum1 $index1
+husum1 $index1
+jahr1 $num-einer1:2 mal3 klein4 hafen2 klein4 markt6 klein4 fest-feier3 bereich1
+festival2 bereich1
+klein4 billig5 menge1 behälter5 behälter5
+lecker1
+$gest-nm-kopfnicken1 nahe1 rund3
+$index1 für1 lebensmittel2 transport1
+$prod
+sehr6 $prod
+mass2 mass2 behälter2
+packen2 transport1
+essen2 transport1
+wasser1 flach1 mass2
+auto1 nicht3
+fahrrad1 nicht3
+mass2
+$gest-nm-kopfnicken1
+$index1 bahn3 $prod neben1 weich1 krabbeln1
+kaffee2
+fertig1 schnell2 zurück1
+aufsteigen4 unten2 $index1
+$gest-nm-kopfnicken1
+fahrrad1 schicken1
+kann1
+rund6 rund3 fahrrad1 $prod
+$prod
+fahrrad1 $prod
+nur2
+wissen2 nicht3 nur2 kreis1 das-ist-alles1
+bahn3 $prod $index1
+$index1 anders2
+$gest-nm-kopfnicken1
+$oral
+vorsichtig2 streicheln1
+lang-zeit4
+$oral hauptsächlich1 aber1
+kiel1 mehr1 moment1 viel1 fisch1 nein1
+hauptsächlich1 $prod in1
+$prod husum1 $index1 $prod
+meistens1 dorf3 stellen-von-nach1 nahe1 bekannt1 ort1 irgendwo1
+fest1 fisch1
+besonders1 gegen2 bekannt1 $prod $prod klein2
+bekannt1 gehören1
+kiel1 bekannt1 hering1 bekannt1 gehören1
+oben1 unten1 $oral
+ungefähr1 ich1 verwechseln1 $gest-abwinken1
+meistens1 vergangenheit1 meistens1 hering1 bekannt1 bereich1 hauptsächlich1 hering1
+meistens1 torte1
+meistens1 meistens1 nahe1 pulver1 $index1
+meistens1 nahe1 bekannt1 anfassen1 $prod
+aber1 stadt2 sterben3 hose1
+stadt2 bereich1
+interesse1 an1 küste3
+klein12 schön3 $prod dorf3 $prod fest1 $prod
+schön3 essen1 kuchen9
+bekannt1 gehören1
+fisch2 essen2 meistens1
+stadt1 kennen1 stadt2
+$prod material2 ort1 $alpha1:w $index1
+segeln1 ort1 $prod $index1 $prod $prod
+sehr6 tourist1
+voll1
+schön3 berg3 $prod
+$gest-nm-kopfnicken1
+nahe1 grenze1 dänemark1 $index1
+dänemark1 grenze1 dänemark1 achtung1
+$index1
+autobahn1 $alpha1:a
+$gest-nm-kopfschütteln1
+nahe2 autobahn1 $index1 $pms $num-einer1:4 $prod $prod
+$oral ich1 hören1 $index1
+hören1 $index1
+$oral vergessen1 weg-verschwinden1
+$gest-nm-kopfnicken1
+stimmt1
+$gest-nm-kopfnicken1
+nahe1 dänemark1 grenze1 tradition3 $index1 bekannt1 wie4 $gest-überlegen1 sex1 geschäft-ort1
+$prod
+bekannt3
+bank-geld1 heissen1 $alpha1:k $alpha1: umgebung1
+bekannt1
+verkehr1
+heute1 noch4 bekannt1
+masse-person-aktiv1 noch4 ich2
+nahe1 arbeiten1 $prod
+sehr7 verkehr1 haupt3 noch4
+grenze1 dänemark1 deutsch1
+$prod
+fest1 masse-person-aktiv1 neu4 autobahn1 bisschen1 wenig7
+$gest
+wenig7 trotzdem4 verkehr1 haupt3
+$gest-nm-kopfnicken1
+leider1 kalt1
+in1 winter1 minus2 kalt2
+stimmt1
+kalt2 wasser1 $prod
+kalt2 $gest
+sommer14 ungefähr1
+plötzlich4 heiss2 sonne-brennt1 mal2 regen2
+wechseln3
+angenehm2
+sommer14 schön3 masse-person-aktiv2
+angenehm2
+winter1 $wortteil-un3 angenehm2 $index1
+heute1 erstes-mal3
+heute1 $num-teen2:9
+und2 $num-tausender1:2 $num-einer1:10 erstes-mal3 schnee1 lang-zeit4
+schnee1 bereich1 schön1
+alle3
+ablauf1 dünn1 kalt1 $prod stark2 $prod
+winter1 schlecht1 sommer14 toll1
+jahr1 prima3
+$gest-nm-kopfnicken1
+bekannt1 kennen1 schweiz1 bereich1
+bereich1 schweiz1
+toll1
+$prod
+motorrad1 $prod
+bekannt1 sehr6 auf-mich-einwirken1 sagen1 wie3 anführungszeichen1 süden1
+wald3 meer1 $prod bach1
+$index4 gross11 schweiz1
+$prod
+$alpha1:o schweiz1
+gegend1
+$gest-nm-kopfschütteln1
+$oral vorbeikommen2 sehen-auf1
+vorbeikommen2
+stimmt1
+$index1 dabei1
+wir2
+$index1 vorher4
+$name $name $name eigen1 zusammen7
+ich1 dabei1
+gruppe1 $prod turm1 abhaken1
+alle1 stimmt1 schon1
+$gest-nm-kopfnicken1 erstens1 und2 aschenbecher1 berg1 $num-einer1:2
+$index1
+haupt1 $index1 haupt1 $prod
+$num-einer1:1 $prod stimmt1
+$gest-nm-kopfnicken1
+tragen6 mit1 mit1 führen1 vater1 und2 sohn1 $prod
+$index1 vater1 mögen4 tanne1 bald1 weihnachten4 $index1 mögen4
+$index1 $index1 $index1
+vater1 sich-mit-etwas-abfinden3 baum2 weihnachten4 dünn2 gross2 festhalten2 schlagen2
+tragen6 $index1 weggehen1
+sohn1 beobachten2 lassen1
+sehen-auf3 erblicken1 süss1 $index1 hase1 springen2 füttern1 essen2 $prod
+sehr6
+festhalten2 schlagen2 fertig1
+mehr3 reh1 kommen2 wild10 scham1 kommen2 $prod süss1 kommen2
+mehr3 füttern1 wohl1
+fertig1 $prod $prod wohl1
+nach-hause1 mit1 honig2 gehen1
+hinten5 schlange-personen1 vorne3 $prod
+sein-ihr1 wohnung1 wohnung3 wohnung1 $index1 tür-auf1 $gest
+reh1 $gest-überlegen1 $prod scham1 masse-person-aktiv1
+$gest
+irrtum3 heute1 abend2 heilig1 nein3 abend2 ich2 wie-frage-vergleich1
+lassen1 herz2 einladen2
+sitzen-kreis1 essen2 schön1
+hase1 sitzen1 reh1 sitzen1 familie1 zitat1 wie4
+selbst1 auch3 fernseher1 viereck2 damals1 $pms $alpha1:n $num-einer1:4 $num-zehner2:2 interview3
+auch3 ich1 manchmal2 gern1 sehen-auf1 immer4 $index1 $prod
+$index1 tod3 ich1 was1 meinung1 sein-ihr1
+dann1 später4 ich1 denken1 anders2 $index1 $prod
+doppel1 wie3 genau4 $prod gesicht1 lachen1
+ich1 $index1 kann1 $gest-abwinken1 ich1
+auch3 ich1 muss1 $num-einer1:10 mal3 denken1 stimmt1 $index1 tod3
+auch3 ich1 selbst1 zusammenbruch1
+gefühl3 $gest wie3 $gest $num-einer1:1 gehen1 wenig7 gefühl3
+kann2 ich1 schreiben1 $gest-nm-kopfschütteln1
+dann1 auch3 ich1 anfang1 folgen1 wie-frage-vergleich1 warum1 was1 wie-frage-vergleich1 wo1 warum1 $gest-nm-kopfnicken1
+ja2
+ja2
+$gest-nm-kopfnicken1
+$gest-nm-kopfnicken1
+$gest-nm-kopfschütteln1 $gest-nm-kopfnicken1
+hand-heben3 thema1 gross4 was1 schuld1 schuld2 $index1 motorrad1 schuld2
+basteln1 drehen8 nein1 überholen1 nein1 fahrer1 war1 alkohol2 innen1 nein1
+kompliziert1 meinung1 anders2 meinung1 drehen8
+beispiel1 klar1 bild2 welche1 schlagen1
+anders2 $index1 sagen1 schuld2
+anders2 $index1 sagen1 fahrer1 alkohol2 $index1 $gest anders1 meinung1 geben2 $gest-nm-kopfnicken1
+$gest-nm-kopfnicken1 $gest-nm-schulterzucken1 $gest-nm-kopfnicken1
+
+$gest-nm-kopfnicken1 auch3 körper1 gefühl3
+$gest-nm-kopfschütteln1 $index1 auswirkung1 gut1
+ich1 denken1 schon1 kind2 armer1 auf-person1 $gest
+vor-allem1 kind2 $gest gefühl3
+ich1 selbst1 auch3 ich1 sagen2 sein-ihr1 ehemann1 schuld2 schuld2 kompliziert1
+$index1 haben1 weit1 $gest $index1 kompliziert1
+ich1 selbst1 auch3 ich1 schimpfen3 $gest gefühl3
+$gest-nm-kopfnicken1
+neutral1
+neutral1
+erstes-mal3 sehen1 erstens1 sehen1 er-sie-es2 schüchtern1 nein3 kind2 erziehung2 sein-ihr1
+durch2 rock1 wissen2 ich1 hemd2 $prod gesicht1 schüchtern1 schauen2 ich1 gut1 gefallen1
+dann1 $index1 $index1 angeln1 ich1 $alpha1:c ich1 $oral
+gefühl2 $index1 auf-person1 wie3 vater1 für1 sein-ihr1 vater1 für1 $gest
+$index1 auch3 schüchtern1
+ich1 sehen1 immer4 machen2 alle1 sagen2 $gest
+könig1 kind2 immer4 immer5
+später4 produzieren2 heiraten6 frei2 ellbogen3
+ich1 auf-person1 gut1 gefallen1 zeigen1 ich1 wünschen1 hier-jetzt1
+trotzdem4 verstecken1 auch3 verstecken1 nicht5 glück2
+auswirkung1 immer4 zeigen1 schön1
+$index1 prinz1 mit1 herz2 auf-person1 gut1
+$gest-nm-kopfnicken1 ja2
+egal3 ja1
+$index1 zeigen1 kind2 spielen2 $prod ich1 gut1 gefallen1
+meistens1 alle1 nicht3
+ja2
+ich1 gut1 gefallen1
+schade1
+ich1 vorstellung1 heute1 wie-frage-vergleich1 sehen1 auf-person1 gern1 sehen1 kann1 ich1 vorstellung1
+
+
+$gest-nm-kopfnicken1 dünn1
+viel4 $gest-abwinken1
+luft1
+$gest-nm-kopfnicken1
+ich1 arbeiten5 ich1
+ich1 arbeiten5 ich1
+ich1 viereck2 ich1
+fach2 $gest-nm-kopfnicken1 kann2 auch1
+ich1 viereck2 ich1
+$gest-nm-kopfschütteln1 $gest-ruhig-bleiben1 viereck2 moment2 viereck2 $prod
+$prod $prod $prod $prod $prod
+$prod warm1
+dann1 brosche2 $prod $prod brosche2
+ich1 arbeiten2 ich1
+durch2 $index1 ich1 $index1 frau1 $index1 beide2 stricken1
+$index1 es-gibt3 mehr7 mass-vertikal1 $index1 arbeiten5 anziehen-oberkörper2
+ich1 zuschauen3 gut1
+unter1 $index1 geben1 zeitung1
+ich1 halten-blatt1 einfach1
+viereck2 $prod
+viereck2 riss3 $gest-nm-kopfnicken1
+dazu1
+nein1
+ort1 stricken1 $prod stricken1 $prod
+$index1 $prod ab1 $oral $prod $oral $prod
+zurück1 $prod $oral zupfen1 $prod
+dann1 $prod $prod
+bis1 $prod
+$prod $prod $prod
+dann1 $index1 $gest-nm-kopfnicken1 $prod $prod
+$prod zurück1 $prod $prod
+zusammen3 $prod $prod fertig4
+$gest-nm-kopfnicken1 fertig4
+$gest-nm-kopfnicken1 $prod $prod gut1 $prod
+es-gibt3 aber1 $prod
+$prod $gest-nm-kopfnicken1 $prod
+$prod $prod $prod $prod $prod
+$gest-nm gut1 abend2 körper1 fernseher1 sitzen1 körper1
+$prod ich1 da1 viereck8 rechnen1
+$prod
+$gest-nm-kopfnicken1 vielleicht4 $num-einer1:10 bis1 $num-zehner2:2 $prod
+gewesen1 $oral $prod $prod wollen7 $prod $prod verschieden1 muss1 $prod $prod
+dann1 $prod dann1 $prod $prod $gest-nm-kopfnicken1 stricken1 $prod
+gewesen1 $prod $prod
+$index1 $prod gross3 $prod
+frau1 geben1 ich1 schicken2 $gest-nm-kopfnicken1
+$index1 auch3 dünn1 schwer3 rund6 stricken1 $index2 geben1 $prod
+ich1 $gest-nm-kopfnicken1 schicken2 ich1 $gest-nm-kopfnicken1
+heute1 es-gibt3 nicht3 einfach1 jacke1 geben2
+$prod oder4 $prod $gest
+$gest-nm-kopfnicken1 glauben2 gern1 ich1
+$gest-überlegen1 wissen2 $gest-überlegen1 ja2
+ich2 arbeiten2 $oral auch3
+$num-jahr-vor-jetzt1:1 winter1 $index1 wünschen1 $prod $prod $prod $gest-nm-kopfnicken1
+$index1 haben1 sehen1 $index1
+ich1 du1 haben1 sehen1 ich1 $gest
+bescheid1 ich2 verstehen1 ich1 laufen3 geschäft-handel1 dorthin-gehen2
+$oral $index1 selbst1 kreis2 selbst1 $gest
+ich2 verkaufen1 bescheid1 wie-frage-vergleich1 $index1
+$oral einfach1 $index1
+$gest okay1
+ich1 $prod bescheid1 muss1 wolle5 kaufen1 $index1
+verstehen1
+ich1 stricken1 für1 $index1
+wohl1 $prod
+$prod $prod $prod auch1 schön3
+kugel1 wolle5 $prod aufsteigen1
+$gest kombination1 $gest frisch2 stimmt1
+$gest-nm-kopfnicken1
+ich1 auch1 $index1
+durch2 frankreich4 $index1 verband2
+leute2 manchmal1 auch1 stricken1 dann1 foto1
+ich1 $index1 erblicken2 gut1 gefallen1
+ich2 bescheid1 bitte1 stricken1 geben1 stricken1 geben1 geben-festhalten1 spass1
+$index1 so4 $prod auch1 ich1 $index1 erblicken2 nicht3 schlecht1 $gest
+geben1 stricken1 $oral
+$gest
+$index1 bescheid1 $index1 $prod $index1
+$prod $prod $prod
+einfach1 $prod verschieden1 es-gibt3 verschieden1
+$gest-nm stimmt1 gewesen1 da1 $gest
+gut1 idee2 $index1 $gest-nm-kopfnicken1
+$gest klein3 leute2 gefallen2
+auch1 alt5 leute2 $index1 gefallen2 merkwürdig3 gehören1
+$gest-nm-kopfschütteln1
+stimmt1 ich1 kennen1 ich1 $index1
+ich1 besuchen1
+ich1 besuchen1
+ich1 $gest-nm
+$num-einer1:6 stuhl1 stricken1 alle2 sagen1 wolle5 rest1
+ich1 $gest-nm
+$gest-nm $gest gehören1 geschmack1 $gest $gest-nm
+gut1
+auch1 ich1 erzählen4 ich2 aufwachsen1
+ich1 kind2 einfach1
+mein1 eltern1 wollen7 nicht3 wahr2 ich1 schwerhörig1
+$index1 trotzdem1 hörend1 schule1 klein3 schicken1
+ich1 kann1 nicht3 sprechen1
+still2 $gest
+aufnehmen1 nichts1
+zuschauen2 $gest jahr1 später10 $num-einer1:4 alt3 ich1 wilhelmsdorf1 ich1 dorthin-gehen1
+durch2 wilhelmsdorf1 ich2 zuschauen2 faszinierend2 kind2 gleich8 gebärden1
+ich1 faszinierend2 ich1 faszinierend3
+$index1 gebärden1 $index1 kein6 gut1 gebärden1 wie3 kind2 fantasie1 gebärden1
+$index1 muss1 gebärden1 $index1 bis1 ich1 alt8 $alpha1:r übertragen1
+verwirrt-sein1 $oral oral1 $gest
+wilhelmsdorf1 auch1 oral1 erziehung1 lehrer4 aber1 kind2 zusammen1 gebärden1
+$index1 unterrichten1 oral1 sprechen6 ich2 hilflos1
+$index1 sprechen6 mund1 ablesen1 anstrengend2
+pause1 gebärden1 wohl1
+oral1 wahrnehmung1 ich1 anstrengend4 nein3 $index1 pause1 taub-gehörlos1 kind2 ich2 gebärden1 wohl1 $gest
+gebärden1 bis1
+essen-stadt1 $index1 gebärden1 so3 wohl1
+so3 aufwachsen1 $index1 durch2 schreiben1 auch1 gebärdensprache1 lernen1 $prod bis-jetzt1
+$gest-überlegen1 bildung1 hörend1 $index1 durch2 mein1 beruf1 verkaufen1 arbeiten1 sprechen6 oral1
+wechseln3
+aber1 wechseln3 freizeit-$kandidat-stu53 unter1 taub-gehörlos1 hauptsächlich1 gebärden1
+bis-heute1
+leicht1 für1
+stimmt1
+mein1 ehemann1 selbst1 schwerhörig1 $index1
+kann1 sprechen6 wir2 benutzen2 nur4 gebärden4 $gest
+gefühl3 gebärden4 $gest-überlegen1 besser1 ausdruck1 besser1 beschreibung1
+einfach3 wir2
+visuell1 wahrnehmung1
+negativ1 erlebnis1 ich1 alt8 schule1 ich1 $index1
+grund4 $index1 wilhelmsdorf1 $index1 leute2 erziehung1 lehrer4 verstehen1 wissen2 was-bedeutet1 taub-gehörlos1 $index1 schlecht2 oder4 langsam1 sprechen1 aufzählen1
+aber1 übertragen1 lehrer4 keine-ahnung1 $gest
+hörgerät1 kann1 kann2 wahrnehmen-ohr1 auch1 kann2 telefon1
+ich2 nein1 hörgerät1 helfen3 mittel2 für1 mund1 ablesen1 leicht1
+$index1 nein1 $index1 verstehen1 $index1
+diskussion1
+$index1 negativ1 für1 weil1 ich1 kampf2 $gest
+wie-frage-vergleich1 ich1 als4 schwerhörig1 $gest-überlegen1 so1 hören1 gefühl3 wie-frage-vergleich1 $index1 kann2 ich1 nicht3 glauben2
+$gest-nm-kopfschütteln1 einfach1
+toll1 verwirrt-sein1 lehrer4 gebärden1 unterrichten1 verwirrt-sein1
+unterrichten1 alles1 einfach1 als3 vorher3 ich1
+wie4 gebärden1 aber1 wahrnehmung1 bildung1 wahrnehmung1 schnell3 verstehen1
+stimmt1
+$gest-überlegen1 ich1 stimmt1 wilhelmsdorf1 eltern9 phase1 ich2 taub-gehörlos1 gemeinschaft1 ja1 hauptsächlich1 taub-gehörlos1 gemeinschaft1 noch-nicht2
+durch2 mein1 ehemann1 kennenlernen1 $index1 mitnehmen1 münchen1 $index1
+mein1 ehemann1 kennenlernen1 $index1 anfang1 lernen1 taub-gehörlos1 kultur1 geben2 $gest-überlegen1
+taub-gehörlos1 gemeinschaft1 glauben2 fussball1 verein2 $gest
+nein2 es-gibt3 auch1 anders2
+ich1 durch2 $index1 schnell3 lernen1 mehr1 faszinierend3 taub-gehörlos1 gemeinschaft1
+$gest kultur1 $list1:2of2 taub-gehörlos1 zentrum1 interesse1 verein2 geben2
+durch2 $index1 aufwärts1 taub-gehörlos1 mehr1 tief1 taub-gehörlos1 gemeinschaft1 $gest
+mehr1 tief1 gemeinschaft1
+genau1
+$gest-überlegen1 mein1 sohn1 schwerhörig1 so1
+mein1 ehemann1 schwerhörig1
+aber1 umgehen1 in1 zuhause1 $gest-überlegen1 zuhause2 familie4 kommunikation1 dgs1 gebärden4 $gest
+$wortteil-haupt1 mittel2
+ich1 verwenden1 gebärdensprache1
+mein1 eltern1 hörend1 ich1 eltern1 wir2 sprechen6
+ja1 mein1 ehemann1 dabei1 ich1 gebärden1
+ich2 verstehen1 ja1 kann2 bisschen2 gebärden1 verstehen1 $index1
+trotzdem2 mutter1 kann2 bisschen2 ablesen1
+$index1 wie7 mit3 kann2 mit1 verstehen1
+selbst1 mein1 eltern1 gebärdensprache1 nein2
+verstehen1
+$gest $index1 alle2
+auch1 hörend1 und2 taub-gehörlos1 auch1
+verstehen1
+anstrengend4
+gut1
+ablauf1
+$gest-nm-kopfschütteln1
+verstehen1
+also1 ich1 früher1 ich1 wissen-nicht2 ich1 taub-gehörlos1 verein2 es-gibt3
+später4 ab2 $num-teen2:3 alt4 taub-gehörlos1 sagen4 es-gibt3 taub-gehörlos1 verein2 sport1 verein2 reutlingen1 da1 ich2
+$gest-nm ich1 wissen2 ich1
+wohnung5 nahe1
+dann1 taub-gehörlos1 bescheid1 zusammenhang1 ich1 $index1
+interesse1 ablauf1 gebärden1 kommen1 ich1 kommen1
+schon1 $num-teen2:6 eintreten1 mitglied2
+bis-jetzt1 ich1 noch4 mitglied2
+treu2 reutlingen1 mitglied2 taub-gehörlos1 verein2
+programm1 was1 ich1
+meistens1 fussball1 gehören1 programm1 fertig4
+und1 veranstaltung1 gebärden1 so1
+anders2 möglich1 es-gibt3
+auch3 verknüpfen1 verband2 reutlingen1
+ich1 trennen1 ich2 auch3 verknüpfen1 weihnachten4 feiern1 ich1 kommen1
+interesse1 gebärden1 bereich1
+nein2 treu2 nein3
+treu2 nein3
+genau1 ich1 $num-einer1:1 waschen1 echt1 reutlingen1 ich2
+wie3 gleich8
+manchmal2 gut1 arbeiten2 zusammen1 arbeiten2
+zufall1 was1 grund4 leute2 gut1 zusammen6 arbeiten2 da1 spass1
+wenn1 anders6 sich-verstehen1 nicht6 ich1 ab8
+gleich1
+$gest-nm-kopfschütteln1
+immer4 gut1 zeit1 und4 schlecht1 zeit1
+wenn1 fussball2 schlecht2 ablauf1 verein2 sauer1
+wenn1 interesse1 gut1 stimmung6 da1 gut1 zeit1
+gehören1 dazugehören1
+verringern1 ja1 $gest-nm-kopfnicken1
+und2 auch3 leute2 kein1 interesse1 wort2 kommen1
+früher1 kein1 internet1 wort2 interesse1 da1 kommen2
+ich1 gut4 kommen1 unterhaltung2 ich1 regelmässig2 interesse1 kommen1 unterhaltung2
+hier1 ich1 kommen1 wort2 jung2 kommen2 nichts1 ich1 wundern1 warum10 $gest-abwinken1
+schon1 fussball1 kommen1 ja1
+wort2 kommen1 kein1 interesse1
+dann1 vorschlag1 ich2
+früher1 gut1 mensch2 sich-verstehen1 gut1
+netz1 ja2
+ich2 nicht3 $gest-nm-kopfschütteln1
+trainer1 ende1
+trainer1 ehrlich1
+trainer1 nichts1 für1 arbeiten2
+ja2 trainer1 ja2
+moment5 einfach1 trainer1 ich1 sehr6 ungleich1
+jung2 $index1 kein6 respekt1
+warum10 ich1 fussball1 abteilung3 da1 $list1:1of1 ci1 $list1:2of2 taub-gehörlos1 $list1:3of3 schwerhörig1 $list1:3of3 $index1
+nicht6 einfach2
+ich1 sagen4 anders6 meinung1
+ich1 muss1 ich1 was1 ich1 stellen-von-nach1 sprechen1 ich1 manchmal2 ich2 gebärden1 $index1 schwerhörig1 melden2 ohr1
+ich1 muss1 ich1 sprechen6
+ich1 muss1 $alpha1:l ich1 gebärden1
+bedeutung1 schwierig1 gebärden1
+einfach1
+auch3 leute2 spielen2 $list1:1of1 ci1 $list1:2of2 taub-gehörlos1 $list1:3of3 schwerhörig1 kein1 kommunikation1 fussball1 $list1:3of3 $index1 ungefähr2
+ja1 darf1
+nein2 nein2 fussball1 nein2 greifen1 werfen1
+$gest-nm-kopfnicken1 ci1 gehören1
+$list1:1of1 $list1:2of2 $list1:3of3
+kommunikation1 um2
+meinung1 anders6
+wie3 gleich8 meinung1 taub-gehörlos1 verein2 gehören1 dazugehören1
+$list1:3of3 schwerhörig1 meinung1 anders6 ich2 $gest-ich-weiss-nicht1
+ja1
+$index1 genau1
+warten1 bis-jetzt1 produzieren1
+nein2 kann1 ich1 kann1
+$gest-nm-kopfschütteln1 kann1
+ich1 brauchen1
+ich1 früher1 ich1 arbeiten2 spät1 schicht4 ich1 feierabend1 regelmässig2 montag8 taub-gehörlos1 training1 regelmässig2
+vorbei2 $index1 unterhaltung2 da1
+spass1 unterhaltung2 da1
+jetzt1 verringern1 nach-hause1
+früher1 gut1
+alle1 warten1 unterhaltung2
+zeit1 egal3 bis1 $num-schnips1:2 $num-uhr1:1 gut1 unterhaltung2
+wohl1 unterhaltung2
+ohne1 ich1 kann1
+auf2
+ja2 muss1 auf2
+muss1 muss1 ich1 frage1 auf2
+ich1 wohnung5 nachbar2 ich1 bescheid1 angebot1 da1 taub-gehörlos1 verein2
+$index1 $gest-nm-kopfnicken1 kommen1 nicht5 dazwischen-gehen1 ich2
+ich1 schade1
+$index1 verschliessen1
+schwerhörig1 verschliessen1
+ich1 $gest-abwinken1 herkommen1
+$index-oral1
+wissen2 ich1
+stimmt1 ich1 auch1
+war1 ich1
+schreiben1 $index1 $oral bei1 bereich1
+ich1 $num-teen3:9 $num-hunderter1:9 $num ich2 umziehen2 $num-teen3 $oral $num umziehen2
+bis1 $num $num $num ab11 $num
+auch1 ich1
+damals1 schule1 fach2
+schule1 muss1 oral1
+dann7 pause1 gebärden1 kreis1 gebärden1
+angenehm2 bewegung1 gut1
+zufrieden2 ich1 zukunft1 lernen1 wahrnehmung1 gut1
+ablauf2 aber1 schon1 vorher4 $index1
+frei8 machen1
+muss1 bauer-$kandidat-stu57 $index1 bescheid1 bitte1 bitte2 ab5 helfen1 dorthin-gehen1 mangel1 graben8 dorthin-gehen1
+ich1
+bekommen3 kein4 geld1 bekommen3 $oral essen1 ich2
+$oral $gest-nm-kopfnicken1
+$gest-ruhig-bleiben1 essen1 gut1
+bekommen3 gut1 essen1 als1 $index1 heim1 $index1
+gut1 essen1 bekommen3
+frühstück1 belegen1 gut1 essen1
+gut1 schmecken1 gut1 als1 $index1
+sprechen1 gebärden1 ablauf2 sprechen1 ablauf2 muss1
+druck-auf-person1 abfertigen1
+druck-auf-person1 schnell6 zeit1 schnell6 jeden-tag2
+ende1 heim6 abend2 heim6 körper1 kaputt4
+waschen-gesicht1 körper1 schmutzig3 $prod
+schmutzig7 kleidung2 leihen1 um1 körper1
+erzählen4 über2 auf-person1 morgen1 sagen1 morgen1 nochmal2 dorthin-gehen1
+ich1 nicht-mehr1 ich1 dorthin-gehen1 wollen5 nicht-mehr1
+druck-auf-person1 kalt1 regen1 kalt2 ich2 nicht3 ellbogen3
+druck-auf-person1 muss1 ich1 sich-mit-etwas-abfinden3 dorthin-gehen1 gehören1 kollege1 $gest
+$index1 bauer-$kandidat-stu57 $index1 reich7 $index1 $index1 bauer-$kandidat-stu57 geizig1 so4
+$gest-nm-kopfnicken1 essen2 bekommen3 gut1 $index2 so1
+möglich1 $index1
+ich1 kopf1 da1 kopf1
+nicht3 vergessen1 $index1 erlebnis1 $index1
+heute1 kopf1 $gest
+stimmt1
+ich1
+aber1 $list1:1of1 einigermassen1
+$list1:2of2 mittelmässig1 $list1:3of3 mögen-nicht1
+$list1:4of4 mittelmässig1
+$list1:5of5
+fisch1 fisch1 mit4 mangel1 mischen3
+ich2 mögen-nicht1
+mögen4 nicht3 ich2
+werfen1 ich2
+$oral dasselbe2
+verschieben3 $num-einer1:1 $index1
+satt1 mögen4 nicht1
+druck-auf-person1 muss1 essen1
+sonntag2 mögen4 gut1
+frühstück1 gut1
+essen2 $prod marmelade1
+$prod marmelade1 $prod zopf1 $prod schmieren2 $prod
+mittag2 essen1 gut1 abend2
+$gest-aufmerksamkeit1 sonntag2 was-machen1 du1 drehen2 oder4 zusammen1 spazieren1
+ich1 sonntag2 was1
+verschieden2 lehrer1 bestellen1 mitte2 anders1 mitte2 erziehung2 frei8
+als1 lehrer1 einstellen-arbeit1 $index1 einstellen-arbeit1
+$index1 $num-einer1:1 person1 mögen-nicht1 $index1 immer1 druck-auf-person1 muss1 kirche2 dorthin-gehen1
+ich2 $gest-nm mögen4 ich1
+langeweile1 sprechen1 $gest-aufmerksamkeit1 ich1 kennen-nicht2
+ich2 $gest sprechen1 nicht1 kirche2 $index1
+später10 $num-woche-nach-jetzt1:1 $index1 gut1 lehrer1
+ich2 wohl1 ich1 $index1 besser2 einstellen-arbeit1
+erzählen4 vergangenheit1 erlebnis1
+ich1 interesse1
+spazieren1 interesse1 auf-person1
+$index1
+es-gibt3 nicht3 gleich1
+druck-auf-person1 $list1:2of2 $index1 ich1
+ich2 um2
+ich2 evangelisch2 nahe1 $index1
+katholisch1 muss1 dorthin-gehen1 $num-einer1:3 kilometer1 dorthin-gehen1
+um2
+früher1 auch1 ich2
+bis1 ich1 $oral wachsen2 bedeutung1 schule1 entlassen1 bitte2 bitte1 bitte2 darf1 ich1 allein1 gehen1 zusammen1 gross5 ich2 $oral zusammen1 darf1 kino2 dorthin-gehen2
+ausnahme2
+bescheid1 $oral akzeptieren1
+dann6 film1 besuchen1 hurra2
+verrückt-sein-nach1 film1 $list1:2of2 gehören1 flach1 film1 $index1
+cowboy1 $gest-abwinken1 ich1 $index1 typisch1 film1 $index1
+früher1 $index1 bringen1 $index1 heimat-$kandidat-stu60 bringen1 viel1 liebe1 ziel2
+ich1 interesse1 $index1 so1
+schon1 arbeiten2
+ich2 $index1 wenn1 schule1 entlassen1 einstellen-arbeit1 stellen-von-nach1
+$index1 bildung4 $index1
+bildung4 sofort2 einstellen-arbeit1 schneider1
+bis-jetzt1 noch5 mögen2 nähen1 heute1
+ich1 heute1 noch4 ich1
+mögen2 nähen1
+früher1 klein3 $gest-aufmerksamkeit1
+früher1 klein3 ich1 traum2 ich2 schneider1
+muss1
+auch1 früher1 klein3 ich2 $num-einer1:5 $num-einer1:6 alt3 selbst1 nähen1 baby1 klein9 selbst1 nähen1
+ich1 wissen2 noch4 heute1 klappt1 bleiben2 ich2
+achtung1 $gest-ruhig-bleiben1 stimmt1 gut1
+ich1 schule1 ich2 hurra2 schule1 ferien2 körper1 heim6
+hurra2
+gehören1 gehören1 nach-hause1 gehören1 haus2 aufzählen1 $gest-vorsichtig1
+ich1 heim6
+hurra1 oma3 streicheln3 alle1 $prod
+mein1 mutter3 oma3 da1 $index1 sehr7 gross5
+klein3 heim6 zurück1 monat1 gross5 $gest aktiv1 ich2 ich2
+aber1 ich2 gefühl3 $num-einer1:6 ich2 langeweile1 niemand1 gebärden1 $prod
+niemand1
+oral1 sprechen1 $index1 ich1
+bis1 ende1 ich2 zurück1 $index1 ich2 wohl1
+ich2 wissen2 aufzählen1 $index1
+zurück1 viel1 erzählen4 leben1 $list1:2of2 $index1 so1
+sitzen1
+gebärden1 $gest
+schwimmen1
+verband2 ich1 cousine3 schwimmen1 dorthin-gehen1 wohin1 fort1 fahrrad1
+$gest-aufmerksamkeit1 fahrrad1
+ich1 ich1 $gest-aufmerksamkeit1 ich1
+nahe1 parallel1 unten1 $index1
+dorthin-gehen1 baden1 schwimmen1 parallel1 $index1
+jetzt1 verboten1
+$gest
+$index1 $gest verband2 gleich1 alle1 gebärden1
+basteln1
+$gest-aufmerksamkeit1
+und2 ich1 wachsen2 mein1 aber1 verwandt2 alle2 geburt1 jung-$kandidat-stu64 kind2 ich1 aufpassen1 ich2 $index2
+auch1
+aufpassen1 gern1 schieben1 kommen-auffordern1 schieben1 spazieren1
+spazieren2
+dann1 später10 ich1 $num-teen6:2 alt8 später10 bekommen3 $num-einer1:1 bruder1 klein3
+ich1 auch1 aufpassen1 schieben1 rund3 ich1 gebärden1 spielen2 so1
+mein1 mutter1 zeit1 $index1 ich2
+auch1 ich2
+$gest stimmt1
+ich1 schon1
+ich2 schon1
+schon1 ich2
+verstehen1
+$index1 mauerfall2
+mehr1 geld1 bezahlen2
+$num-hunderter1:1 euro2
+$num-hunderter1:1 aber1 $alpha1:d geben2 geben2
+trotzdem4
+alle1 bekommen2
+herz2 kommen-auffordern1 $num-hunderter1:1 $alpha1:d mark2 geben1 $num-hunderter1:1 mark2 abgeben2
+spinnen-verrückt-sein2 $index1
+bleiben2
+$gest-nm ich2 lohn1 abziehen2 $index1 $index1
+$gest-nm-kopfschütteln1 $index1
+ich1 lohn1 zeigen-papier1 $index1
+muss1 unterschied1
+weiter1
+sehen1 $gest-abwinken1
+ich2 schon1 lang-zeit5
+mauer3 ich1 durch2
+stopp1
+ich2 durch1
+ich1 damals1 mauer1 mauer3 da1 mauer3 ich1 nach1 berlin1 besuchen1
+mein1 gleich1 $gest wohnung1 in1 berlin1 $index1 westen1 richtung3
+mein1 ehemann1 mein1 tochter1 alle3 auto-fahren2 bis1 grenze1
+hart2 mit4 pickelhaube1 tragen1
+sehr-viel2
+$index1 harmlos1
+schicken1 $list1:1of1 ausweis2 schicken1
+mein1 tochter1 dabei1 hinten5 mass8 puppe1 da1 hinten5 person1
+wie3 auch1 baby1 mass8 hinten1
+$gest-nm
+schicken1
+sagen1 $num-einer1:3
+nein1 noch5 noch1 $num-ord1:4
+hinten1 puppe1
+nicht3 glauben2 $index1
+$prod mund-zu1
+$index1 da1
+mein1 tochter1 furchtbar3 angst1
+möglich1 $index1 möglich1 $index1 so1
+ich2 beruhigen3 mein1 tochter1 beruhigen3
+fertig1 weiter1 weg-entfernen1
+durch1 autobahn3 verkehr1 $prod banal1 strasse1
+viel1 loch5 hart1 loch5 bis1
+$prod $gest-abwinken1 soldat3 soldat1 $index1
+auch1 ich1 ausfahrt1 nicht3 hier1
+pickelhaube1 da1 $index1
+ich1 $index1 so1
+bis1 vor1 berlin1 ziel1
+nochmal2 kontrolle1 anhalten1
+nochmal2 kontrolle1 sehen-auf3
+frage1 ich2 ob1 ausfahrt1
+ich1 sagen1 nicht3
+ich1 bleiben2 autobahn3 parallel1 kein8 ich2 $num-einer1:1 abbiegen1 wenn1 besuchen1
+nicht3 ich1 bleiben2 ziel4
+nochmal2 sehen-auf3 nochmal2 alle2
+öffnen1 sehen-auf1 prüfen1
+start1 ab1 dorthin-gehen2 berlin1 durch1
+dann1 dorthin-gehen2 schwester1 $index1 mein1 ehemann1 schwester1 besuchen1 $gest sagen1 möglich1
+$index1 wissen2 so1
+gut6
+ich1 möglich1 $gest-abwinken1
+stadt2 führen1 bereich1
+wollen7 grenze1 osten1 sagen1 $gest-abwinken1
+muss1 meldung1 nehmen1
+ich1 $index1
+$gest-abwinken1 weg-entfernen1
+später9 herkommen1 ich1 zurück1 nach-hause1
+jahr1 mauerfall1 ich2 nochmal2
+locker1 dorthin-gehen2
+dorthin-gehen2 in1 locker1
+dorthin-gehen2 berlin1 bereich1 westen1 und5 osten1 zusammen7
+voll1 viel1 wimmeln1
+ich1 sehr7
+viel1 bau1 geld1 bau1 strasse1 bereich1 bereich1
+sehr7
+so1 wir1 ich1 denken1 wir1 geld1 lohn1 abziehen2 für1 bau1 $index1
+weiter1 mehr1 weiter1 mehr1 bau1 kran1
+nicht3 muss1 wichtig1 $gest-abwinken1
+$index1 handlung1 $gest-abwinken1
+osten1 $gest-abwinken1 schmutzig7 alles2 damals1
+$index1 langsam1 besser1 $gest-abwinken1
+ich1
+stimmt1
+ich1 $index1 $gest
+ich1 denken1 person1 dort1 grenze1 hart2 druck2 und2
+dann1 bisschen4 leiden2
+mauerfall2 hurra1 ich1 mit2 bisschen4 weinen1
+$gest
+gehören1 frei1
+hurra1 wissen2
+leute2 viel5 leute2 viel1 unschuldig3 viel5 druck2 $list1:2of2 $index1
+damals1 so1
+um2
+stimmt1
+mauer3
+$gest-abwinken1
+stopp4 du1 früher1 heim1 welche1 wo1
+$gest-nm ich1 anders1 wissen2 ich1
+früher1 schon1 hin1 $prod $index1
+vorher4 zeit7
+sehen1 bis1 heute2 $index1 sehen1 bis-jetzt3 heute2 brav1 hinten1 kennen1 nicht5 ich2
+du1 früher1 du1 heiligenbronn-$kandidat-stu46 gebärden1 beispiel1 es-gibt3 oben1 $num-einer1:1 heiligenbronn-$kandidat-stu46 oben1 heiligenbronn1
+du1 leben1 $index1 kind2 bis1 $index1 schule1 ab1 kind2
+du1 nur2 heiligenbronn-$kandidat-stu46 kreuz4 nur2 schule1 nein3
+fertig1
+beruf4 schule1 aufzählen1 nein3
+$index1 $index1 schule1 einteilen1 abweichung3 aussen1 beruf1 schule1 wo1
+heissen2 dein1 vater1 mutter2 kein3 keine-ahnung1 taub-gehörlos1 schule1 es-gibt3 beruf1 schule1 taub-gehörlos1
+zusammenhang1
+$oral sprechen6 wie-frage-vergleich1 du1
+hörend1 schule1 sprechen6 wie-frage-vergleich1 wahrnehmen-auge1 wie-frage-vergleich1 du1
+klar1
+interesse1 $index1
+vorteil1 $index1
+wie-viel5 hörend1 gross3 wie-viel5 hörend1 ausbreiten3
+du1 schaffen1 prüfung1 bestehen1 schaffen1 du1 prüfung1 du1
+hut-ab1
+lassen1
+schaffen1 bis-jetzt1
+deshalb1 $index1 drucken-papier1 ich1 schule1 heidelberg2 neckargemünd1 bei1 heidelberg2
+zuerst1 $num-einer1:1 jahr1 klein3 dann7 schule1
+$oral hin1 einfach1 schwach4
+deshalb1 bis-heute1 deutsch1 $num-einer1:1 sehr6 aufzählen1 stimmt1 schule1 einfach1 erklären1 wie3 kinderleicht1 aufzählen1
+aber1 aussen1 seite-körper1 schule1 erziehung1 perfekt3 $index1
+anständig1 essen2 $num-einer1:1 $list1:2of2 täglich2 waschen-gesicht1 $list1:3of3 kleidung1 selbst1 jeder1 morgen1 selbst1 bett2 kneten1
+wie3 dienst5 flach1 sauber1
+$list1:2of2 schrank2 selbst1 $index1 aufräumen1 schrank2
+wenn1 $num-einer1:1 $prod lassen1 weg-entfernen1 $oral ordnung1
+teilen1 verlauf1 ich1 bis-jetzt3 immer4 ich2 ablauf1 ich2 ordnung1
+$prod und2 lassen2 mögen4
+lieber1 aufräumen1 schrank2
+frau5 mein1 $index1 bescheid1 $gest-aufmerksamkeit1 ich1 ablauf1 mein1 schule1 schmal2
+$index1 aufräumen1
+und2 erziehung1 toll1 $list1:1of1
+nicht-ernst-nehmen1 deshalb1
+früher1 schule1 ich2 was1 frech2 $index1 schlüssel-tür1 $prod $prod
+oder6 $list1:2of2 frech2 $list1:3of3 schuh2 $index1 $index1 $prod
+oder6 wenn1 frech2 $index1 sammeln1
+muss1 ich1 samstag4 alles2 meistens1 schule1 heim6 samstag4 vater1 und2 mutter2 abholen1
+ich1 immer4 bleiben2 mein1 strafe1 was1 ich2 garten7 arbeiten1
+$index1 garten7 rund6 $list1:1of1 pflücken1 $list1:2of2 pflücken2 strafe1 hof2 aufräumen1
+aber1 dafür1 beispiel1 sonntag2 wenn1 ich2 arbeiten1 bekommen3 ich2 sonntag2 $num-einer1:2 kugel6 eis-essen1
+fertig1 es-läuft1 dann7
+wissen2 erziehung2 super1 schule1 unterrichten1 schlecht2
+deshalb1 steuern-lenkrad1 bis-heute2
+trotzdem4 sehr7 hart2 streng2 $list1:2of2 trotzdem4 ich1 respekt2 schule1
+heute1 $index2
+verschieden1
+$index2 ja1 ich2 kennen1
+ja1 kennen1 $index1
+ich1 $gest-nm-kopfnicken1 ich2 kennen1
+$oral du1 zeit7 ab1 mein1 zeit7 ab1 $index1 besser1
+aber1 anders6 lehrer1 besser1 aufwärts1
+ich2 $index1 besser1 sprache2 besser1 wissen2 $prod
+ich2 keine-ahnung1 aufzählen1
+einfach1 erklären1 einfach1
+heute1 $gest $prod ich2
+einfach1 wort1 $index1
+deshalb1
+um2 $index1 ich1 beruf4 winnenden1 $num-einer1:6 $num-zehner2:2
+ich1 auch3 ich1 keine-ahnung1
+auch3 muss1 jung2 $alpha1:d amt1 $index1 sozial2 ich1 schicken1 winnenden1
+$index1 winnenden1 ich1 wimmeln1 handlung3
+ich1 jahr1 sagen1 beruf4 ordnung1
+$list1:1of1 schlosser1 $list1:2of2 malen2 $list1:3of3 schuhmacher1 $num-einer1:4 schneider1
+früher1 nur2 $num-einer1:4 $num-einer1:5
+patzig-erwidern1 zwang1 ich1 $list1:1of1 entscheiden1 $list1:1of1
+schlosser1 ich1 $index1 mein1 beste1 freund7 $name
+$index1 $name $index1 $name
+wohnung1 nahe1 $name süden1
+$name nahe1 wohnung1 $index1
+$gest-abwinken1
+$index1 ich1 auge1 $index1
+$index1
+schon1 sterben2 ja2
+mein1 beste1 freund7
+ich1 erblicken2 beide2 freund7 gut1 $index1 ich1 schlosser1
+ich2 pech1
+ich1 bereich-hand1 kann1 marke2
+zwang1 doktor1 muss1 anders6 beruf1 ich1 zwang1 $num-einer1:1
+$index1 malen2 und2 schneider1
+ich1 schneider1 merkwürdig3 schneider1
+ich2 denken1 malen2 ich1 lassen1 kopf-nicken1 malen2
+es-läuft1 entlassen1
+aber1 ich1 lackieren1 sehr6
+ablauf1 ich1 drehen1 umziehen1 muss1 ich1 kein1 kein2
+ich1 $index1 tapezieren1
+aufzählen1 tapezieren1
+wechseln3 ich1 lackieren1 mögen2
+auto1 lackieren1 $index1 behälter3 lackieren1 $alpha2:s $index1 es-läuft1 bis-heute1 ich2
+$index1 $gest $index1 $index1
+durch2 krank1 $prod $prod sterben2
+fertig1 manchmal3 ich2 $num-einer1:1 denken1 $index1 beziehung2 $index1 ab1
+winnenden1 zeit5
+ich2 früher1 ich1 in-enthalten2 zeit5 auch3 noch-nicht5
+unterrichten1 schule1 glatt1
+ich2 ab1 besser1 $index1
+technik1 tochter1 $num-einer1:1 $list1:2of2 zahn2 technik1 aufzählen1 heute1
+ich2
+aber1 trotzdem3 ich1 schön1 schön5 erinnerung2 $num-einer1:1 früher1
+streng2 $list1:2of2 erziehung2 $list1:1of1 etwas-anstellen1 $num-einer1:3 $list1:4of4 muss1 aufzählen1 darf1 darf1 nicht1
+morgen3 wollen2 suppe1 $index1
+japan1 marmelade1 butter1
+ich1 immer3 tag-vor1
+ich1 schule1 $index1 immer3 morgen3 gut1 frühstück2
+$list1:2of2 $num-einer1:9 pause1 essen2 $num-einer1:1 viereck2 mit1 milch2
+vater1 essen2 lehrer1 abend1
+$num-uhr1:4 $num-uhr1:3 $num-uhr1:4 es-gibt3 $index1 $gest-überlegen1 wie3 kugel1
+abend1 essen2
+gut1
+$index1 unter1 ich1 $num-einer1:1 ich2 $pms $num-einer1:1 feind1 was1 $alpha1:l suppe1 $index1 $alpha1:l $index1
+ich1 $index1 suppe1 $index1 ich2 mögen-nicht1
+$index4 $prod schlagen4 ich2 sich-mit-etwas-abfinden3 suppe1
+deshalb1 bis-heute2 so1 $alpha1:l ich1 scheu1
+wechseln3 ich2 egal3 lassen1
+mögen4 $alpha1:l weg-entfernen2
+deshalb1 bis-heute2 $alpha1:l ich1 weg-entfernen2
+aber1 allgemein1 $gest-nm-schulterzucken1 beste1
+ich2 früher1 schule1 $index1 selbst1 bestreichen3 selbst1 nicht3
+tablett2 $prod $prod jeder1 $num-einer1:2
+mögen4 hals1 nochmal2 bestreichen1
+sonntag2 beste1 wonne1 frühstück2 $index1 wissen2 rund-lang1
+kasten2 weiss1 behälter3
+aber1 stechen-spiess1 auf1 $prod
+warten1 hunger3 taub-gehörlos1 $index1 helfen1
+$index1 $index1 mitte2 unterhaltung2 ich2 um-die-ecke1 klettern-seil1 stehlen1 nehmen1 um-die-ecke1 fressen1 zuerst1
+$gest du1 $index1 riechen4 wie-viel5 es-gibt3 ci1 wie-viel5 taub-gehörlos1 $num-einer1:1 person1 $num-einer1:1 wie-viel5
+sport1 verein2 $list1:1of1
+rund4
+$oral rund4 verein2 $index1
+rund4 bund1 $index1
+freiburg1 $index1 mehr1 hörend1 in1 bund1
+wenig4 taub-gehörlos1
+interesse1
+$gest-hand-auf-brust1
+hörend1 kind2 taub-gehörlos1 kreis1
+$oral wie-viel3 kann1 du1
+ich1 ulm1 sagen1 ich1 zusammen2 $gest komma1 $num-hunderter1:1 $num-zehner2:2 mitglied2
+unten3 $gest-nm-schulterzucken1 $num-zehner2:6 taub-gehörlos1 $num-zehner2:3 $num-zehner2:4 kind2 hörend1
+sehr6
+$index1 sport1 $num-hunderter1:2
+sehr6
+$list1:1of1 fussball5 $num-einer1:1 kegeln1 $num-einer1:2 badminton1 $num-einer1:2 aufzählen1
+$index1 $pms $index1 und-so-weiter5 $gest-nm-kopfnicken1
+du1 sagen1 jeder1 $num-ord1:3 donnerstag4 monat1 freiburg1 liegen-bein2 treffen2
+rente5 gebärden1 klein3 senior3 rente5 wie-frage-vergleich1 gebärden1 $index1
+senior5 $pms $gest
+ich2 liegen-bein2 sagen1 liegen-bein2
+senior3 treffen2 monat1 treffen2 wie-viel5 masse-person-aktiv1
+ungefähr1
+aber1 $index1 manchmal3 $index1 $index1 mit1 senior5 treffen2 $index1 kommen3 kommen3
+nur2 $prod
+$index1 kennen1 ich2 $gest-abwinken1
+$name $num-von-bis1
+ich2 denken1 ich1 mama1
+mein1 mama1 ich2 $gest-abwinken1 bescheid1 ab5 $index1 freiburg1 liegen-bein2 treffen1 mehr1 erfahren1 austauschen1
+mein1 mama1 auch3 taub-gehörlos1 mein1 mama1
+wissen2 du1
+ich2 mein1 mama1 taub-gehörlos1
+$index1 $gest-abwinken1 kommen-auffordern1 liegen-bein2 $index1 $name $name $index1 taub-gehörlos1 $num-von-bis1
+gleich1 du1
+zwischen1
+ja2
+schwester1 ich1 dann1 ich1
+$index1 mama1 $num $num $num ungefähr2
+ich2 bescheid1 $index1 kommen-auffordern1
+$oral zug3 frei1 fahren1
+keine-ahnung1
+$name
+mass-horizontal4
+$num-einer1:5 $num-zehner2:2 $alpha1:k
+ich1 oft1 ich1 $index1 karlsruhe2 dorthin-gehen1 $list1:2of2 dorthin-gehen1 $list1:3of3 dorthin-gehen1
+$num-einer1:4 zug2 frei1
+was1 ich2
+mama1 bescheid1 du1 immer5 spitz2
+kommen-auffordern1 erfahren1 tauschen2
+alle1 mama5 alle1 taub-gehörlos1 falsch1 taub-gehörlos1 fälschung1 mama1 ist1 selbst1 fälschung1
+$index1 doof1 lassen1
+meistens1 ort3 $name ort3 glauben2 $num-einer1:7 $num-einer1:8 $num-einer1:7 $num-einer1:8
+$index1 beispiel5 $index1 $gest-überlegen1 $name $name
+kommen1 nicht1
+$gest-überlegen1 $name
+kennen1 bescheuert1 $gest-abwinken1
+$index1 $name $index1
+$name $index1
+$gest-aufmerksamkeit1 $name $oral $name früher1 $name $name arbeiten1
+kommen1 nicht1
+
+$name fingeralphabet1
+$list1:1of1 ich2 bescheid1 kommen-auffordern1 $name
+da1 unterschied2
+erfahren1 kommen-auffordern1
+doch1 ort3
+$gest-abwinken1
+$gest-abwinken1
+wollen7 kommend2 mama1 mein1 besuchen1
+aber1 besuchen1 $num-uhr1:1 beispiel5 ich2 $num-uhr1:1 da1 abend1 $num-uhr1:6 losgehen1
+mama1 beide2 nicht6 gut1 sich-verstehen1 kreuz1 $index1 stur1
+$index1 kopf1 stur1 gehören1 osten1
+stur1 $num-einer1:1
+$gest-abwinken1 $gest-nm-kopfschütteln1 erfahren1 austauschen1 ich1 zuhause2 stricken2
+einmal1 $index1 $name glauben2 samstag4 sonntag2 gottesdienst1
+glauben2 samstag4
+kommen-auffordern1
+sagen1 alle1 taub-gehörlos1 falsch1 alle2 taub-gehörlos1 $prod
+wissen2 selbst2 $index1 negativ1
+$gest-aufmerksamkeit1 mein1 schwester1 auch1
+schwerhörig1 mehr1 hörend1 $index1
+ich1 schwester1 $num $num sein-ihr1 ehemann1 $num $num
+liebe1 $gest-abwinken1
+$index1 $oral auch3 selten2 unter1 taub-gehörlos1
+$gest-aufmerksamkeit1 $index1 kommen-auffordern1 freiburg1 aufzählen1 kommen-auffordern1
+$index1 gleich1 $index1 $gest-überlegen1 $name $name $index1
+kommen1 $gest-nm-kopfschütteln1 nicht1
+
+$name bereich2 $name $index2
+ich1 manchmal3 ich1 auch1 mal3 bald1 und2 letzte5 nach-ort1 singen3
+letzte5 dein1 frau1 treffen2 letzte5 frau1 treffen2
+$gest-nm-kopfnicken1 begeistert1 hübsch1 gut1 $index1 körper1 gut1 aussehen2 $index1 hübsch1 $gest-abwinken1
+kommend1 $index1 nicht5 da1 ich1 da1
+$index1 aber1 dick-körper2 $name $index1 bereit1 $gest-nm-schulterzucken1 bald6 $index1 $num-einer1:1 hin1
+er-sie-es2 sagen1 $gest weit1 ich1
+tablette1
+warum1
+$oral krank1 knie1 oder4 $index1 $oral herz1
+ich1 wissen2 $list1:1of1 $name $list1:2of2 $name $oral $list1:3of3 $name $name $oral wissen2 wimmeln1 kommen-auffordern1 nicht1
+ich1 nächste1 $num-einer1:6 januar5 nochmal2 hin1 singen3
+zug3 $num-einer1:2 halb6 stunde2 $prod
+frei1 fahren1
+$oral
+$gest-nm-kopfschütteln1
+$gest-nm-kopfschütteln1 $name $index1 ich1 $index1
+ich1
+schule1 wo1
+ich1
+umziehen1 $index1
+spinnen-verrückt-sein2 klar1 klar1 geld1 wenig1 klar1
+rente1 durchschnitt1 alle1 ungefähr3
+durchschnitt1
+$num-hunderter1:8 $num-zehner2:5 bis1 $num-tausender1:1 $num-hunderter1:1 zwischen1 rente1
+ich1 selbst1 $num-tausender1:1 zwischen1 ich1
+du1 bezahlen8
+ich1 zwischen1 $num-tausender1:1 $num-hunderter1:1 zwischen1
+$index1 ich1 du1 vorteil1 du1
+$gest-nm-kopfschütteln1 alle1
+nicht3 hand-heben3
+ich1 sagen4 bitte1 geben-geld2
+$oral sagen1 nein1 $gest-abwinken1
+anders4 verschieden1 weichherzig2 beispiel5 mercedes2 $index1
+$num-hunderter1:4 durchschnitt1 $num-hunderter1:4 euro1 sagen1 $alpha1:w firma1 rente1
+ich1 firma1 was1 $num-zehner2:6 euro1
+ich1 $gest-abwinken1 $num-zehner2:6 $index1 kann1 geben-geld5 wissen2 geben-geld2
+sagen1 $gest-skeptisch1
+wenn1 ich1 sterben2 vorteil3 $index1
+wie3 geben3 aufzählen1
+$gest-abwinken1
+$gest-nm-kopfschütteln1 ich1 kein5 ich1 kein5
+$gest-nm-kopfschütteln1 $gest-nm-kopfnicken1 zufall1 früher1 jetzt1 nicht-mehr1
+noch4 laufen-maschine2
+jetzt1 bis-jetzt1 $num $num alt5 noch1 bezahlen3
+deshalb1 gut1 leistung2 $index1
+es-gibt4 verschieden1
+früher1 mehr1 glauben2 $num-jahr-vor-jetzt1:3 schluss4 schluss1
+satzung1 $num-jahr-vor-jetzt1:3 $num-jahr-vor-jetzt1:4 aufhören1
+anders1 glück2
+ich1 firma1 gross3 ich1 $index1 kennen1 $alpha1:i $index1
+lastwagen1 $gest-spitzhand1 gehören1
+$index1 ich1 beratung1 mercedes2 wimmeln1 es-gibt3 alle1 firma1 gleich1
+körper1 $gest-abwinken1
+$index1 bis-jetzt1
+$gest
+du1 manchmal3 hals1 nach2 singen3 niemals1
+ja2
+$index1 letzte5 $num-einer1:6 januar5 $num-einer1:3 könig1 singen3 stempel1 $gest-aufmerksamkeit1 $gest-aufmerksamkeit1
+masse-person-aktiv1
+$gest-abwinken1 $index1 themawechsel1 $index1 singen3 da1 neu1 vorstand3 $index1 $alpha1:f $index1
+weg-entfernen1
+eben-zeit1 wahl2 wahl2 weg-entfernen1
+neu1 haupt1 schwerhörig1
+achtung1 $index1 als3 liegen-bein2 leiten1 land3 verband1
+$num-ord1:2 $num-ord1:3 gehören1 $name $num-ord1:2 $num-ord1:3 rente5 leiten1 baden-württemberg1
+$name du1 $list1:2of2 $index1 $list1:3of3 $list1:4of4 $list1:5of5 neu1 wahl2
+$index1 anders6 du1 schweigen3 $index1 singen3 oft1 grillen1 fest-feier3 aufzählen1 dabei1 du1
+ich1 erstens1 vorbeikommen1 $index1 ich2 kennen1 früher1 $index1 winnenden1 schule1 wimmeln1
+dann1 mein1 frau1 mitnehmen1 ein1 frau1 $index1 oft1 ich1 mitnehmen1 dann6 $index1 sagen1 kennen1 aufzählen1 schlecht-nicht1
+frei1 zeit7 schlecht-nicht1
+durch2 $index1 bodensee3 taub-gehörlos1 masse-person-aktiv1
+$gest-nm-kopfnicken1 spielen2 wimmeln1
+$oral unterhaltung2 $gest-abwinken1 hauptsache1 frei1 $prod unterhaltung2
+nächste1 glauben2 nächste1 wieder1 ich1 hin1 $oral
+ich1 nicht-mehr1 $gest-nm-kopfschütteln1 ich1 feiern1 fort1
+früher1 solidarisch1
+früher1 solidarisch1 heute1 wenig7
+stimmt1
+$index1 kennen1 ich2 $index1
+sehr6 $index1
+$gest-nm-kopfschütteln1 zusammen7 früher1 mehr1 solidarisch1 warm2 aufzählen1
+heute1
+du1 kennen1 $name $name $name
+$gest-abwinken1
+früher1 winnenden1 schule1 $index1
+sein-ihr1 freund7 freund7 wandern3 nach1 $name
+$index1 ich1 beziehung1 beide2
+eben-zeit1 e-mail1 aufzählen1
+eben-zeit1 eben-zeit1 sonntag2 geburtstag20 $num $num alt8 $index1
+e-mail1 mein2 frau1 e-mail1
+$name $gest-überlegen1 $name
+früher1 wohnung1 $name bereich1 hier1
+früher1 wohnung1 bereich1 hier1 ja2 $index1 vater1
+$gest-nm-kopfschütteln1 in1
+wohnung1 in1 wohnung1 $name in1 vater1 sein-ihr1 bank-geld1 direktor2
+dann6 $index1 $prod $index1 $index1 mann9 aus8 $name heiraten4 mann9 aus1 $name heiraten4 bewegung1 umziehen2 sein-ihr1
+mann1 letzte5 $gest-überlegen3 diese-zeit1 letzte5 $gest vergessen1 diese-zeit1 letzte4 sterben2 diese-zeit1
+$index1 nein1 mann1 gehören1
+$index1 $name $index1
+$name gehören1 $name
+$index1 freund7
+ich1 kennen-nicht1 $name $name
+$name
+ich1 bereich1
+$oral
+ich2 mama1 bescheid1 $gest-abwinken1 $index1 probe3 hin1 probe3 grenze1 springen2 $alpha1:b $gest
+wissen2 $oral wimmeln1
+mama11 hin1 nicht1
+anführungszeichen2 lassen1
+dasselbe2 letzte5 letzte2 $num-jahr-vor-jetzt1:2 schon1 nein3 mein1 schwester1 besuchen1
+überraschung1 besuchen1 ich2
+schwester1 $index2 besuchen1
+nein1 ich2 stress4
+mein1 $wortteil-schwieger5 in1 moment1 krank1 ich1 pflege-objekt1
+doch1 meinung-ändern1 $oral besuchen1 bisschen2 wütend2
+deswegen1 bis-jetzt1 beleidigen2
+ich2 $gest-abwinken1 zeit1 vorbei3 schauen2 zukunft1
+schwester1 noch5 stur1
+schicken2 nicht-mehr1 $prod nicht-mehr1
+vor1 ich2 soll1 ich2 kommend2 besuchen1 $gest-abwinken1 stur1 aufzählen1 alt8 suppe1 was1
+gewesen1 nein3 vorbei3
+jetzt1 $wortteil-schwieger5 sterben2 abstand4 weiter1 zuschauen2 doch1 stur1 $index1
+ich1 überwinden1 muss1 ich1 kommend2 rein-hinein2
+sagen1
+$num-einer1:1 mama1 $num-einer1:2 schwester1
+mein1 mama1 mit1 $index1 tante8 zwilling5
+$list1:2of2 tante8 schwerhörig1 $list1:2of2 taub-gehörlos1
+$list1:2of2 oft1 beeinflussen1
+ich1 besuchen1 immer3 fuss2 $prod $index1 falsch1 dein1 sohn1 falsch1
+$gest-abwinken1 was1
+$gest-nm-kopfschütteln1 schmecken-nicht1
+aber1 frau1 sagen1 muss1 $num-einer1:1 $prod kommend2 ich2 besuchen1 unterhaltung1
+schwester1 $gest-abwinken1 mein1 schwester1 schlafen1 bleiben2 ich2 nein2
+$num-uhr1:1 ankommen1 gebärden1 abend1 $num-uhr1:6 losgehen1
+genug2 genug3 genug2 genug3 $gest
+$gest-nm-kopfschütteln1 chaos1 oft2 sagen4 kommen-auffordern1 taub-gehörlos1 verkehr1
+$index1 spitz2 stricken2 und-dann1 sagen1 alle2 auf-person1 auf-person1
+kommen-auffordern1 $alpha1:b $list1:2of2 freiburg1 $index1 $list1:2of2
+$alpha1:l land1 glauben2 $num-einer1:7 $num-einer1:8 taub-gehörlos1
+$gest-nm-kopfnicken1 frau1 sagen4 ich2 kommend1 einigermassen1 nächste1 ich1 auge1 hin1 liegen-bein2 $index1
+$gest glauben2 ich2 zug3 glauben2 über1 stunde2
+$prod glauben2 über1 stunde2
+frei1 fahren1
+beispiel1 $index1 freiburg1 bis1 unterhaltung2 bis1 ungefähr1 $num-uhr1:5 $num-uhr1:6 fort1 $index2
+wenn1 ich1 besuchen1 muss1 ich2 $num-uhr1:6 $num-uhr1:7 abfahren1 ich2
+ankunft1 ulm1 $num-teen2:1 $gest-abwinken1 egal3 $gest-abwinken1
+oder6 $index1 taub-gehörlos1 freiburg1 $index1 $list1:2of2 $index2 bett2 frei1 eintreten1 morgen-früh1 heim6
+ich2
+$gest-abwinken1
+$oral ich2 gern1 moment1 früher1 arbeiten1 jetzt1 ich1 rente5 wollen5 gern1 information4 gruppe2 gehören1 gruppe2 gehören1 gruppe2 gehören1 gruppe2 gehören1 gruppe2 interesse1
+neugierig1 nicht4 schlimm3
+mögen4 erfahrung6 aufzählen1 warum2
+gefallen2 $index1 nicht3 schlecht1 liegen-bein2 treffen2 nicht3 schlecht1
+vorher4 vor1 kaffee2 zuerst1 $num-teen2:5 $num-einer1:10 $oral $num-teen2:5 gymnastik1
+körper1 leicht1 bewegung1
+und2 kaffee2 kuchen6 und-so-weiter3
+wissen2 woche1 du1 weihnachten4 markt7
+du1 früh5 dorthin-gehen1 ich1 glauben2 warum1 nicht3 auch3 ich1 mit1 grund4 abend2 typisch1 feiern1
+ich1 glauben2 warum1 nicht3
+frage1 vielleicht4 doch1 du1 besuchen1 freitag7 auf9 samstag3 $gest
+vielleicht4 doch1
+freitag7 auf9 samstag3
+$index1 abend2 weggehen1 ich1 feiern1 dorthin-gehen1
+ich1 denken1 grund4 besuchen1 dorthin-gehen1 anstrengend4
+wenn1 wollen5 nicht3
+aber1 warten1 du1 $gest-aufmerksamkeit1
+warten1 achtung1 bis-jetzt3 besser1 für1 frage1 feiern1 fest1 freitag7 ende1 samstag6 $index1
+ich1 vorstellung3 $index1 $index1 freitag7 wäre1 gut1
+du1 samstag6 dorthin-gehen1 ich1 abend2 feiern1 dann1 gehören1 regelmässig2 sonntag2 weggehen1
+aber1 $index1 meistens1 feiern1 meistens1 immer4 freitag3 oder6 samstag3
+variante1
+stamm4 sein-ihr1
+wer3
+grund4 ich1 sagen1 warum1 wechseln3
+grund4 $index1 stamm4 sein-ihr1 kreis1 freund7 helfen1 wein3 schneiden-schere1 $prod $prod schneiden-schere1
+bleiben2 dann1
+$gest weintrauben1 abschneiden1 deshalb1
+$index1
+darum1 $index1 frage1 wer3 mehr1 zeit1 $gest-nm-kopfnicken1
+aufnehmen1 wer3 mehr1 $index1 stimme1 $index1
+beispiel1 alles1 $num-hunderter1:1 prozent1 leute2 alles1
+achtung1 mehr1 $num-zehner2:8 prozent5 ausgerechnet1 freitag3 $num-zehner2:2 prozent1 $index1 mehr1 $index1 $index1 bedeutung1 $gest samstag6 ab8 $index1
+wechseln3 darum1
+ich1 mehr1 wissen2 ich1 bescheid1 kommen4
+ich1 glauben2
+lassen1 ich1 egal3
+hauptsache1 ich1 was-bedeutet1 gesicht1 neu1 ich1 $gest-nm
+und2 ich1 gehören1
+ich1 wollen7 auch3 organisieren2 dann1 dezember3 weihnachten4 markt7
+$oral nur2 $alpha1:l $index1
+du1 $index1 gruppe1 dein1
+ich1 nur2 mein1 freund7 bereich1
+ich1 denken1 aber1 ich1 muss1 ein1 termin1 frei4 nehmen1
+aber1 ich1 wissen2 ob4 ich1 machen3 ernst1 nicht3
+grund4 ich1 immer4 ich1 einsicht1 ich1 immer4 ich1 freund7 heilbronn2 ort1 ich1 fahren3
+kommen1 selten2
+früher1 pferd1 markt7 pferd5 markt7 bereich1
+kommen1 klappt1
+aber1 $index1 gut1 gefallen1
+warum1 nicht3 danach1 bescheid1
+ich1 erinnerung3 ich1 organisieren2
+aber1 $name machen3 nicht3
+schon1 $gest-abwinken1 $gest-abwinken1
+kommen1 ich1 einfallen1 $gest warum1 nicht3 $gest-abwinken1
+ich1 wollen1 dann1
+aber1 ich1 muss1 rechnen1 grund4 $num-ord1:10 dezember3 $index1 weihnachten4 feiern1 firma1 ich1 eintreten1
+weihnachten4 feiern1 du1 wissen2 oben2
+samstag6 mitte2
+abend2 $num-uhr1:7
+$prod du1 wissen2 über1 müll1 nadelbaum1 geschenk1 ich1 $prod $prod
+ich1 danach1 putzen3
+keller1 ich1 putzen3
+putzen3
+$gest-abwinken1 rund-lang1
+ich1 ente2 $prod $prod $prod $prod $prod
+nach-hause1
+darf1
+$index1 $index1 schenken1 weihnachten4 $index1 schicken2 $index1 feiern1
+aber1 oben3 oder1 unten5 ich1 besuchen1 oben3 oder1 unten5
+ob1 du1 zeit1 frei4
+wenn1 oben3 bedeutung1 nikolaus2 zwischen1 oder4 unten5 mitte2 dezember3 zwischen1
+aber1 $index2 weihnachten4 feiern1 $index1 ich1 was1 $index1 $index1 nein3
+aber1 unten5 ein1 unten5 wochenende5 frei4 ich1 wissen2 dorthin-gehen1 für1 weihnachten4 markt7 $alpha-sk:l $index1
+grund4 ich1 stuttgart1 ich1 oft4 $list1:2of2 heilbronn2 ich1 oft4 aber1
+achtung1 stuttgart1 gewesen1 ich1 $num-einer1:1 $num-jahr-vor-jetzt1:1 $num-jahr-vor-jetzt1:2 $num-jahr-vor-jetzt1:3 gewesen1 ich2 dabei1
+darum1
+ich1 aber1 ich1 wollen1 auge1 ich1 wollen1 auge1 ich1 freund7 person1 ob4 laufen-vierbeiner2 kommen1 $index1 nein3
+grund4 ich1 immer4 ich1 dorthin-gehen1 heim6 ich1 zeit1
+$index1 schon1 früh3 haus1 da1 ich1
+einfach1 ich1 ich1 früh3 zuhause2 einfach1
+ich1 kommen1 kommen2 dorthin-gehen1
+ich1 verbindung1 gut1 ich1 heim6
+ich1 denken1
+ich1 auge1 schicken2
+aber1 jetzt3 wenn1 niedrig1 frei4
+ich1 wissen2 wann1 termin1
+ich1 bestimmt2 ich1 erfahren1 nächste1 dezember3 wie-frage-vergleich1 termin1 gut1
+ich1 auge1 schicken2
+nur2 bestimmt1 ich1 stamm4 gruppe1 person1 stamm4
+ich1 herkommen1 kennen1 herkommen1 egal3
+wenn1 gut1 klappt1
+aber1 ich1 wollen1 nicht3 voraus1 aussage2 nicht3 achtung1
+ich1 vorstellung1 wollen5 punkt2
+ich1 auge1
+dann1 wie-sieht-aus1
+kommen1 oder1 nicht3
+schon1 ich1 $num-einer1:1 person1 sprechen1 $index1 warum1 nicht3
+ich1 gehören1 kommen3 ich1 termin1 viel1 da1 so1
+aber1 $num-ord1:1 einzig1 frei4 dann7 $num-woche-nach-jetzt1:1 $index1 weihnachten4 nach2 vor1
+wie-sieht-aus1 lachen1 $gest-nm
+$index1 $prod betroffen2
+$prod $prod
+ich1 trinken1 $prod $prod
+ich1 denken1
+$oral du1 $num-einer1:7 $num-ord1:7 ich1 wollen5 für1 mit3 dorthin-gehen1
+aber1 dann1
+grund4 weihnachten4 kann1
+ich1 muss1 immer4 mal3 dabei1 $index1
+ausnutzen1 ich1 wein2 $gest-nm
+körper1 kleidung3 gut1
+ja2
+silvester1 $wortteil-un5 klar1 ich1 $gest
+$gest-überlegen1 ich2 $gest-überlegen1 $gest-überlegen1 ich1 wissen2 $gest-abwinken1 ich1 wissen-nicht2 reservieren1 $gest
+ich1 suchen-tastend1 ich1 finden1 $index1 stuttgart1
+noch3 woche1 meldung1
+ich1 glauben2 ich1 wollen8 aber1 ich1 bestimmt1 frage1 schicken2 taub-gehörlos1 wer3 leute2 dabei1 stuttgart1 $index1
+wenn1 mehr1 $index1 stimme1 $index1 ich1 $index1 auch3 eintreten1 $index1 stuttgart1
+ich1 $index1 $index1 wollen1 $index1 für1 $index1 du1 zusammen3
+$index1 $index1 achtung1
+wer3 beziehung1 mit1 lebenspartner1
+fertig4
+freund7 dazu1 nicht3
+$oral $index1 alles1 inklusiv2 essen1 trinken1 alles1 frei1
+miete2 bezahlen1 eintreten2 nichts1
+nur2 ich1 bezahlen5 $num-teen1:5 euro1 essen1 trinken1 fertig4
+feiern1 silvester1 wimmeln1 fertig1
+ich1 denken1 praktisch1 $index1
+ich1 $index1 letzte1 greifen1 ich1 irgendwo1 $index1
+und3 nahe1 hin-und-her1
+ich1 denken1 einfach1 $index1 stuttgart1
+anders6 person1 kommen1 $num-einer1:1 anders6 $num-einer1:2 kommen1 $num-einer1:2 anders6 $num-einer1:3 kommen1 ja2 $num-einer1:3 rest1 bereich1
+du1 $wortteil-un5 klar1 irgendwo1 ich1
+beziehung1 mit1 freund-fest1 oder4 familie1 nicht3
+$index1 noch4 bis1 neu1 jahr2 schluss1
+stopp2
+$index1 eintreten1
+nur2 beziehung1 schicken2
+freund7 nicht3
+darum1 schicken2 auf-person1 zu-tun-haben-mit1
+wer3 beziehung1 automatisch2 schicken2
+$name bekommen1 $index1 $index1 lebenspartner1 $index1 bekommen1 information2 $index1 bekommen1 bescheid1
+ich1 nase1 frage1 wer3 kontakt2
+$index1 ich1 bekommen1
+freund7 $index1 nein1 $index1
+achtung1 begreifen1
+$oral mehr1 stimme1 $index1
+mitte2 ich1 wer3 machen2 silvester1
+meistens1 $index1 wissen-nicht2
+$index1 denken1 wollen7 richtung3 amsterdam1 ich1
+bescheuert1 nur2 kurz3
+$name sagen1 $gest-abwinken1 beide2 allein1 nein3
+ich1 ich1 brauchen1 stimmung3 drehen3
+ich1 denken1
+sagen1 $gest-abwinken1
+ich1 denken1 ich1 rechnen1 dann1 aufzählen1
+ich1 gefühl3 geld1 ausgeben2 sehr7 viel1 ich1 überlegen1
+ich1 nicht3 ich1 glauben2
+grund4 $index1 auto1 versicherung1 bezahlen1 zeiger1 ich1 bezahlen1
+grund4 ich1 $num-hunderter1:1 $num-zehner2:4 prozent1 mehr7 nicht3 ich1 $num-einer1:5 $num-zehner2:8 prozent1
+$num-hunderter1:1 $num-zehner2:4 $index1 viel1 $index1
+darum1 ich1 rechnen1
+und2 du1 wollen1 nächste1 jahr2 zusammen3 $alpha1:n $index2 $alpha1:n wie-viel5
+und2 $name wollen1 $index1 nächste1 jahr2 zusammen3 auch3 urlaub8 nur2 klein10
+$oral inhalt3 $num-hunderter1:4 $num-hunderter1:5 euro1
+$index1 zusammen3 $num-tausender1:2
+plus1 amsterdam1 rechnen1 viel1
+und2 amsterdam1 weihnachten4 $index1 hineinstecken3 sehr-viel1
+$gest darum1
+ich1 $name gewesen1 untersuchung2 sehen-auf3
+nicht3 schlecht1
+bescheid1 zusammen3 allein1 richtung3
+ich1 $index1 ich1 wollen8 ich1
+einfach1 $index1 auf-person1 einladen2 $index1
+$index1 $gest-nm-kopfschütteln1
+ich1 einladen2 einfach1 $index1
+$gest-abwinken1 $index1
+ich1 $index1 glauben2 du1 was-machen1 $gest-abwinken1 ich1 glauben2 ich1 du1 wissen2 du1 bereit2 alles1 ja1 nein2
+$gest-ruhig-bleiben1
+ich1 wissen2 du1 immer4 ja1 und2 nein2 $gest-abwinken1
+ich1 frage1 auf-person1 $name $name kommen5 nur2 $num-personenzahl1:5 fertig4 ich1 frage1
+egal3 da1 anders2 so1 abwägen1
+$index1 letzte1 sagen2 letzte1 minute1 ich1 $index1 es-geht1 $index1 nicht3 letzte1 minute1
+grund4 letzte1 minute1 typisch1 vorher2 buchen1
+$index1
+ich1 nein3 ich1 ab8
+ich1 denken1 $num-einer1:1 überlegen1 $num-einer1:1 nächste1 $num-einer1:1 jahr2 $num-einer1:1
+ich1 zusammen3 $list1:2of2 ich1 zusammen3 fertig1 $list1:3of3 $num-einer1:3
+ich1 gefühl3 viel1 ich1
+ich1 glauben2 lassen1
+einfach1 ich1 bescheid1
+aber1 stuttgart1 ich1 noch-nicht2 meldung1
+aber1 muss1 ich1 bald2 meldung1
+$index1 $index1
+es-gibt3 anders6 super2 ich1 ab8 ich2 richtung3 ich2
+ich2 wissen-nicht1 $gest-nm-kopfschütteln1
+$gest-nm-kopfschütteln1
+$gest-nm-kopfschütteln1 wer3 person1
+wer6 wollen7 einladen2
+$gest-abwinken1
+wollen7 wie-viel2 person1 du1
+glauben2 $index1 wollen8 dabei1 glauben2 du1
+du1 wollen8 dabei1 mögen4
+ich1 vorstellung1 mein1 zuhause2 $gest-überlegen1 silvester1 schön1
+grund4 berg1 schauen2 $prod
+ich1 zuhause2 schön3 bereich1
+normal1 letzte5 jahr2 ich1 ab8 anders6
+aber1 $index1 für1 $index1 nur2 irgendwann1 regelmässig2 in-der-klemme-stecken2 kein1 vorhaben1
+$list1:2of2 besetzt1 spät1 meldung1 oder4 $gest geld1
+$gest ich1 letzte1 mein1 zuhause1 mit1
+aber1 zuhause1 stuttgart1 $index1 mit1 turm1 $prod $index1
+silvester1 $prod schön3 $index1
+aber1 nur2 klein2 klein9 person1
+ich1 brauchen1 viel1 person1
+$index1 stuttgart1 schon1 besetzt1 schon1
+ich1 besser1 $index1 irgendwo1
+letzte1 $index1 fertig1
+ich1 glauben2 $index1 ersatz1 sein-ihr1
+$name wollen1 unbedingt1 $index2 amsterdam1
+ich1 $gest
+gehören1 gut1
+besser2 truppe1 taub-gehörlos1 voll2 hörend1 nicht3
+und5 ski1
+auch1 ich1 gut1
+du1 du1 du1 bescheid1 du1 bescheid1
+$num-einer1:7 $num-zehner1:2 november7 weihnachten4 markt7 $index1 $index1
+beide2 bescheid1 fort1 kommen-auffordern1 ski1
+nur2 $num-einer1:1 tag1
+früh5 bis1 regelmässig2 abend2 zurück1
+auch3 $num-einer1:7 $num-zehner1:2
+ich1 gut1 $index1 ich2 $index1 glauben2 $index1 gut1 $index1
+ich1 $index1 nein1 $index1 schon1 ich1 $index1 termin1
+weihnachten4 feiern1 feiern1 $gest-überlegen1 wein3 fest-feier3 schneiden-schere1 oder1 $num-einer1:2 du1 weihnachten4 markt7
+schon1 ich2 reservieren1
+ich2 $index1 bescheid1 sowieso1 $index1
+sagen1 schon1 $index1 nur2 morgen2 fahren1 regelmässig2 abend2 hin-und-her1 schon1
+ich1 $index1 $index1 moment1 gut1 gefallen1 $index1 ich1 bescheid1 ich1 irgendwann1 gehören1
+$index1 $index1 wollen1 später9 zusammen1
+ich1 ja1
+ich1 wollen1 nur2 ferien2 wohnung5 gruppe1 $num-einer1:1 fach2 $index1
+$gest-nm nur2 $num-einer1:1 tag1
+ich2 frage1 gewesen1 $index1 ski1
+sagen1 $index1 noch-nie1 nicht3 noch-nie1 nicht3
+erstens1 unbekannt3
+ich1 besser2 $index1 hin-und-her1 gefühl3 wohl1 gut1 ich1 $index1 gewesen1
+$gest-überlegen2 zahl2 kann2 beide1 mehr1 sicher1 nein3 $index1 kein7
+ich1 lieber1 probe2 $gest ich1
+vorstellung1 ferien2 wohnung5 $index1
+ich1 glauben2 warum1 nicht3 silvester1
+schön1
+$prod mütze1 schal1
+$index1 $prod $prod gut1 wohl1
+denken1 silvester1 $index1 ski1 $index1 $gest jetzt3 $gest-ich-weiss-nicht1 irgendwann1
+du1 gleich-bald1 machen3 plan2
+ich1 bescheid1 ich1
+kann2 $num-einer1:3 mal3 bezahlen1 leistung1 $index1 für1 in1 jahr2 urlaub8 ich1 kann2
+ich1 bescheid1 ich1 wollen1 unbedingt2 werfen1 ich1 ausziehen-wohnung1 nein3
+$gest-nm-kopfschütteln1 silvester1 immer4 doppel1 $gest-abwinken1
+du1 essen1 ohne1 $prod ohne1
+$gest-nm-kopfschütteln1 es-gibt1 nicht3 es-gibt1 nicht3
+du1 gesamt1 $num-hunderter1:2 euro1
+selbst1 auf-person1 erzählen4 $num-einer1:1 tag1
+morgen2 regelmässig2 abend2 $num-hunderter1:2 euro1 $index2
+ski3 leihen1 ski3 leihen1 $prod bus1 fahren1 essen1 trinken1
+alles1 ungefähr1 unter1 $num-hunderter1:2 euro1 $index2 $num-einer1:1 tag1 achtung1
+ich1 wollen1 phase3 woche1 tag1 ich1 kurz4 $gest
+$num-einer1:1 fach2
+anstrengend5 früher1 $alpha1:i $prod ich1 laufen-ski1 $prod ich1 laufen-ski1 $name $prod ich1 laufen-ski1
+winken1 bitte1 drücken-mit-daumen1 geradeaus1 ich2 grund4 wissen2 gleichgewicht1 ich1 laufen-ski1
+bergab-sich-verschlechtern1 $index1
+du1 $prod
+ich1 gefühl3 wohl1 sehr7
+$prod ich2 wissen2 $prod $prod $prod
+ich1 glauben2 du1 schaffen1 ich1 schaffen1 ich1
+grund4 du1 immer4 kalt1 ich1 immer4 warm2 ich1
+du1 $gest zusammen3 kleidung3 trotzdem2 du1 hand1 frieren1
+ich1 kalt1 nicht3 ich2
+genau1
+ich1 index1 hoch4 immer4 warm2
+aber1 index1 niedrig1 immer4 kalt1 achtung1
+ja1 ebene1 nein3
+aber1 jetzt3 mehr1 $index1 rühren1 trinken1 immer4 ich1 tief1 frieren1
+jetzt3 ich1 gefühl3 hoch4 warm2 ich2
+unterschied2
+denken1 zusammen3 nach2 $alpha1:n $index1 was-machen1 wimmeln1 $gest $index1 möglich1 $gest
+gewesen1 $index1 person1 vorschlag1 erzählen4 $index1 was1 inhalt3 phase1 ungefähr3 $gest
+egal3 kurz4
+hauptsache1 was1
+kann2 reiten1 $index1
+vorstellung1 ich1 eintreten1 elefant1 erstklassig1 abhaken3
+$prod ich2 $prod rüssel1 $prod
+$gest $gest-aufmerksamkeit1 es-gibt3 auf-person1 $alpha1:s $index1 $index1 bekommen1 $index1 gewehr1 wimmeln1 $index1 greifen1 pflege1 wimmeln1
+es-gibt2 es-gibt1
+wenn1 ja1 wäre1 ich1 muss1 ich1 eintreten1 ob1 gefährlich1 oder6 nicht3 egal3 ich1 abhaken3 eintreten1 muss1
+ich1 sagen4 ich1 liebe1 tier2 ich1 liebe1
+beispiel1 elefant1 ich1 erledigen1 ich1 eintreten1 $list1:2of2 aufzählen1 $gest-abwinken1
+mit1 ich1 $prod $prod $prod $prod ich2 $prod $prod $prod
+$prod $prod $prod $prod
+ich1 $prod $prod $prod $prod ich1
+$prod
+klein5 $prod
+ich1 schauen2 verwirrt-sein2 ich1
+was1
+$index1 brauchen1 viel1 $index1 hauptsächlich1 $alpha1:w bereich1
+aber1 wirklich2 ich1 frage1 $alpha1:a oder4 krokodil1 haupt1 gefährlich1 was1
+$alpha1:a kreuz1 auch3 wie3 krokodil1
+auch3 aber1 gleich1 $gest-nm-kopfschütteln1 gleich8 form1 $prod kreuz1
+aber1 $alpha1:a $index1 oder4 $index1 $index1 krokodil1 haupt1 gefährlich1 $index1
+$index1 krokodil1 harmlos1 $gest-abwinken1 $alpha1:a gebiss1 gefährlich1 $index1 $gest-nm-kopfnicken1
+$index1 kann1 schnell1 $prod beissen1
+kann1 schnell3 $index1
+krokodil1 $gest-abwinken1 $gest
+ich1 eben-zeit2 amerika1 $index1 hauptsächlich1 $alpha1:a ich1 zeigen1 foto1 viel1 $prod gebiss1 $prod $prod $prod schicken1
+sehr6
+wimmeln1 fertig1 ich1 gruss1 ich2 $prod $prod weggehen1 ich1
+$index1 kosten2 $wortteil-los1 schenken2 ich1 $gest-abwinken1 mitnehmen1
+ich1 selbst1 geben-geld3 lieber1 ich1 unterrichten1 ja1
+grund4 ich1 geben-geld3 $index1 $num-tausender1:1 $num-tausender1:2
+ich1 kurs1
+$index1 schenken1 ich1 kurs1 $gest-abwinken1 ich1
+zuerst1 durchsuchen2 achtung1 doch1 klappt1 auswahl1 klappt1
+kosten2 nichts1
+ja1 $prod $prod ja1
+$index1 nicht3
+$prod ja1
+du1 meinung1 warum1 nicht3 ich1 eintreten1 kofo3
+idee1 dazu1 muss1 ich1 zuerst1 kontakt2 kofo3 was1
+du1 sagen2 ich1 wissen1 ich1 wollen1 wissen1 inhalt3 organisieren2 warum1 nicht3 kofo3 auch1
+kofo3 ich1 selbst1 bescheid2 wollen1
+achtung1 zuerst1 kontakt2 wer3
+wer3
+frage1 ich2
+wissen1 bescheid1
+aber1 muss1 ich2 allein1 grüssen2 gebärden1 muss1 grüssen2 ich2
+grund4 früher1 seminar2 frau1 ich1 vorbeikommen1 wer3 erfinden1 person1 aufsteigen1 frau1 erfinden1 $index1 $gest-überlegen1 bescheid1 auf-person1 organisieren2 suchen1 auswahl1 $prod
+$index1 selbst1 $gest
+vorstellung1 ich1 grüssen2 ich2 rot-werden1 wimmeln1 gebärden1
+nicht3 trotzdem2
+früher1 gesicht-braun1 pistole-schwenken1 und2 ich1 $prod rot-werden2
+$gest beruhigen3
+ich1 $gest rot-werden4
+aber1 ich2 gebärden1 erblicken1 erblicken2 $gest-aufmerksamkeit1 sie1 neu1 ich1 überwinden1 $gest-abwinken1 mein1 gebärden1
+ich2 bescheid1 ich2 $prod rot1 hörner1 so1 fertig1
+so1
+aber1 manchmal1 person1 taub-gehörlos1 nicht3 verstehen1
+ich1 denken1 $gest-abwinken1 egal3 wurscht-sein1
+hauptsache1 ich1 wimmeln1 fertig1
+schon1 ich1 seele4 $prod $index1 streicheln1 $prod ich1 sagen1 $prod $prod $prod
+ich1 $prod $prod $index1 $prod $prod $prod
+nein1 $prod gesicht1 bescheuert1 $prod $prod
+$prod ja1 $prod
+aber1 $prod $prod $index1 nicht3 ich1 muss1 helfen1 $prod ja1 ich1 $prod muss1 $index1 weg-entfernen1 muss1
+was1 heute3 mittag2 essen1 dorthin-gehen2 was1 $gest-nm-schulterzucken1
+$oral essen1 wo1 sagen4
+sowieso1 immer4 zusammen1
+dorthin-gehen2 essen1 warm2
+du1 kein6 hunger3 grund4 du1 eben-zeit2 $num-einer1:2 $num-einer1:3 süss1 essen1 du1 eben-zeit1
+du1 essen1
+abnehmen2 süss1 abnehmen2
+essen1 süss1 aber1 ich1 essen1 warm2 wollen1 ich1
+allein1 ich2 zusammen3 $prod $num-einer1:1 lassen2 $prod kamera1 $prod wollen8 du1
+ungefähr3 ähnlich1
+$gest-nm-kopfnicken1 gleich8
+aber1 sprache1 $index1 problem1
+beispiel1 eu1 anerkennen1 ja1 schon1 vorbei4
+geld1 anerkennen1 vorbei4
+aber1 hörend1 sein-ihr1 wie-sieht-aus1
+sprache1 bleiben3
+taub-gehörlos1 soll1 auch3 ändern1
+zuerst1 hörend1 auch3 $index2
+abwägen1 überlegen1
+zur-seite-schieben1
+überholen1
+ich1
+$index1 ich1 meinung1 wie3 international1 gebärden1 sprache4
+zusammen2 $index1 verschieden1 stark2 zur-seite-schieben1
+$index1 auch3 machen1 was1
+$index1 taub-gehörlos1 dialekt1 verschieden1
+wie3 deutsch1 baden-württemberg1 sauber-machen3 $index1 bayern1 dialekt1 köln4 dialekt1 zur-seite-schieben1
+$index1 gross7 dasselbe2 $index1 auch3 machen1 korpus1
+einsteigen1
+gehören1 meinung1 einsammeln1 wert1
+$index1 kopf-nicken1 zeuge6
+$index1 europa1 gebärdensprache1
+
+nein1 ich1 meinung1
+ich1 du1 ich1
+meinung1 du1 bleiben3 deutsch1 ja1
+aber1 nur2 mein1 bereich1 deutsch1 ich1 dort1 dgs1 gebärden1
+treffen2 frankreich3 $index1 europa1 gebärden1
+selbst1 hineinstecken2 dein1 frankreich3 $alpha1:f sein-ihr1 gebärden1
+ich1 mein1
+$num-einer1:2
+haben-besitzen1 $num-einer1:2 kompetenz2
+$num-einer1:2 kompetenz2
+ich1 selbst1 ich1 kompetenz2 kann1 $num-einer1:3 ich1
+international1 europa1 vielleicht3 neu1 ich1 mal-sehen1 dgs1 gewohnheit1 geburt1
+$list-zusammen1:1 $num-einer1:3
+$gest $gest-überlegen2
+ich1 gefühl3 auch3 besser1
+ich1 selbst1 ich1 beispiel1 schweden1 $index1 gebärden1 ich2 youtube1 ich1 maus-computer1
+anstrengend5
+ungefähr2 ähnlich1 ähnlich2 $index1 deutsch1 null2
+schwer1
+lassen1
+ich2 plötzlich4 dort1 reims1 $index1 frankreich3 $index1
+für1 kultur1 film1 aufzählen1
+da1 theater2
+hier-jetzt1 $index1 begreifen1 vergleich2 mit1 gebärden1 zusammenhang1
+vorbei4 klar1 $oral haltung-körper1 gebärden1 ich1 $gest-nm-kopfschütteln1
+
+sehr6 ich1 $index1 $gest-nm-kopfschütteln1 schaffen1 nicht6
+$index1 frankreich3 $index1 nein2 $index1 schweden1 $index1 treffen2 gebärden1 sehr6
+selbst1 kann1 ändern1 international1 ich1 wohl1
+achtung1 ich1 denken1 $index1 aussen1 spezial2 konzentrieren1 europa1 mehr1 wort2
+besser1 denken1 wort2 wert1 sammeln1 mehr1
+international1 wenig2 wenig7 ich2 gefühl3
+sowieso1
+wenn1 schwer1 wort3 fingeralphabet1
+klar1
+stimmt1
+ja2 kennen1 ja2
+$gest ich2 vorstellung1 $index1 besser1 europa1 gebärden1 ich2 gefühl3 ja1
+grund4 lassen1 ich1 unser1 alt5 stein10 zeit5 lassen1 zur-seite-schieben1
+schneiden-schlagen1 nein2 weiter1 $gest-ruhig-bleiben1
+$index1 europa1 gebärdensprache1 $index1 wachsen1 fertig1 pflege1 aufwachsen1
+aber1 ich1 vorher4 $index1 schon1 was1 fest1 zeuge6 europa1 gebärdensprache1 $index1
+youtube1 video1 information2 dozent1 alles1 da1 kompetenz2 da1 von-da-an1
+kommen1 $index1 europa1 gehören1 land3 $index1 karriere2 $index1 europa1 gebärden1 kann1 $index1 mehr1 ausbreiten2
+$index1 wahrnehmung1 kommen1 aufwachsen1
+universität1 eintreten1 leicht1 $index1 frankreich3 england3 $index1 kommen1 alles2 jeder1 kann2 gebärden1 kann2
+lehrer3 unterrichten1 selbst2 auch3 europa1 gebärden1 kann2 $index1
+vorstellung1 besser1
+nach3 $gest-überlegen2
+kein8 fall1
+muss1 antrag1 eu1
+$alpha1:e $index1
+meldung1 brüssel1 $index1 frage1
+wenn1 $index1 $index1 deutsch1 $gest-nm-kopfschütteln1 noch-nicht2 anders2 land3 gewesen1 $index1 für1 eu1 gebärden1 jetzt1 los-start1
+$index1 in-der-klemme-stecken2 erstarrt1 bedeutung1 abwärts1 $index1 schnell2 alle1
+nichts-damit-zu-tun-haben-wollen3
+achtung1 $wortteil-bad1 $index1 $alpha1:k $index1 fluss1 $index1 kommen1 universität1
+kommen1 $index1 thema1 heiss1
+ich1 wir1 langsam1
+stimmt1 etwas4 wachsen2
+möglich1
+ich1 vorstellung1 ich1 kann1
+$gest-nm-kopfnicken1 ja2 meinung1 ich1 auch1 gleich1
+international1 oder5 aber1 international1 $index1 mehr1 wort2 wert1 wenig7 wenig7
+wie3 einfach1 neu1 gesicht1 gestik1 fertig1 genug3
+asl1 mehr8 wort2 wert1 wie3 $index1 dgs1 mehr8 wort2 wert1
+kommen1 eu1 muss1 mehr8 wert1
+durch2 zusammenhang1 universität1 mehr1 wort2 wert1
+klar1
+besser1 england3 england3 besser1 mehr1 england3 bleiben2
+nein1
+england3 bsl1
+asl1 meinung1 gehören1 $index1
+ich1 vorstellung1 $gest-überlegen2 ich1
+vorstellung1 ich1 kann2 ändern1 durch2 wurzel1 schon1 da1
+$prod $index1 jung2 wachsen2 alt5 $index1 früher1 deutsch1 dgs1 abschneiden1 $index1 vorstellung1 ich1 $gest-nm-kopfschütteln1
+$num-einer1:2 ort1
+$prod $index1 $prod
+ich1 dasselbe2
+$num-einer1:2 $prod $num-hunderter1:2 jahr2 kann1 so4 verschwunden1
+wechseln3 $gest weit1 wissen2
+weit1 $gest-abwinken1
+europa1 überfall1 $num-hunderter1:2 jahr2 zeit1 sagen1 ich1 $num-hunderter1:2 jahr2
+$num-zehner2:3 nein1
+$num-zehner2:3 ich1 glauben2 nicht3
+stimmt1 muss1 $gest-nm-kopfnicken1
+durch2 $index1 kann2 amerika1 kommen1 schauen1 kann2 wort2 buch1 da1 $index1 amerika1 kann1 lesen-buch1 wort2 kopie1
+stimmt1
+england3 fertig4 ich1 stimmt1
+ich2 $alpha1:m institut1 selbst1 china2 $index1 fahren1 nur2 england3 sprechen6
+ich1 england3 $index1
+buch1 england3 $prod
+ich1 erstes-mal3 plötzlich4 $index1 thema1 suchen1 holen1 buch1
+ich1 $index1 selbst1 deutsch1 buch1 ich2 $prod über1 sehen1
+geben-stapel1 nein1 blättern1 ich1 $gest-ich-weiss-nicht1
+ich1 necken1 buch1 $prod
+$gest-abwinken1
+ich1 zurück2 $index1 wechseln3 da1 england3 $prod
+$prod wohl1 stimmt2 blättern3 thema1 forschung1
+ja2
+eintreten1
+stimmt1
+$gest-aufmerksamkeit1 grund4 warum1 china2 bereich1 geburt1 mitte2 wort2 was1 china2 sprechen6
+gleich1 karriere2 beruf1 bildung3 orientierung2 kann1 england3 lernen3 parallel1 selbst2 stark2
+druck-auf-person1 verändern1 ich1 vorstellung1 nicht3
+ich1 deutsch1 bleiben3
+anfang1 grund-boden3 $index1
+bildung3 kommen1 fach3 greifen4
+selbst1 england3 thema1 kompetenz2 nehmen1 perfekt-in-etwas-sein1 leistung1 da1 aufwärts1
+$index1 universität1 gehen1
+vorstellung1 gut1 laufen1 bahn-weg1 stimmt2 sehen1
+$gest-nm-kopfnicken1
+wie3 ich1 sehen1
+was1 dgs1 $gest-nm-kopfnicken1 $index1 alle1 gruss1 strom3 schalter2 aus-zu2
+wechseln3 eu1 $gest-nm
+gefühl3 ich1
+ja2
+auch1 dazugehören1 fingeralphabet1 bleiben3 $index1 ja1 $index1
+schwer1 wort2 ich1 meinung1 $index2
+durch1 fingeralphabet1 $prod ich2
+ich1 $index1 besser1 schwer1 wort2 gehören1
+fremd-$kandidat-stu52 wort2 fertig4 zur-seite-schieben1
+ich1 durch1 gebärden1 mundbild1 ablesen1 $gest mimik1
+verschwiegen1 $gest unterschied1 person1
+stimmt1
+klar1 gut1
+verschieden1 $index1 familie1 $index1 anders1 entwickeln2 weg2
+mund-zu2 mehr1 bereich1
+mein1 freund3 $num-einer1:1 taub-gehörlos1 $num-einer1:2 $num-einer1:3 alle2 mund-zu2 gebärden1 ich1 $gest-nm
+ablauf1 kann2 verknüpfen1
+selbst1 auch1 kann1 dasselbe2 $gest-überlegen2
+stimmt1
+gebärden1 kompetenz2 wichtig1 kompetenz2 frage1 antwort1 schnell3 fertig4 $gest-nm-kopfnicken1
+oral1 oder6 schweigen2 nein3
+ich1 für1 egal3
+aber1 aussen2 hörend1 problem1 $index2
+mundbild1 $gest wichtig1 auch1 wichtig1 abwägen1
+ja2 handlung2 besser1
+hochhaus1 $index1 katze1 innen3 katze1 $prod fenster6 $prod
+fernglas1 plötzlich4 hinter1 $index1 auch1 vogel1 käfig2
+selbst1 auch1 fernglas1
+$prod
+sich-die-hände-reiben1 laufen9
+in2 haus1 dann1 $prod
+fertig4
+$index1 $index1 katze1 $prod regen1 rohr1 $prod $prod
+$index1 fenster6 fensterscheibe1 $prod $prod
+$index1 merken1 vogel1 merken1 nicht5
+schaukel1 schaukel2
+selbst1 typisch1 liegen-bein1
+sehen-auf3 $gest-nm $index1 $prod
+$index1 angst2 $prod bis1 käfig4 tür-auf4
+$prod durchgehen1
+$gest $prod durchgehen1
+plötzlich4 alt5 alt4 frau1 $index1 schlagen1 $index1
+katze1 fallen2
+$gest-nm-kopfnicken1 katze1 gehen1 überlegen1 wie-frage-vergleich1 $index1 fangen1
+gehen1
+erblicken1 $index1 sehen-auf3 regen1 rohr1 $prod
+$index1 sich-die-hände-reiben1 abhauen1 $prod
+katze1 sehen-auf3 $gest-abwinken1 oben1 vogel1 sehen-auf3
+$gest $index1 holen1 kugel1 bowling2 kugel1
+$prod werfen1 rohr2 lang1 $prod rohr2 $prod unten1
+katze1 $prod $prod
+$prod
+gut1 schlucken1 katze1 kugel1 innen1 bowling2 $prod
+$prod null6 haft1 nicht6
+$index1 kugel1 wie3 rollen1 $prod
+bis1 $index1 bowling2 titel-überschrift1 in2
+aus-zu1
+$index1 katze1 überlegen1 laufen-herum1
+erblicken1 auf1 strasse1 musik4 $prod
+plötzlich4 $index1 was1 affe1 $prod $prod $prod $prod
+katze1 erblicken1 $gest-abwinken1 verstecken1
+katze1 $gest-ruhig-bleiben1 banane4 $prod
+wieder1 locken1 affe1 wieder1 kommen1
+affe1 $gest-nm interesse1 laufen-vierbeiner1 dorthin-gehen1
+prügeln1 $gest-ich-weiss-nicht1
+ausziehen4 anziehen-oberkörper1 $prod
+$prod als3 so-präsentieren1 ich2 wie1 affe1 wie4 um1
+springen2
+jacke1 wie3 $gest hotel5 stehen1 wie3 uniform1 körper1 auflösung1 gut5
+$prod in2 $prod klingeln-tür1
+tür-auf2 alt4 frau1 sehen-auf1
+was1 wollen7 hier1
+suchen1 bereich1 suchen1 $gest
+$gest-nm-kopfnicken1 $gest
+laufen-herum1 $prod schmal-dünn1 bereich1 $prod rock1
+auf-person1 rock1 $prod $gest-nm-kopfschütteln1
+laufen-herum1
+wollen7 was1
+geld1 werfen1 schlagen1
+raus3
+$prod
+gut1 hotel5 $prod ende1 hotel5 $index1
+mann1 ohr1 $prod $prod
+telefon1 nerven1 auf-objekt1 $prod $prod
+$gest $prod sprechen6 $gest-kein-problem1 $prod gut1
+$index1 wissen2 brief1 $prod
+plötzlich4 in1 katze1 $prod zuhören1
+zimmer1 $num-hunderter1:1 $num-einer1:8 $num-zehner2:5 soll1 koffer1 und5 netz1 käfig4 käfig2 abholen1
+sich-die-hände-reiben1 $prod anziehen-oberkörper1
+$prod $index1 klopfen-fleisch1
+sprechen6 oben1 alt4 frau1 $prod fenster6 titel-überschrift1 $prod $prod sprechen6
+ja1 $prod $prod $index1 gut6
+$gest hören2 sagen1 frei1 tür-auf4
+tür-auf1 körper1 $index1 koffer1 käfig4
+$prod laufen-herum1 flur1 $prod
+koffer1 werfen1
+$index1 körper1 behalten2 $prod treppe2
+$index1 schmal2 wie3 strasse1 gegen2 strasse1 um-die-ecke1
+gut1 käfig4 sich-die-hände-reiben1 $prod
+$gest-nm $index1 alt4 dame1 $index1 schlagen1
+ende8 aus-zu1
+$gest-nm katze1 sitzen1 wohnung1 sitzen1 plan2 architekt1 fadenkreuz1 ziel2 vogel1 fangen1
+überlegen1 anschauen3 zeichen4
+$index1 vogel1 sehen-auf3 möglich1 auf-person1 wieder1
+$gest-nm-kopfnicken1 katze1 etwas-planen-und-umsetzen1 fertig4 sich-die-hände-reiben1
+fenster6 springen2 sich-die-hände-reiben1 wille6 seil2 greifen1
+fadenkreuz1 ziel4 $prod
+$gest-nm $prod
+platt1 $prod
+unten1 überlegen1 laufen-herum1
+wie-frage1 $index1 vogel1 schaffen1
+laufen-herum1
+$gest-nm gehen1 holz11 stamm2 holz11 stamm1
+$index1 was1 $index1 dünn1 strassenbahn4 netz1 stadt2 strassenbahn4 dünn1 netz1
+$index1 sich-die-hände-reiben1 $prod $prod aufstehen1
+gehen1
+$gest-nm kommen1 $index1 strassenbahn4 $gest-nm-kopfnicken1
+rennen1 $index1 strassenbahn4 $prod $index1 $index1 strassenbahn4 $prod
+strom3 $prod $prod
+$prod langsam1 $prod $prod $prod $prod $prod
+weiter1 rennen2 rennen1 $index1
+plötzlich4 unten1 was1 machen1 vogel1 als3 strassenbahn4 führen1
+$prod strom5 auf-person1 $index1 $prod
+$index1 alt4 super2 weiter1 machen3 soll1
+$prod
+weiter1 folgen1 weniger-werden3 dunkel-werden1
+vorher1 ich1
+mein1 viel1 verwandt2 osten1 $index1 wohnung5 wohnung5 $index1
+hauptsächlich1
+ich2 mein1 vater1 seite-körper1 sein-ihr1
+$gest-aufmerksamkeit1 mein1 vater1 seite-körper1 dort1 $index1
+$index1 hauptsächlich1 osten1 zur-seite-schieben1
+$gest-abwinken1 schwierig1
+einmal1 $gest zug3 ausdehnen1
+ich1 springen1 ich1 dorthin-gehen1 besuchen1
+hin1 hin1
+manchmal1 mein1 pate-$kandidat-stu37 bescheid1 $index1 bescheid1 du1 $index1 kommen-auffordern1 auch3 ich1 $gest-nm-kopfschütteln1
+zug3
+ich1 selbst1 klein3
+ich1 masse-person-aktiv2 $prod $prod
+$prod
+$prod gefühl2 wie3 ich1 greifen1
+ich1 mögen4
+ich2 pate-$kandidat-stu37 $prod weinen1
+ich1 $gest-nm-schulterzucken1 ich1 kalt2 ich1 $gest-nm-schulterzucken1
+dann1 ich1 pate-$kandidat-stu37 bescheid1 $index1 gut1 du1 besser1
+kratzen-haut1
+muss1 $index1 da1 $prod vor1
+ich1 platz4
+ich2 damals1 lachen1
+$gest-abwinken1 ablauf2
+mein1 vater1 traurig4 $index4
+$gest vater1 liebe1 nichte2 klein3
+$index1 $index1 liebe1 $index1
+sein-ihr1 bruder1 in1 krieg1 fallen1
+$index1 wie3 für1 körper3
+$index1 schaffen1 armer1 $index1 $index2 kein4 vater1 $index4 für1
+$gest-abwinken1 $index1 osten1 $gest-skeptisch1 $gest
+$gest-abwinken1 besuchen1 weinen1
+schwer2 zwischen1
+aber1 ich1 vater1 arbeiten2 immer4 traum1 nein3 einmal1 mauerfall2
+ab1 achtung1 mauerfall2 glauben2 vorbei2 frei1
+$index1 immer3 wünschen1
+war1 schön3
+ich1 $index1 lassen1 erzählen4 wenn1 frei1 mauerfall2 machen1
+ich1 $index1 cousine3 kommen1 ich1
+umziehen1
+oder6 ob2 wie8
+ich1 cousine3 oft1 sagen1 gehören1 sein-ihr1 traum1 mögen4 gern1 flucht1
+$gest schaffen1 $index1 nicht1 $gest
+$gest-abwinken1 ich1 cousine3 als1 lehrer1 $index2
+sein-ihr1 ehemann1 auch3 lehrer1
+aber1 er-sie-es1 ehemann1 er-sie-es1 von1 schule1 entlassen1
+warum1 diese2 politik1 nicht3
+unterrichten1 kind2 wachsen2 $gest
+$index1 pflicht2 $gest
+muss1 politik1 unterrichten1
+$gest ich1 cousine3 sein-ihr1 ehemann1 gefühl3 wie3 zwang1 $gest und5 $index1 viel1 geschichte2 nicht1 wahr3 $gest
+schmecken1 nicht5
+ich1 aussen1 sein-ihr1 beide1 ich1 cousine3 $index1 klein3 kind2
+$index1 politik1 unterrichten1 $gest
+nur1 kompliziert1 $gest kompliziert1 $gest verschiedenes1
+$gest $gest-abwinken1 schwer1 beide1
+$gest ich1 vater1 sorgen-sich3
+fertig1 bis-dahin1 ich2 vater1 sterben2
+nach5 erstes-mal3 $index1 ich1 cousine3 besuchen1 $index1
+obwohl1 gern1 beispiel1 beerdigung1 nicht1 lehrer1 verboten1
+$index1 $gest sterben2
+besuchen1
+$gest-abwinken1 darf1 $gest viereck1 $gest
+besuchen1 weg-fort1
+später4 hier1 echt1 eben-zeit1 mauerfall1
+ich1 schnell3 an1 mein1 vater1 denken1
+schade1 ich1 vater1 nicht3 mit1 erlebnis1
+$oral sehen1
+und5 selbst1 ich1 aufregen1
+ich2 traum1 ich2 jetzt1 wollen2 packen1 ich1 $gest durch1 ich1
+$gest aber1 $index1 wohnung1 mein1 nicht3 mein1 cousine3 um-die-ecke2 $gest ich2 frei1
+ich2 froh1
+ich1 kommen1 ich2 kommen-auffordern1
+vielleicht4 später3 mauer3 $index1
+$index1 cousine3 sagen1 ich1 glauben2 nicht3
+jetzt1 ich1 zusammen5 ich2
+$index1 vorbei4 brauchen1 kommen1 $gest
+bleiben2
+aber1 ich1 traum1 $gest über1 hurra2
+fest1
+fernseher1 ich1 sehen-auf1 masse-person-aktiv1 hurra2
+ich1 traum1 alle1
+$index1 $num-einer1:1 traurig6 $gest-nm-schulterzucken1 siegen1 froh1 schade1
+klar1
+ja1
+erstens1 ja2 ich1 erstens1
+du1 stimmt2 du1 stimmt2 du1
+ich1 auch3 nicht3 vergessen1
+ich1 erstens1 ich1 $index1 $num-ord1:3 aber1 interesse1 $num-einer1:3 aber1 $num-einer1:3 erstens1 $list1:3of3 $list1:3of3 noch-nicht2 $prod mauer3 noch-nicht2 nicht4 aber1 dienst2 da1
+laufen9 ich1 $index1 $index1 so1 $index1
+ich1 $num-einer1:3 dann1 $list1:2of2 $prod $prod ich1 flach1
+ich1 darf1 aber1 besuchen1 muss1 ausweis2 $prod
+ich1 $gest-aufmerksamkeit1 osten1 berlin1 $index1 zurück1
+august-$kandidat-stu38
+$gest-aufmerksamkeit1 august4
+ich1 $gest-überlegen3 vorher1 ich1 hier1
+mai6 $gest-abwinken1 mai6 $index1 fertig1
+$oral mauer3
+ich1 schock2
+mauer3
+ich2 deswegen1 eben-zeit1 hier1 hier1
+mauer3
+später5 mauer3 islam1 ich1 wieder1 dort1 ich1
+aber1 ich1 $num-einer1:1 ich1 schmerz3 erinnerung3
+was1 $num-einer1:1 person1 sagen1 $alpha1:f $gest-überlegen1 $index1 auf-person1 fax1 $prod
+und2 schiessen1 und5 liegen-bein1 $index1
+schmerz3
+$index1 enttäuscht-$kandidat-stu40 wollen7 greifen1 aber1 nicht3 ich1 grenze1 $prod
+haben1 verband6 kasten1 werfen-papier1
+fast2 halb6 stunde2 dort1 liegen-bein1
+dann7 gewinnen1 holen1 spät1 schon1 sterben2 $gest
+$index1 person1 titel-überschrift1 alles1
+ich1 kommen1 ich1 immer3 denken1 ich1 schauen2 so1 $index1 grausam5 $gest-abwinken1 ich1
+$index1 viel1 tod2
+$prod ehren1 titel-überschrift1
+ich1 niemals2 denken1 so4 $gest bruder1 beide1 schiessen1 $gest-nm-kopfschütteln1
+grausam5
+ich1 selbst1 ich1
+$gest $index1 schuld2 wollen7 auch3 frei2
+frei2 schiessen1
+blöd1
+$gest-abwinken1 ich1 froh1 jetzt1 alles2 vorbei2 vorbei4
+$gest-nm-kopfschütteln1
+$gest-abwinken1 jetzt1 alle1 sehr7 osten1 was1 osten1 schlimm3
+früher1 $index1 ort3 haupt1 ort3
+ein1 lehrer1 $index1 ich1 erzählen3 in1 bruch1 $index1 früher1 wohnung5
+$name $index1
+wohnung5 $index1
+damals1 dorf1 viel6 immer3 sagen1 $index1 ein1 treiben1 dorf3
+immer3 anders2 $index1 treiben1 dorf3 $index1 treiben1 dorf3
+hin1 jetzt2 brechen1 klein9 $index1 bekannt1
+jetzt1 $index1 sagen2 nicht-mehr1
+sagen1 war1 klein9 da1 wachsen3
+hier1 geben2 neu4 bau1 $list1:1of1 sehen-auf4 museum1 $list1:1of1 auto1 museum1 technik1 museum1
+$list1:2of2 vor-kurzem1 fussball2 stadion1 $pms gehören1
+umziehen2
+bau1 fertig1 stadion1
+$list1:3of3 kommen1 gross9 modern1
+teuer2 sehr-viel2
+modern1 welle1 baden1 $prod pflanze1 baum1 $prod
+sehr-viel2 über1 $num-million1 $num-zehner4:4 weit1 preis2
+$gest $gest $gest-abwinken1 akzeptieren1
+$index1 $list1:4of4 hier1 $gest $num-jahr-vor-jetzt1:1 $index1 anfang1 $wortteil-haupt1 stadt2
+bahn1
+$pms körper3
+bahnhof3
+da1
+hier1 früher1 kein4
+stadt2 ende1
+jetzt2 $wortteil-haupt1 bahnhof3 $gest-aufmerksamkeit1
+$gest-aufmerksamkeit1 bahnhof3
+hier1 auch3 modern1 fahrstuhl1 brücke4
+sehr4 luxus1
+und2 bus2
+$num-einer1:9 bus2 reihe5
+weil1 richtung3 viel1 kein3 zug3 verbindung1 $gest
+jetzt1 bus2 hin-und-her1
+ich1 wohl1 ich1
+halbe-stunde2 stunde2 immer3 hin-und-her1 ich1
+was1 interesse1 ich1 mann9 früher1 schaben1 arbeiten1 früh2 $num-uhr1:4 immer4 $num-einer1:3 kilometer1 laufen9 hin2 arbeiten1 fertig1
+abend2 $num-einer1:6 $num-einer1:3 kilometer1 zurück1 laufen9
+hin-und-her1
+dann1 er-sie-es1 april3 geld1 fertig1
+juni15 endlich2 bus2 neu4 mein1 haus1 gegenüber1
+ich1 ärgern-sich2 ich1
+bescheid1
+$index1 sagen1 $index1 stadt2 haben1 $index1 mein1 mann9 $index1 $alpha1:z geburtstag20 geschenk2 $num-zehner4:6
+bus2 $prod zu9 rente5 $index1
+kann2 nicht-mehr1 viel1 kraft1 laufen9
+ich1 lachen1
+stellen-ort1
+$gest-nm-schulterzucken1 ich1 früher1 arbeiten2 dorthin-gehen1 einkaufen1 da1
+jetzt2 $index1 ich1 brauchen1 nicht1 dorthin-gehen1
+hier1 geben2 alle1 geschäft-ort1
+zahn1 $num-einer1:1 kopf1 $num-einer1:2 krank1 arzt1 verschiedenes4
+alle1 da1
+ich1 einfach1 nur1 dorthin-gehen1 was1 versammlung5 und2 gruppe3
+das-ist-alles1
+einkaufen1 brauchen1 nicht5 dorthin-gehen1
+ich1 auch1 körper1 ich1 hier1 alles1
+$gest-nm ich1 auf-person1 stolz1 mein1 zuhause1 $pms
+ja1
+ja1
+schön1 wandern3 weg2 geben2
+$index1 wald3 mein1 wohnung1 $index1 stadt2 ort1
+ich1 bergauf-sich-verbessern1 $index2 wald3 $prod bergab-sich-verschlechtern1 alle1 wandern3 da1 möglich1
+ja1
+schön1
+$gest-nm
+kur1
+was1 der-die-das1
+fest1 dampf1
+herzklopfen2
+rot1 arm1
+gut1 kreislauf1
+prima1
+$gest-aufmerksamkeit1 $gest-aufmerksamkeit1 frage1 eintreten2 alle1 zusammen2 $num-einer1:1 person1
+geld1
+mehr7 ungefähr1 ja1
+sehr2 schön3 aber1 $index1 stadt2 nein3 teuer1 $index1
+essen-stadt1 verschiedenes3
+reich7 reich7
+kur1 reich7
+alle1 luxus1
+ausserhalb1
+schön1
+ich1 war1 weihnachten4 ich1 letzte5 ich1 gehen2
+ich1 glauben2 super1 gross3 $index1 baden-baden1 bekannt2 gross11
+ich1 bisschen2 $gest schock1 klein11
+ich1 anders2 vorstellung1 $index1 baden-baden1
+schauen2 teuer1 $index1 teuer1 $index1 teuer1
+lieber1 dorthin-gehen1 ich1
+oben1
+ich1 unten1
+beide2
+ich1 nicht3 vergessen1
+ich1 zu9 erstes-mal1 mit1 taub-gehörlos1 $index1 ich1
+laufen9 $index1 was1 anziehen-schuh1 behälter3 reinschieben1
+ich1 interesse1
+was1 $index1
+gefühl3 $prod
+legen4 warm2 fertig1 anziehen-schuh1
+fuss4 $gest-aufmerksamkeit1
+fuss4 gesund1 fuss4
+ich1 toll1
+prima1
+ich1 denken1 an1 ich1 mutter1
+ich1 mutter1 immer4 kalt1 fuss2 ich1
+$index1 $index1 bekommen2 nicht1
+rund13 nicht1
+ich1 denken1 gut1 ich1 weihnachten4 geschenk2
+gut1 ich1 kaufen1 $num-einer1:4 $num-zehner1:2 euro1
+bald3 $num-einer1:5 $num-zehner1:2 euro1 ich1 egal3 $gest-abwinken1 ich1 bezahlen1 $prod
+über1 ich1 geben1
+prima1 super1
+ich1 weihnachten4 mama1 $prod schock1 fuss8 waschen-hände1
+ich1 gut1
+krankenschwester1 $index1 sagen1 super1 $index1
+ich1 $gest-abwinken1
+später7 ich1 jetzt1 ich1 anders1 geschäft-ort1 mein1 hier-jetzt1 ich1
+ich1 laufen9 ich1 kennen1 nicht5
+ein1 taub-gehörlos1 $index1 mit1 ich1 zusammen-person1
+schon1 sagen4 gut1
+ich1 sagen1 teuer2 $index1 $num-einer1:5 $num-zehner1:2 euro1 teuer2
+$index1 $gest-nm-kopfnicken1
+$index4 folgen1
+$index1 wütend2 auf-person1 ich1
+$gest du1 lügen1 $num-einer1:5 $num-zehner1:2 nicht3 schauen1 $index1
+ich1 $gest $num-einer1:10 euro1
+ich1 kochen-innerlich4 schon1 ich1
+$num-einer1:2 $prod
+dann1 pflege1 $index1 alle1 ich1 wo1 kaufen1 $index1
+ich1 sagen4 ich1 baden-baden1 dort1 $gest-aufmerksamkeit1 $index4 meister1 es-gibt3 $index1
+meister1 $gest-abwinken1 meister1
+$index1 $index4 es-gibt3 $index1 kosten2 $num-einer1:10 euro1 $index1
+masse-person-aktiv1 schon1 ich1
+dann1 ein1 taub-gehörlos1 sagen4 wollen7 auch3
+ich1 besorgen1 $index1 $prod leer6
+ich1 laufen9 ich1 pflege-objekt1 ich1 bescheid1 leer6
+$gest-abwinken1 ich1 haben1 $num-einer1:4 kaufen1
+fast2 alle1 pflege-objekt1 haben1 kaufen1
+ich1 geschichte2 du1 schuld2 du1 alles2 $index1 leer9
+lachen1
+ich1 denken1 $index1 $num-einer1:4 $num-zehner1:2
+teuer1
+$gest-nm-kopfnicken1
+verstehen1 klar1 ausgleich5
+wollen7 nicht6 verlust1
+griechenland-$kandidat-stu32
+mein1 hier1 es-gibt3 alles2
+indien2 china1 essen2 aufzählen1 alle1 da1
+aber1 selbst1 schaffen1 trinken2 nicht4
+hier1 flach1
+aber1 bekannt4 trotzdem1 $pms $oral bereich1
+$prod ich1 ein1 merkwürdig1 $prod wo1 $prod ich1 wissen2
+meistens1 alle1 bekannt2 $index1 auto1 museum1
+$index1 du1 woher1 du1 ich1 $gest-abwinken1 du1 auto1 museum1
+bekannt2 hier1
+und5 drehen2 $index1 auch3
+weil1 es-gibt3 kommen1 $num-jahr-vor-jetzt1:2 stuttgart1 konflikt1 mit1 $index1
+weil1 stuttgart1 wollen7 wegnehmen2 $index1
+$index1 empört-sein2 $index1
+chaos1 klauen1 $gest
+später4 konflikt1
+$gest-abwinken1 halb3 $prod
+aber1 trotzdem1 stuttgart1 bisschen4 betroffen2
+$index1 mehr1 alle1 meldung1
+ich1 aufzählen1
+$index1 $prod
+alle1 auge1 auf-person1 geld1 ich1 nein3
+$gest-abwinken1 genug3 jetzt1 gross3 viereck1 umsonst2 gross3 $index1
+jetzt1 überlegen1 $index1 wollen7 vielleicht3 dazu1
+ein1 $gest sagen1 wie-frage1 welt1 geschäft-ort1 ein1 gross3
+alles2 da1
+aber1 $index1 alle1 handlung1 $index1 wütend2 $gest
+alle1 $index1 billig2 alle1 masse-person-aktiv1
+alle2 geschäft-ort1 kaputt4
+auch3 problem2
+$gest bis1 heute1 hören1 $gest-nm-kopfschütteln1 fest1 $index1 nehmen1 oder6 noch-nicht1
+wissen-nicht2 nicht3
+sonst1
+und5 es-gibt3 auch3 schön3 spazieren1
+und5 hier1 auch3 ein1 dorf1 abstand5 $num-einer1:1 kilometer1 abstand5 $index1 auch3 bekannt2 früher2 $name-napoleon1
+$gest-aufmerksamkeit1 falsch1 $gest-aufmerksamkeit1 $index1 kaiser1 $gest-überlegen1 $oral einstecken3
+name1 $gest-aufmerksamkeit1 kaiser1 flach1 $index1
+sein-ihr1 sohn1 auf9 flucht1
+$index1 vater1 wollen7 sohn1 schneiden-schlagen-kopf1 $index1
+weil1 $index1 schütteln3 $index1 wütend2 wollen8 nicht3 krieg1
+$index1 $index1 auf9 flucht1 kommen1 diese2 nacht2
+schlafen2
+nacht2 schlafen2 schlafen3 $index1 geld1
+kreuz1 ein1 geld1 fahne1 früher1 soldat2 bekannt2 stab2 fahne1
+wertvoll2
+fahne1 geben2 $gest-abwinken1 $index1 zufrieden6 $index1 doch1 weiter1 flucht1
+dorthin-gehen1 ist1 verhaften2
+fahne1 bis1 heute2 noch1 $index1 als1 museum1 aufhängen-wäsche1
+und5 erzählen4 auch3 geschichte2 baby1 kleidung1 früher1
+$gest-überlegen1 kaiser1 $gest-ruhig-bleiben1 ich1 glauben2 kaiser1 sein-ihr1 sohn1
+klug1 ich1 zeugnis4 $num-einer1:5
+ich1 schock1 auf-person1 dumm2
+$index1 kaiser1 sagen1 kaiser1 $gest schule1 auch3 dumm1 $index1
+loben1 ergebnis3 kaiser1 $gest
+so1 mein1 heimat1
+damals1 damals1 war1 sehr4 schlecht1 verbindung1
+jetzt2 neu4
+vor4 $num-jahr-vor-jetzt1:1 s-bahn1
+wunderbar2
+kreuz1 s-bahn1 rund-um-die-uhr3 schnell3 rund-um-die-uhr7 lokomotive1 $prod
+sehr3 gut1
+und2 bus2 auch3 aber1 bus2 mist2 was1 baden1 $num-einer1:1 bis1 rund-um-die-uhr1 ende1
+sonntag2 kein5
+$gest der-die-das1 ein1 pech2 $gest
+ja2
+$index1 berg1 hin2
+$gest-aufmerksamkeit1 aber1 s-bahn1 meistens1 durch1 weil1 gegen2 verbindung1 hin2 $städtenamen5 $prod $prod
+hin2
+aachen3 $index1 richtung3
+$prod schnell3 $gest-aufmerksamkeit1 schnell3
+ich1
+ich1
+$gest-aufmerksamkeit1 ich1 mitte1 ich1
+egal3
+ich1 kommen1 ich1 eintreten1 hin1
+$index1 schnell3 $index1 hin1 s-bahn1 richtung3
+$index1 viel7 besser2 als1 früher1
+$index1 gross3 $oral
+dasselbe3 ich1 $index1
+dasselbe3 gleich1 ich1 bis1 $num-teen2:9 ende1
+hin1
+kann2
+ich1 kann2 auch3 rufen1 fahren-lenkrad1 bescheid1
+aber1 vorher1 halb6 stunde2 meldung1
+problem2
+$gest-abwinken1 aber1 $name haben1 erzählen3 in1 $index1 jetzt1 neu4 $index1 regel1 plan5
+$index1 mit1 was1 hören2 schaden1 titel-überschrift1 drücken-mit-daumen1 spirale1 titel-überschrift1
+es-gibt2 hin2
+ich1 sagen4 kann2 wir1 auch3 protest1
+ich1 mögen4 auch3 $index1 bescheid1 $index1 schauen2 da1 ich1 da2 ausweis3 $index1
+$name $name $index1
+ich1 werfen1
+ich1 sagen4 zeigen1 zeigen1 $index1 aufforderung1
+ich1 problem2 ich1
+und6 ein1 $num-einer1:2 wichtig1 was1 handy3 bescheid1 ich1 $num-einer1:1 erlebnis1 ich1 bescheid1 ich1 $gest ich1 warten1 kommen1 nicht1 kommen1 nicht1
+schon1 $num-zehner1:2 minute1 rund-um-die-uhr5 ich1 denken1 so4 ich1 schon1 dorthin-gehen2 ich1
+laufen9 ich1 schon1 dorthin-gehen2
+ich1 sich-ärgern5
+ich1 $gest fuss3
+kommen1 nicht1 ich1
+laufen9 $index1 später10 ich1 beschweren-sich2 auf-person1
+$index1 $index1 kann1 nicht3 sagen1 $index1 ich1 sagen4 $gest $index1
+vielleicht1 erreichen1 $index1
+ich1 problem2 $index1 erreichen1 oder6 nicht5
+aber1 ich1 bisschen2 fehler6 ich1 besser2 ich1 schreiben1 bitte2 zurück1 antwort1
+gleich1 antwort1 ob1 $oral gehen4
+$index1 halten-handy1 sich-mit-etwas-abfinden3 antwort1
+wenn1 nicht1 heissen4 $index1 nicht1 festhalten1 oder6 irgendwo1
+$oral aufpassen5 punkt2 ich1 jetzt1 klar1 ich1
+selbst1 gefühl2 manchmal3 stimmt1 ich1
+schön5 $index1 ich1 nicht5 da1 ich1 $gest-abwinken1 laufen9
+$num-einer1:5 $num-zehner1:2 minute1 nach1 zuhause2
+luft1 gut1
+regen1 ich1 aushalten3
+sitzen1 $index1 kommen2 ich1 einsteigen1
+manchmal3 $index1 lassen1 ich1 kosten2 frei1
+manchmal3 $index1
+manchmal3 $index1 bezahlen9 $num-einer1:5 euro1
+ich1 verstehen1 beide2 nicht5 ich1
+$gest-abwinken1 ich1 egal4 $num-einer1:5 dazu1 ich1 egal4 $gest-abwinken1
+ich1 denken1 hin-und-her1 kosten2 nicht5
+warum1 hin-und-her1
+warum1 hin-und-her1 ich1 weil1 wohnung5 ich2 nahe1
+$index1 $gest wohnung5 nahe1 $num-zehner2:2 minute1 hin-und-her1
+kennen1 hin-und-her1
+hin-und-her1 zug1
+bus1 $prod um2 bahnhof2 wieder1 bahnhof2 $index1 zug1 hin-und-her1
+nein1 bus1 schule1 bus1 hin-und-her1
+klar1 klein3 $prod
+helfen1 hin-und-her1 bis1 $num-einer1:5 klasse7
+um1 zug1 hin-und-her1 grund4 bus1 $index1 bezahlen1 muss1
+kosten2 vergessen1
+bezahlen1 muss1
+ich2 etwas-planen-und-umsetzen1 $index1 auf-person1 ausweis1 warum1 nicht3 lieber1 ausnutzen1
+ich2 $num-hundert2 taub-gehörlos1 ausweis1 $num-hundert2 prozent1
+lieber1 ausnutzen1 $index1
+stimmt1 $index1 nehmen1 erfolg1 marke1 bekommen1 ich2
+lieber1 ausnutzen1 ausweis1 hin-und-her1 mehr1
+krankenschwester1 so1 typisch1 hart4
+spüren1 streng2
+$index4 streng2 spüren1
+frei2 wohnung5 nahe1 $num-zehner2:2 minute1 hin-und-her1
+banal1
+wenn1 weit1 stunde2 klar1 dorthin-gehen1 internat1 akzeptieren1
+ich2 nahe1 hin-und-her1 $gest schmarrn1
+sein-ihr1 generation4 sein-ihr1
+jetzt3 noch4 jetzt3 noch4 $index1
+abhängig4 person1
+klar1 normal1
+ich2 pfui1 nichts1 nicht1
+früher1 zusammen1 nicht3 viel1 internat1 nicht3 mannschaft1 nicht3
+ich2 klasse5 ab1 hin-und-her1
+deshalb1
+$index1 entwickeln1 besser1
+zug1 verbindung1 sehr2 früher1 mittelmässig1 deshalb1
+möglich1
+perfekt1 $alpha1:j
+alle1 frei4
+selbst1 schlecht1 erfahrung6 ich1 selbst1
+war1 lehrer1 person1 $index1 oral1
+durch2 direktor3 $num-ord1:2 jetzt3 $num-ord1:1 direktor3 $index1 $gest-überlegen1 $name $name
+$name $name $index1 ja2 $index1 gebärden1 feind1 $index1 hassen1
+gerücht1 erfahren1 gerücht1 lehrer3 auch1 bescheid1 $index1 darf-nicht1 $index1
+$index1 meistens1 da-nicht1 leer1 nur2 klasse5 klasse1 $index1 gebärden1 etwas4 gebärden1 sprechen1 gebärden1
+kommen1 sprechen5 ich2 $gest
+$prod grund4 person1 $prod sprechen5 ändern1
+direktor2 person1 sein-ihr1 regel1
+sehen1 übertreiben1 taub-gehörlos1 unterdrücken1 wie4
+ich2 wahrnehmung1 wo1 bleiben3
+auch1 diskussion1 gebärden1 ich2 beobachten3 was-bedeutet1
+$prod hören1 vorteil1 hören1 zuhören1 vorteil1
+nur2 $num-einer1:1 mist2 fertig1
+kirche1 hin-und-her1 stimmt1 ich1 woche1 $num-einer1:2 achtung1 $num-einer1:2 woche1 $num-einer1:2
+kreuz1 inhalt3 $num-einer1:1
+nein1 stunde2 fertig1 später10 nochmal2 stunde2 unterrichten1 sein-ihr1
+hin1 $prod letzte1 hinten3 $prod schlafen2 $gest-abwinken1
+klar1
+schön1
+zusammen7 fussball2 pause1 richtung1 fussball2
+dasselbe2 kind2 naiv1 bereich1
+erfahrung6 kein1
+aufwachsen1 erfahrung6 ich1 erfahrung6 lernen1 durch2 meistens1 bildung1 $index1 erfahrung6 $index1
+merken2 unterschied2
+$index1 ja2 stimmt1 tag-zurück1 ich1 eintreten1 $index1 $num-ord1:1 lehrling2 stimmt1
+feile1 und-so-weiter5 plötzlich4 $index1 mann10 dick-körper1 hals1 person1
+auf-person1 beruf1 auf-person1 ich2 schule1 aufwachsen1 kennen1 $index1 gut1
+dorthin-gehen1
+feile1 spitz1 feile4 spitz1
+$index1 auf-person1 festhalten4
+ich1 wütend2 auf-person1 ich1 schubsen1
+was1 problem2
+wissen2 nicht1 zufall1 nichts1 $gest $index2
+etwas-planen-und-umsetzen1 mahnung1 etwas-planen-und-umsetzen1 schluss1
+ich1 für1 klar1 stechen7
+nichts-dazu-sagen1 schutz2 ich2 gegen1 ich2 für1 $prod
+hamburg2 gleich2 $num-einer1:2 nicht-ernst-nehmen1 $gest-abwinken1 stimmt1
+$gest-abwinken1 schule1 arbeiten1 vorbei4
+$prod $index1 anziehen-oberkörper1 fertig1 draussen1 $prod
+schulter1 schlagen3 ich2 hinknien-sich1 ich2 $index1 auf-person1 plötzlich4 für1 verteidigen1 $gest
+ich2 $gest
+$index1 wünschen1
+ich1 $gest $index1 russland4 gehören1 ich2 wissen2 nicht-ernst-nehmen1
+ablauf2 weg-verschwinden1 schluss1
+klar1 wissen2 gut1 mann1 schule1 gross3 unterschied2
+schlecht1 erfahrung6 $index1
+es-fehlt-etwas1 regel1 streng2 streng2 essen1 merkwürdig3 sein-ihr1
+auch1 geben-geld5 $index1 halten-blatt1 $num-zehner2:3 euro1 nicht-mehr1 ich1 wünschen2 aussuchen1 nein2 selbst1 regel1 aussuchen1
+essen1 sauber-machen1 nein2 aufteilen5
+wie3 $gest-ich-weiss-nicht1 jesus1 verteilen4 aufteilen5 verteilen4 wie4 gefühl3
+selbst1 liebe1 kühlschrank2 schön1 werfen1 essen1 gut1
+nicht3 zeit1 $num-einer1:10 schicken1 zimmer1 gefühl3 frei2 nicht3
+leben4 gut3 leben1 gut3 $index1
+$index1 $index1
+auch1 auch1 heben1 ich1 stimmt2 mehr6 wenig4
+leben4 schlecht2 wie4 geschmack1
+$gest-hand-auf-brust1
+schicken1
+schluss1 $index1 regel1 $index1 internat1 sein-ihr1 internat1 regel1 sein-ihr1
+auch1 früher1 jetzt3 moment3 $index2 gruppe3 taub-gehörlos1 zusammen7 verringern1
+mehr1 stimme1 schwerhörig1 $gest-nm
+gross7 auch1 gruppe1 früher1 zusammen7 gut3 $name gebärden1 $index1 schmecken1 zusammen7 gut3
+wie-frage-vergleich1 gruppe1 schlecht2
+türke1 gruppe1 russland4 gruppe1 $prod gruppe1
+taub-gehörlos1 zusammen-gruppe1 bestimmt1 $index1 das-ist-alles1 $index1 nichts1 kein1
+denken1 ab2
+merken2 ich1 $num-jahr-nach-jetzt1:10 $num-zehner2:2 $num-jahr-nach-jetzt1:1 taub-gehörlos1 verringern1 $gest-abwinken1
+viel1 sehen1 ich1 bbw1 merken2 schon1
+ich1 $num-lehrjahr1:1 bis1 jetzt3 $num-lehrjahr1:4 ich1 verringern1 sehr6
+banal1 taub-gehörlos1 wimmeln1 verringern1 schnell3 ändern1
+schnell3
+leben4 so1
+ja1 kennen1 ja1 noch4
+dorthin-gehen1 abhauen1 $prod
+stimmt1 ich1 früher2 internat1 vorher4 $index1 heilbronn1 $index1 schule1 hin-und-her1
+taub-gehörlos1 bereich1 normal1 $gest-abwinken1
+$index1 internat1 $index1 voll2 taub-gehörlos1 mannschaft1 $index1 erziehung1 auch1 gebärden1 kann1
+oral1 nicht3 gebärden1 kann1 praktisch1 gebärden1 ich2 schule1 person1 gebärden1 voll2 gebärden1
+es-gibt3 paar-anzahl1 schwerhörig1 gestik1 gebärden1 gebärden1 da1 gebärden1
+angenehm2 gemeinschaft1
+spielen2 oder1 anders2 viel1 unterschied1 draussen1 zusammen1 basketball2 spielen2 zusammen1 verschieden1
+angenehm2
+dann1 hin1 essen-stadt1 hin1 dasselbe2
+erziehung1 kann1 gebärden1
+es-gibt3 $index1 $gest-nm-sprechen1
+$index1 $gest-abwinken1 anders2 erziehung1 $index1 gut1 ich1 gebärden1
+$index1 egal-sein1 $gest-abwinken1
+$index1 mein1 $index1 richtig1 sein-ihr1 verantwortung2 sein-ihr1 zuständig1 mein1 $index1 nicht3 $gest-abwinken1
+$index1 wichtig1 $gest-abwinken1 gebärden1 kann1
+schule1 dasselbe2 gebärden1 kann1
+klasse9 gebärden1 voll2 wir1 angenehm2
+aufwachsen1 oral1 ich1 nur2 kurz3 $index1 heilbronn1 $index1
+$num-von-bis1 üben1 $index1 $prod
+zuhören1 aufforderung1 lieb1
+ich1 hörgerät1 ich1 $index1 ungefähr3 diagramm2
+mein1 melden2 falsch1
+ich1 ungefähr3 $gest-ich-weiss-nicht1 wahr2 gut1 ich2
+kein8 oral1 nichts1
+ich1 $num-ord1:1 $num-von-bis1 schon1 gebärden1 alle2 gebärden1 schon1 ich2
+nur2 lehrer2 $index1 gebärden1 kann1 kurz3 üben1 oral1 üben1 fertig1 gebärden1
+gut1
+erleichtert2
+verstehen1 klar1
+ja1
+verschieden1
+ich2 zusammen1
+dumm1 zusammen1
+nacht2 $gest-nm basteln1 erziehung1 schlafen2 gut1
+ich2 geheim2 zusammen1 wohnung1 zimmer1 dorthin-gehen1 zusammen1 fernseher1 fernbedienung1 zuschauen1 fernbedienung1 dvd1 reinschieben-cd1 zuschauen1
+geheim2
+verhaften2 egal3 $gest-abwinken1 leben1
+oder5 draussen1 basketball2 mädchen6 auch1
+ich2 internat1 nur2 bub4 team2 mädchen6 nein1 bleiben2
+ich2 draussen1 basketball1 zusammen7 draussen1 treffen1
+oder2 besuchen1
+schön1 internat1 schön1
+ich1 richtung2 schauspieler1 nein1 wechseln3 theater6 richtung2
+ich1 eintreten1 richtung2
+immer4 jahr1 ich1 realschule1 ich1 jahr1 $index1 wechseln3 $index1 $index1 $wortteil-haupt4 schule1 wechseln3 $num-einer1:2 $num-einer1:2
+ich1 immer4 dabei1 ich2 zusammen1 taub-gehörlos1 zusammen1
+theater6 fertig1 gruppe1 $index1 zusammen1 essen1 zusammen1 schön1 zusammen1 abschluss1
+ich1 früher2 theater6 üben1 fertig1 theater6 zeigen1 fertig3 zusammen7 spass1 spät1
+schön1 stimmt1 $gest-nm
+hin-und-her1
+ja1 anfang1 kurz2 traurig1
+merkwürdig3 ich2 eltern1 sehen1 nicht3 alltag1
+schneiden-schere1
+$index1 bereich1 ich2 alle3 kennen1
+nur2 $num-von-bis1 gleich2 verband2 $prod gebärden1 kennenlernen1
+ich2 leer1 ich2 neu1 kommen3 hilflos1
+$index1 kennen1 $index1 $index1 früher2 $index1 nürnberg1 hauptsächlich1 kommen1 $num-einer1:2 einige1 verband2 kennen1 ich1 treffen2 voll2 frisch1 person1
+wie3 neu1 geburt1 kommen3
+anfang1 traurig1 merkwürdig3 $index1
+entwickeln2 besser1 $gest-abwinken1
+dann1 essen-stadt1 umziehen1 voll-in-ordnung1 luft3 ich2
+wissen2 selbst1 fest1 da1 aufwachsen1 naiv1 noch4 ich1 naiv1 $gest-nm
+stimmt1
+ich1 anders2 möglich1 kein8 wohnung1 heim1 beste1 $index1
+$index1 wohnung1 heim1 $index1 wohnung1 ich1 allein1 zimmer1 nein1 $alpha1:w auch1 hochhaus3 $alpha1:w hochhaus3
+verschieden1 zusammen3 zusammen3 zusammen3
+ich1 $num-personenzahl1:4 ich1
+anfang1 einziehen1 hörend1 zusammen3
+ablauf1 taub-gehörlos1 bescheid1 herkommen1 $index1 einziehen1 bescheid1 bitte1 ich2 zusammen1
+$gest $index1 erstens1 $index1 weg-entfernen2 gut1 ich1 $num-einer1:2 warten1 $index1 weg-entfernen1 ich1 dazu1 jetzt3 $num-personenzahl1:4 taub-gehörlos1 voll2 $num-personenzahl1:4
+angenehm2 darf1 ich2 malen2 ja1 darf1 gut3
+ich1 malen2 renovierung1 ins-auge-stechen1 angenehm2 gefühl3 wohl1 gut1 wie4 eigen1 wohnung1 wohnung3 wie4 bereich1 mein1
+bis-jetzt1 gut1
+kochen3 klappt1 wir1 etwas-planen-und-umsetzen1
+internat1 dasselbe2 essen-stadt1 $index1 dasselbe2
+selbst1 stehen1 auch1 $index1 essen-stadt1 $index1 ich1 mehr1 selbst1 stehen1
+erziehung1 da1 ja1 aber1 wenn1 $index1 möglich1 $index1 kommen1
+$index1 gut1 lassen1 selbst1
+ich1 etwas-planen-und-umsetzen1 selbst1 klappt1 bis-jetzt1 gewohnheit1
+ich1 eben-zeit1 einfallen1 schlagen1
+$num-einer1:1 lehrer2 $index1 neu1 einstellen-arbeit1 $index1 gebärden1 schlecht2
+ich1 necken1
+$index1 leicht1 aggressiv1 $index1
+plötzlich4 $index1 ich1 necken1 kein8 klasse8 ich1
+plötzlich4 muss1 ich1 schauen2 nicht3 ich1 störung1 nicht3
+alle2 auf-person1 mobbing1 $index1 ich1 necken1 ich1 kein8 ich1
+nur2 plötzlich4 $index1 $prod verstehen1 ich1 schauen2 ich1 $index1 $prod
+$index1 denken1 ich1 necken1 $index1 auf-person1 raus3
+ich1 moment2 ich2 kommunikation1 verstehen-nicht1
+ich1 raus3 ich2
+für1 klasse9 sehen-auf2 bleibt-überlassen1
+ich2 $gest-abwinken1 kurz3 so1 gewesen1 wissen2
+ja2 immer4 erinnerung2
+ja2
+nicht5 erwartung1 du1
+stimmt1
+$gest-nm-kopfnicken1
+$oral
+$oral
+$gest-nm
+$gest
+$num-ord1:2 $gest-nm-kopfnicken1
+$index2
+stimmt1
+$gest-nm-kopfnicken1
+aber1 ich1 erwartung1 stark2 schnell2 $prod
+wie3 ich1 sehen1 aber1 $prod
+wie4 $prod $index1 sehr6 hart1 ausbreiten3 wie3 schnell3
+blitzschnell2 zeit1 wie3 unten5 unten5
+wie3 $prod
+$alpha1:k
+deshalb1
+$gest-nm-kopfnicken1 $gest-nm-kopfschütteln1
+ich2 unglaublich2 schnell3
+später6 auswahl1
+wie3 chemie2 auswahl1 anpassen1 denken1 vorher1 denken1 klar1
+$gest-abwinken1 zeit5 amerika1 haupt3 $pms $index1
+sitzen1 achtung1 $gest-überlegen1 schule1 besuchen1 klasse3
+$index1 zufall1 genau1 was1 lied1 alle1 sehen1 sitzen1 achtung1 $pms kommen3 $gest-nm
+$gest-nm
+wie3 schock1
+moment2 $index1 fertig4 achtung1 ich1 leider1 zeit1 muss1 abbruch1 wimmeln1 fertig4
+einfach1 los-start3 $prod
+wahr2 schon1 bestimmt2 vorher2 warnung1 schon1
+einfach2 achtung1 $gest $gest-nm noch4 oder6 spontan1 flugzeug2
+sehr6
+ich1 denken1 $index1 über1 $index1 kind2 moment3
+du1 beispiel2 beide1 schwanger2 beide2 schwanger2
+$index1 arzt1 beratung2 klappt1 du1
+$gest-aufmerksamkeit1 aber1 krankenhaus1 saal2
+du1 problem2 du1
+ich1 achtung1 $gest-aufmerksamkeit1 kein7 helfen1
+ich1 rein-hinein2 ehemann1 arbeiten1 $gest-abwinken1
+ich1 rein-hinein2 arzt1 sprechen6
+ich1 bescheid1 ich1 nicht5 verstehen1
+bisschen2 beruhigen3
+$prod
+ich1 wie3 ich1 gefühl2
+$oral streicheln1 streicheln1 helfen1 nichts1
+du1
+schon1 vorher4
+ich1 ab8 wegen1 rücken-unten1 schmerz3
+ich1 abbruch1
+ich1 schluss1
+atmung1 üben1 ich1 zuhause1 selbst1 atmung1 üben1
+sehr6 $num-teen5:2 stunde1 lang-zeit4
+eng1
+schneiden2 $gest-nm
+$num-ord1:2 klappt1
+kaiserschnitt1
+ich1 $num-ord1:1 woche1 verlängerung1 später10
+$gest-nm-kopfschütteln1 kind-klein1 wollen-nicht1 ab1
+rund-kugel1 kein8 ausbreiten2
+kein8 bleiben3 zu7
+trotzdem1 ich1 krankenhaus1
+arzt1 sagen1 muss1 spritzen1 schneiden-schere1
+rund-kugel1 schneiden-schere1
+ich1 gefühl2 nicht5 $gest-nm-kopfschütteln1
+ausbreiten2 wie3 warm2 ausbreiten2
+achtung1
+ich1 gefühl2 $gest-nm-kopfschütteln1
+soll1 ich1 krankenhaus1 $num-uhr1:7 morgen2 geburt1
+halb1 $num-einer1:1
+schnell1 geburt1
+froh1 halb1 $num-einer1:1 mädchen4 $gest-abwinken1
+später10 $num-teen5:8 monat1 später7 $gest-abwinken1
+$num-ord1:2 kind1 kind2 geburt1
+woche1 früh4 früh3
+woche1 früh4 früh3
+schnell3 geburt1 schnell3
+ich1 schmerz3 rücken-unten1
+kind2 tochter1 ich2 aufpassen1 oma1 werfen1 ich1 schnell2 krankenhaus1
+ich2 bescheid1 schmerz3 rücken-unten1
+arzt1 aber1 wasser11 rund-kugel1 noch-nicht4 ausbreiten2 $gest-nm-kopfschütteln1
+$index1 muss1 abschneiden1
+meinung-ändern1 arzt1 nein3 besser2 abschneiden1
+ich1 okay1 $gest-abwinken1 ich1 abschneiden1
+$num-einer1:2 stunde2 schon1 geburt1
+harmlos1 tempo3
+froh1
+stunde2 geburt1 geburt1
+$index1 arzt1 sagen1 $gest abschneiden1 ich1 wollen-nicht1 nicht3 abschneiden1
+gewesen1 ich1 erstens1 abschneiden1 du1
+kein8 kaiserschnitt1 $gest-nm-kopfnicken1 gut1
+abschneiden1 schluss1
+kann2 sitzen1 monat1 kein8 sitzen1
+ich1 gleich1 schwimmen1 schwimmring1
+$prod sitzen1 sitzen1 wohl1
+ich1 $prod
+frau1 $index1 einfach2 sitzen1 $prod kann2 $index1
+ich1 auch3 ich1
+aber1 bauch4 möglich2 leiden1
+$gest-abwinken1 ein1 monat1 nicht3 vergessen1
+und2 $num-ord1:2 bauch1 ich1 arzt1 ich2 bescheid1 bitte1 ich1 wollen1 nicht3 schneiden-schere1
+$index1 arzt1 sagen1 vielleicht4 kopf1 kreis1 ich1
+gross3 kann2 unter1 oder4 schauen1 kommt-darauf-an1
+ich1 $gest achtung1 kommen2 kopf1 kind-klein1 bauch4 kopf1 unten1
+arzt1 langsam1
+schnell3 aufplatzen2 riss3
+heute1 heute1 nicht-mehr1 schneiden-schere1 alle1 jetzt1 nicht-mehr1
+selbst1 nein3 riss3
+neu1
+explosion1
+$gest-abwinken1 ich1 geburt1 klappt1 $num-ord1:2
+aber1 jetzt1 viel1 jung1 frau1 taub-gehörlos1 frau1 alle2 mit1 ich1 dolmetscher1 mit1 dolmetscher1 mit1 rein-hinein2 alle2
+neu1
+früher1 kein7 ich1
+$gest schön1 $index1
+mit1 dolmetscher1 brauchen1
+$oral ehemann1 $index1 mit1 dabei1 rein-hinein2 $index1
+ehemann1 erstens1 nicht3 dabei1 $num-ord1:2 hinten5 dabei1
+schön1 mit1 dolmetscher1 einstellen-arbeit1
+helfen1 unterhaltung2 $gest-nm-kopfnicken1
+seite-körper1
+meistens1 schleier1 $index1 auch3 zusammen-person1
+unterhaltung3 zusammen-person1
+früher1 ich1 allein1 wie3 $gest
+dunkel2 welt1
+aufwärmen1 warm2 seite-körper1 brauchen1
+heute1 besser1 taub-gehörlos1 mehr1 dolmetscher1 einstellen-arbeit1
+harmlos1 einstellen-arbeit1
+besser1
+wegen1 kommunikation1 $gest
+mein1 traum1
+auch1 atmung1 klappt1 nicht5
+deshalb1
+was1 $oral
+gebärmutter1 nicht5 richtig1 $oral mutter6 gebärmutter1 kuchen8 kein8 abziehen2 abziehen2
+$gest-nm-kopfschütteln1 nicht6
+$oral
+$index1 prinz1 aus1 holland1 $num-einer1:4 mal3 kaiserschnitt1 $index1
+stark3 $index1
+schaffen1
+spezial1 vielleicht4
+$gest-nm verschieden1
+es-gibt3 auch3 $num-einer1:2 tag1 kampf1
+kommen1 kein8 geburt1 kampf1 lang-zeit4
+alle2 alle1 vorbei3
+$index1 geburt1 noch5 schlimm1 als4 zahn1 schmerz3 oder4
+schlimm1 zahn1 schmerz3 noch5 schlimm1 als1 geburt1 stimmt1
+$index1
+$gest-abwinken1
+wissen2 $num-einer1:2 bub8 $num-einer1:2 bub8
+ich2 erstens1 mädchen2 dann1 $num-ord1:2 bub8
+ich2 wünschen5 egal3
+hauptsache1 wichtig1 gesund2
+stimmt1 gesund2
+traurig4
+$num-personenzahl1:3 mann1 $num-einer1:1 frau1 du1
+$gest-nm-kopfschütteln1 ich1
+$num-einer1:2 $num-einer1:3 $gest-nm-kopfschütteln1 $num-verhältnis3
+ehemann1 sohn1 ich1 tochter1 ablauf1
+egal3 $index-oral1 bub8 klein5 spielen2 $gest-abwinken1
+wichtig1 gesund2 wichtig1
+ja2 $gest-nm-kopfschütteln1 tochter1 nein1 mehr1 mehr1 tochter1 mehr1 vater3 zusammen-person1
+streicheln1 tochter1 zusammen-person1 aufwachsen1
+aber1 hier1 gross5 trennen4
+wenn1 ich1 zusammen-person1 ich1 ich1 tochter1 wollen7 mit3 stadt2 kein8
+wenig4 $gest-abwinken1
+dialog1 wenig4 $gest-abwinken1
+$index1 interesse1 $index1 anders1 interesse1 $index1 gehören1 ich1 anders2 interesse1
+mehr1 arbeiten2 hin2
+streiten1 warum10 wegen1 geschmack1 anziehen-oberkörper1
+sohn1 mögen-nicht1
+ja1
+warum10
+lieber1 allein1 stadt2 beobachten4
+ich1
+ich1 ich1 allein1 lieber1 allein1 stadt2 dorthin-gehen1
+ich1 luft3 wollen7
+brille1 kaufen1 auch3 allein1
+tochter1 zusammen-person1 ich1 wollen-nicht1
+sagen1 anders1 geschmack1 gehören1
+ich1 schluss1
+körper3 allein1 stadt2 mehr1 kann2
+stunde2 stunde2 stadt2 bummeln1
+letzte4 letzte4 ich1 kennen1 $gest-abwinken1 $num-einer1:7 stunde2 stadt2 laufen-herum1 harmlos1
+$index1 klein6 laufen9
+ich1 mehr1 laufen9 abschalten-kopf1
+kann2 $index1 rein-hinein2 $prod schauen1 kleidung1 $prod
+früher1 wenn1 ich1 zeit1 knapp1 ich1 $prod oben2 oberfläche1 sehen1 bereich1 nicht5 finden1
+wenn1 plötzlich4 zeit1 beobachten3 kopf1 abschalten-kopf1 schauen3
+dann7 mass-vertikal1 kaffee2 hin2 ich1 kaffee2 trinken-fein1 kaffee2
+zeitung1 lesen-zeitung1 fertig1
+wohl1 wichtig1
+mit1 ehemann1 mit1 ehemann1 kind2 streiten3 sprechen1 meinung1 $prod
+ich1 und2 ich1 $gest
+kein6 spass1 ich1
+lieber1 allein1 ich1
+sehen-auf4 zufrieden4 abend2 kann2 heim6
+tochter1 sagen1 du1 spinnen-verrückt-sein2 $gest-abwinken1 lang-zeit4 stadt2 bummeln1
+ich1 warum1 nicht1
+hobby1 stadt2 bummeln1 bisschen1
+wenn1 lang-zeit4 samstag1 wenn1 masse-person-aktiv2 weihnachten4 einkaufen1 ich1 kommen1 nicht3
+ich1 nur2 unter1 woche2 oder2 freitag3 urlaub10
+$gest-nm-kopfnicken1 morgen2 freitag3 beste1 abend2 stadt2 ich1 bummeln1 ja1
+samstag1 nicht3
+masse-person-aktiv1
+kein3 ruhe1
+kein6 spass1
+mögen-nicht1
+lieber1 fax1 woche2 kurz4 stadt2 bummeln1
+plötzlich4 richtig1 stadt2 bummeln1 immer4 ich1 nehmen1 freitag3
+morgen2 $num-uhr1:10 geschäft-ort1 alle1 auf-offen1 $num-uhr1:10 bis1 $num-uhr1:5 $num-uhr1:6 rund-um-die-uhr2
+ich2 bummeln1
+früher1 früh4 zu1 wissen2 du1
+früher1 früh4 zu1 $gest-abwinken1
+$index1 früher1 früh5 auf-offen1 wissen2 du1
+ich1 zufall1 plötzlich4 ich2 haben-besitzen1 termin1 arzt1 halb1 $num-einer1:9 $gest-abwinken1
+ich1 wollen5 früh4 stadt2 dort1
+ich1 hirn1 $gest-abwinken1
+stadt2 dorthin-gehen1 ich1 widerspruch1
+geschäft-ort1 zu1
+ich1 sehen-auf3 anders2 gefühl6 früher1 früh4 auf-offen1 ich1 sehen-auf4
+stunde1 dann7 arzt1 durch1
+$gest um1
+verwirrt-sein1 zu1
+nur2 backen3 auf-offen1 backen3 auf-offen1
+ich1 essen2 $gest-abwinken1 kaffee2 $gest-abwinken1
+$num-uhr1:10 auf-offen1 was1 besser2 $index2
+geschmack1
+$num-uhr1:10 bis1 abend2 $num-zehner2:2 ich1 besser2
+oder6 früh5 auf-offen1 abend1 früh4 zu1
+müde5
+was1 besser2 $index1
+früh5 stadt2 bummeln1
+aber1 wenn1 plötzlich4 abend2 vergessen1 kochen3 vergessen1 fehlen1 aufzählen1 butter2 $gest aufzählen1
+du1 was1
+leben5
+leben5 $index1 bis1 $num-zehner1:2
+freiburg1 es-gibt3 leben5 bis1 $num-einer1:4 $num-zehner1:2 $gest-nm-kopfnicken1
+merkwürdig1 $num-einer1:4 $num-zehner1:2 $oral
+neu1 $index1 prima1
+alle2 kritisieren1
+nicht5 zufrieden6 $index1
+armer1 kasse3 armer1 verkaufen1
+sagen1 ehrlich2 $index1 stimmt1
+verkaufen1 sich-mit-etwas-abfinden1 nacht2 arbeiten1 $gest
+wenn1 zuhause1 weit1 wohnung5 weit1 abend2 zug2 schlecht1 verbindung1
+muss1 auto1 lieber1 verkaufen1 kasse3
+ich1 sehen1 gut1 verstehen1
+gehören1 dänemark1 lang-zeit4 auf-offen1
+ich1 vergessen1 denken1 abend2 leben5 unten1 ich1 einkaufen1
+besser2 was1 $gest-skeptisch1
+muss1 vorher4 zettel2 schreiben1 text1 $oral merken1
+$gest-aufmerksamkeit1 wenn1 ich1 einkaufen1 liste1 ich1 mitnehmen1
+heim6 ich1 punkt2 fehlen1 punkt2
+$oral
+keine-lust1
+ich1 glück2 ich1 wohnung5 ich1 unten1 leben5
+ich1 wohnung5 oben1 unten1 leben5
+von-bis1 $num-einer1:2 von-bis1
+praktisch1 $gest-abwinken1
+du1 heidelberg1 du1 bis1 $num-teen5:9
+ich1 freiburg1
+$oral dorf4
+$index1 wo1 $index1
+bereich1 du1 nein1 du1
+finden1 finden1 finden1
+wohnung5 nahe1 du1
+mit1 leben1 $list1:2of2 metzger1 stempel1 irgendwo1
+oder6 heidelberg1 $index1 nicht4
+wie-viel5 kilometer1 hin-und-her1 sagen1 du1
+keine-lust1
+leben5 möbel5 geschäft-ort1
+$index1 einkaufen1 rund13 heidelberg1 da1 $index1 kein7
+nicht4 $index1 $index1 heidelberg1 bereich1 kein8 einkaufen1 rund13 du1
+karlsruhe2 da1 einkaufen1 rund13 wissen2 du1
+jetzt2 neu1
+$index1 heidelberg1 kein7 $index1
+$index1 wollen5 bau1
+nein2 kritisieren1 burg1
+nein2 alt8 haus1 soll1 nicht3 abreissen4 muss1 alt8 schutz1
+alt8 haus1 schön1 $prod
+bleiben2
+alle2 wollen5 einkaufen1 rund13 freiburg1
+diskussion1
+bereich1 hauptsächlich1 grün18
+hier1 bereich1 sauber1 stadt2 gut1 umwelt1
+perfekt1 hier1 bereich1
+mehr1 grün18 klar1 so1
+schön1
+alt8 stadt2 bereich1 schön1
+ich1 ich1 haben1 mein1 herz2 in1 heidelberg1 verlieren1 hände-weg1
+herz2 in1 heidelberg1 verlieren1
+damals1 schule1 $list1:2of2 gast2 schule1 arbeiten2 platz8
+später4 umziehen1
+neckargemünd1 neckargemünd1 schule1 schule1 internat1
+frau1 $name
+ja1
+ich1 nein1
+bereich1 $index1 $name $name $name $list1:2of2 $name $name $alpha1:i $name du1 kennen1 $index1
+$list1:1of3 schule1 bereich1
+dann7 heidelberg1 gast2 schule1 arbeiten2 platz8 miete2 heidelberg1
+ich1 muss1 mein1 herz2 heidelberg1 verzichten1
+traurig6
+schön1
+heidelberg1 war1 schön1 schloss1 stadt2 schicken1
+$index1 noch1 strassenbahn1 strassenbahn4 nicht-mehr1
+alt8 stadt2 noch1 hin-und-her1
+nein1 nein1 strassenbahn1 bahn-weg1
+nicht-mehr1 zu10
+nein1 strassenbahn1 strassenbahn4 alt8 stadt2 nicht-mehr1 zu10
+stimmt1 zu10 flach3
+schön1 früher1 $prod
+$gest-abwinken1 viel1 taub-gehörlos1 gebärden1 ich1 knapp1 $prod
+ich1 schock2 $prod
+ich1 luft3 taub-gehörlos1 so1 gebärden1 laufen9 $prod
+oder4
+mannheim1 $index1
+ich1 sehen1 ich1
+noch1
+freiburg1 bereich1 schön3
+ich1 liebe1 freiburg1
+nahe1 frankreich4 $prod frankreich4 und2 schweiz1 österreich1 weit1
+$prod
+vielleicht3 ein1 mal3 jahr1 ich1 heidelberg1 ich1 besuchen1 besichtigen1 einkaufen1 besichtigen1
+taub-gehörlos1 treffen1 ich1 schwer1
+warum10
+nahe1 finden1 kleidung1 finden1
+prima1
+hamburg2 $index1 perfekt1 hamburg2 $index1
+gewesen1 du1
+gross3 stadt2
+ich2 wegen1 land1 treffen1
+alle1 jahr1 $prod
+letzte4 freiburg1 nächste1 heidelberg1 nächste1 eben-zeit1 hamburg2 $index1
+ich1 baff-sein1
+schön3
+gross3 ich1 einkaufen1 rund13
+gross3
+$num-ord1:1 $num-ord1:2 $num-ord1:3 $num-ord1:4 $num-ord1:5 stufe5 $index1
+$index1 brauchen1 $gest-abwinken1 $num-einer1:9 stunde1 sehen-auf4
+ich1 schaffen1 nicht3 $num-einer1:9 stunde2
+muss1 ich1 stunde2 abhängig5 wegen1 bus1 $index1 abhängig5 ich1
+taub-gehörlos1 einsteigen1
+wollen5 mehr1 museum1 $index1 mitte2 stadt2
+speichern1 speichern1 stadt2 merkwürdig3
+hamburg2 $index1 $index1 speichern2 stadt2
+$prod interesse1
+hafen2 $prod
+ich2 besichtigen1
+zeit1 knapp1 stadt2 bummeln1
+ich1 wollen1 stadt2 bummeln1 verrückt-sein-nach1 ich1
+sehen-auf4 kopf1 abschalten-kopf1 $gest-nm-kopfschütteln1
+viel1 termin1 fahren1
+museum1 wollen7 zeigen1
+$index1 einkaufen1 rund13 ich2 baff-sein1 $index1
+schön3
+$prod viel1
+verschieden1 $index1 marke1 $alpha1:e dazu1 $alpha1:z dazu1 $alpha1:o dazu1 $index1
+viel1 verschieden1 $prod
+wie3 produzieren1 $pms
+wonne1 $prod ich1 sehen-auf1 rein-hinein2 brauchen1 halb6 dann5 $index1 nächste1 geschäft-ort1 halb6
+ich1 sehen-auf3
+schön4
+gefallen1 raum1
+fehlen1 $num-einer1:1 noch5 oben2 $num-einer1:1 oben2 $num-einer1:2 oben2 $num-einer1:3 ich2
+schade1
+$gest-abwinken1 wenn1 ich1 rente1 wäre1 vielleicht3 nochmal2 hin2 hamburg2 ich1 besichtigen1
+vielleicht3 ich2 schauen1 $gest-abwinken1
+schön3
+$index1 schön5 einkaufen1 rund13 hamburg2 als4 kreis2
+schön3 $index1
+hamburg2 nahe1 fluss1 nahe1
+du1 kann2 du1 internet1 schauen1 schauen2 internet1
+$index1 einkaufen1 stadion1 hamburg1 strich3
+kann2 name4 titel-überschrift1
+schauen1 ruhe1
+internet1 kann2 finden1 alles1 finden1 aufzählen1
+du1 beste1 zug2
+autobahn1 aussichtslos3 $gest-abwinken1
+autobahn1 $gest-abwinken1
+lieber1 zug2 hin2
+viel1 u-bahn1 hin1
+$num-einer1:3 $num-einer1:4 minute1 $prod da1 $prod $prod
+viel1 möglich1 vielfalt1
+schön1 ich2 baff-sein1
+schön3 aber1 kalt1 mögen-nicht1
+ich1 wind1
+so1 hamburg2 wind1
+durch1 wind1 haar2 wind1 ich1
+du1 vorbeigehen-an-etwas1
+$index1 schön3
+gut1 gefallen1 ich1
+obwohl2 ich2 dorthin-gehen2 $num-jahr-vor-jetzt1:3 hamburg2 hin1 ich1
+warum10 vor1 jung1 ich1
+kennen-nicht1 $gest-abwinken1 interesse1 kein3
+mittwoch4 gross3 mehr1 sehen-auf4
+wissen2 nicht1
+schön1
+$index1 $list1:1of1 gewesen1 $list1:2of2 $index1 dubai2 $oral ich2 gewesen1
+durch2 freund7 $index1
+sein-ihr1 sohn1 arbeiten1 dubai2 $index1
+jetzt1 nicht-mehr1 umziehen1
+ich2 besichtigen1 dubai2
+ich1 quelle1 gehören1 welt1 $gest-abwinken1 quelle1 welt1
+hochhaus3 hochhaus3
+luxus1 firma1 hochhaus3
+ich1 $index1 $gest-keine-ahnung1
+reich7 teuer1 $prod kleidung1
+april2 eben-zeit1 fahren3 april2 achtung1
+dort1 sonne-brennt1 dort1
+wenn1 ich1 nur2 draussen1 nur2 $num-einer1:5 minute1 schon1 gänsehaut1
+arm1 rot1 $prod
+$gest-nm wenn1 sommer10 kein7 aussichtslos3 $gest-abwinken1
+$index1 april3
+trotzdem2 sonne-brennt1 sonne-brennt1
+kopf1 sehr-viel1
+muss1 rein-hinein2
+viereck2 ich1 rein-hinein2 sitzen1
+ich1 draussen1 möglich1
+sonne-brennt1 zu9
+$num-einer1:1 ich1 $num-einer1:1 ausnutzen1 meer1
+muss1 weit1 auto-fahren2
+schön1 $index1
+meer1 gut1 klar1 blau3 alle1 blau3 masse-person-aktiv1
+allee1 alle1
+ich1 war1 nur2 $num-einer1:10 tag1 dubai2
+geschäft-ort1 reihenfolge1 ich1
+$index1 mehr1 beissen5 depression3 wiese1
+etwas3 $index1 billig2 $index1
+viel1 $prod luxus1 kleidung1 strömung1
+wir1 gefühl3 ich1 gefühl3
+flughafen1 flughafen1 kontrolle1 warum10 kommen1
+$index1 frage1 warum10 kommen1 $index1
+ich1 besuchen1
+lang-zeit4 $index1 prüfen1
+mehr1 maske2 kleidung1 aber1
+nein2 titel-überschrift1 titel-überschrift1 ich1 rein-hinein2
+privat1 $index1
+sohn1 ich1 mass-horizontal1 sohn1 wohnung5 zuhause1 in1 dubai2
+schlafen1 rein-hinein2 titel-überschrift1
+hotel1 ich1 nein1
+aber1 alkohol1 alkohol2 verboten1 $index1
+dubai2 wissen2 du1 beten1 bereich1 sehr6
+muss1 hotel1 verkaufen1 alkohol2 aber1 nur2 rein-hinein2 sitzen1
+nicht3 draussen1 trinken1
+$gest behälter1 trinken2 nicht3
+muss1 rein-hinein2 bleiben2
+nur2 leute2 wohnung5 dubai2 bereich1 zuhause1 alle1 wer2 da1 besitzen1 trinken2 $index1 rein-hinein2 $index1 strafe1 raus2
+alkohol1 verboten1
+streng2
+alle1 sauber1 nein3
+ich1 dubai2 wieder1 hin2 ich1 nicht3 wieder1
+quelle1 welt1 $gest-abwinken1
+dubai2 $oral gewesen1 hin2 $gest
+baff-sein1
+dubai2 luxus1 $index1 $prod
+aber1 ich1 nochmal2 hin1 ich1 $gest
+quelle1 welt1 $gest-abwinken1 kultur1
+mehr3 palme3 bekannt1
+freund7 sohn1 arbeiten1
+sohn1 arbeiten1 $alpha2:x
+jahr2 $index1 vertrag1 muss1 in1 dubai2
+zufall1 ich1 verbindung2 freund7 kommen-auffordern1 dubai2 ich1 $gest-abwinken1 kommen1
+hotel1 rein-hinein2 geld1 leben1 teuer1 $gest-abwinken1
+kleidung1 geld1 sehr-viel2 masse-person-aktiv1 säule1
+ich1 wie4 $gest sehr7
+über1 treiben1 $gest-abwinken1 diese-zeit1 übertreiben1 jetzt1
+mehr3 palme2 $prod
+hotel1 titel-überschrift1 $prod
+fernseher1 $index1
+wollen7 schön5 $oral welt1 muss1 macht1
+aber1 $gest-aufmerksamkeit1 leute2 stehlen1 $index1 sehr-gut1
+leute2 mit1 arbeiten1 stehlen1 $index1
+stopp1
+ich2 gewesen1 ich1 rein-hinein2 wir2 ich1 weinen1
+leute2 was1 aus8 indien2
+viel1 armer1 leute2
+holen2 arbeiten1 schicken1 bau1 firma1 hochhaus3
+rein-hinein2 billig1 lohn1
+schlafen1 schmutzig7 wo1 dort1 $num-hunderter1:1 kilometer1 weit1 schmutzig7 brücke4
+so1
+stehlen1
+auch3 gesetz1 bis1 $num-zehner2:5 alt8 nicht3 raus4
+frisch2 jung1 mit1 arbeiten1 bau1 arbeiten1 holen1 einstellen-arbeit1
+geld1 billig5 bezahlen2
+zuschauen1 alle1 dreckig1 schmutzig3 dreckig1 schaffen1 fertig4 schaffen1 fertig4
+deutsch1 taub-gehörlos1 verband3 dazugehören1
+beispiel2 $gest alle1 jahr1 $index1 veranstaltung1
+über1 $index1 mitglied2 verwaltung2 $list1:2of2 information1 $list1:3of3 bild3 bildung1 computer-asl1 $gest
+immer4 $num-einer1:1 mal3 jahr1 wie4 versammlung5 verband3 veranstaltung1 versammlung5
+alle1 vorstand3 und3 kasse3 masse-person-aktiv1
+bericht1 über1 mitglied2 bericht1 über1 kasse3 über1 $index1 wahl1 $index1
+und3 auch3 verschieden2 kultur1 verschieden1 meinung1 drehen8
+immer4 $num-einer1:1 mal3 jahr1
+information1 es-gibt3
+information1 weiter1 leiten2 $index1 alle1 verein2 ort1
+immer4 besser1 information1
+mehr7
+alles2 kann2 auch3 bildung1 unterrichten1 machen1
+$oral viel1 möglich2 vielfalt1
+auch3 dazu1 kultur1 tag1 $index2 jung1 kultur1 tag1
+viel1 möglich1 vielfalt1
+ich2 wichtig1 für1 alle2 taub-gehörlos1
+unterrichten1 machen2 kognition2 machen1
+toll1
+ich2 zuschauen3 mit1 arbeiten1 ich2 nicht3
+zuschauen3 zuschauen1
+nicht6 dabei1 krank1
+war1
+ulm1 ich2 nicht1
+verschieden1 $prod verschieden1 $prod
+stuttgart1 $num-einer1:1 $name $index1 $num-einer1:1 freiburg1
+nächste1 freiburg1
+dann1 april4 ja1
+$num-tausender1:2 elf-$kandidat-stu21 $index1 freiburg1
+mit1 wahl1
+ich1 vorbereitung1 für1 offiziell1 wahl1
+masse-person-aktiv2 durchschnitt1 $num-zehner2:4 leute2 nehmen1 masse-person-aktiv2 $prod theater6 $index1 $index1 $index1 karlsruhe2 $index1
+masse-person-aktiv1 masse-person-aktiv1 freiburg1
+$gest-nm-kopfschütteln1
+$gest-nm-kopfnicken1
+gehören1 mögen4 fahren1
+aber1 ich1 schauen1 auf1 uhr1 termin1
+ich2 viel1 interesse1 da1 $index1
+taub-gehörlos1 tag1 taub-gehörlos1 sehen-auf3 neu1 ich2 gern1 kommen1
+immer4 fahren1 ich2 auch3 viel1
+verband3 teilhabe2 $index1 teilnehmen1
+taub-gehörlos1 verein2 ich1 arbeiten1 teilhabe2 taub-gehörlos1 $prod
+aber1 in1 verband3 ich1 nicht3 $gest-nm-kopfschütteln1 nein1
+kandidat1 vorsitzender3 $num-ord1:2 vorsitzender3 $list1:3of3 $num-ord1:3 vorsitzender3 $list1:4of4 kasse3 $list1:5of5 protokoll1 sitzen1
+aufzählen1 danach2
+$oral wahl1 kann2 ich2 dabei1
+ich2 schauen1 mein1 zeit1
+ich1 kann2
+$gest-abwinken1 ich1 kann2 nicht3 sagen1 festhalten2 ich2
+nein1
+schauen2 mein1 zeit1 mein1
+wünschen2 ich1 nicht3 auch3 nicht3 termin1 druck-auf-person1
+sehen1 $gest-abwinken1
+taub-gehörlos1 verein2
+sport1 verein2 sitzen1 und2 gymnastik1 leiten1
+zur-seite-schieben1 phase3 taub-gehörlos1 bund1
+$list1:1of1 frau1 treffen2 leiten1 $list1:2of2 sitzen1 $list1:3of3 $num-ord1:2 vorsitzender3 schon1 $list1:3of3 $num-ord1:2 vorsitzender3 $list1:3of3
+schon1 jahr1
+ich2 spass1 $oral
+mehr3 taub-gehörlos1 integration1 unterhaltung2 meinung1 drehen8 erfahrung6 sammeln1 tauschen1 brauchen1 auch3 information1 neu1
+$gest-nm-kopfschütteln1
+nur2 freizeit1 möglich1 nur2 taub-gehörlos1 treffen1
+gebärden1 abend2 besuchen1 gebärden1 mehr7 nichts1
+ich2 brauchen1 auch3 für1 verein2
+ich1 gern1 alle1 taub-gehörlos1 helfen2 unterstützen1 fördern1
+leider1 nein2
+null4
+$index1 selbst1 spielen2 $index1
+ach-so2 selbst1 spielen2 zuschauen1 oder6 selbst1 spielen2
+$oral zuschauen1
+$gest-nm-kopfnicken1
+$gest-nm-kopfschütteln1
+$gest-nm-kopfschütteln1
+$index2 unterschied1 verwirrt-sein1
+taub-gehörlos1 deutsch1 taub-gehörlos1 bund1 land1
+taub-gehörlos1 bund1 $name perlen1 freiburg1
+wie4 taub-gehörlos1 verein2 taub-gehörlos1 bund1 $oral perlen1
+warum1 perlen1 geschichte1
+geschichte2 abhängig3
+perlen1 bleiben3 tradition3
+geschichte1 ich1 wissen2 nicht1 warum1
+$gest-nm-schulterzucken1
+heute1 neu1 um2 als4 früher1 ich1 du1 ich1
+unterrichten1 thema1 beispiel1 biologie2 zur-seite-schieben1 $list1:1of1 physik4 zur-seite-schieben1
+jetzt1 mischen2
+anfang1 ehemann1
+anfang1 gut1 idee2 warum1 oft1 unterrichten1 kind2 konzentrieren1
+technik1 da1 zusammenhang1 physik1 $index1 $oral lernen1 trennen1 konzentrieren1 konzentrieren1 zusammenhang1 fehlen1
+jetzt3 technik1 physik1 zusammen4 kette1 gut1
+aber1 entwickeln2 merken2 $index1 auch3 toll1 auch3 nicht1
+diese1 $index1 auffallen1 grund4 beispiel1 es-gibt3 person1 $index1 physik1 hassen1 aber1 technik1 toll1
+jetzt3 zusammen1 immer4 schlecht2 note3 $gest
+automatisch1 schlecht2 $gest
+interesse1 sehen-auf1
+wieder1 mein1 stimmt1 mein1 sohn1 $index1 neu1 $list1:1of1 hand1 $list1:2of2 kunst6 und5 $list1:3of3 fach3 $num-einer1:3 zusammen3
+plötzlich4 kunst6 gut1 $list1:2of2 hand1 mögen-nicht1
+automatisch1 note3 unten5
+früher1 kann1 sehen1 ich1 kunst6 $num-schulnote1:1
+jetzt1 es-gibt3 nicht3 kunst6 $num-schulnote1:1 kein6 heute1 $num-einer1:3 zusammen3
+früher1 wie4 hand1 $num-einer1:3 schlecht1 kunst6 $num-einer1:1
+jetzt1 zusammen4 $num-einer1:2 $gest
+inhalt1 was1 gut1 kann1 besser1 der-die-das1 $index1 feststellen2 $gest
+vor-kurzem2 eltern1 abend2 $index1 lehrer2 auch1 $num-einer1:1 sagen1 ich1 bedauern1 was1 mehr3 fach2 mischen2
+bedeutung1 kann2 genau1 schauen1 note3 $index1 zusammenhang1 was-bedeutet1 gut1 $index1 $index1 $gest
+$index1 ergebnis1 bedeutung1 ab2 eintragen1 schlecht2 $gest
+ehemann1 schon1 lang-zeit5 gegen1 er-sie-es1
+ich1 gefühl3 $gest kette1 gut1 aber1 wünschen1
+gut1 wert1 wie-frage1 $gest-nm-schulterzucken1
+ich1 sehen-auf1
+konzept1 schule1 $index1 durch2 war1 pisa-studie1 $gest
+panik2 deutsch1 schlecht2 muss1 um1
+aber1 inhalt3 aufzählen1 schlecht2 $gest-nm-kopfschütteln1
+jetzt1 neu1 realschule1 schule1 prüfen1 allein1 person1 nicht-mehr1 muss1 $num-einer1:3 zusammen3 prüfen1 machen1
+$index1 technik1 thema1 zusammenstoss1 technik1 $index1
+prüfen1 bedeutung1 jetzt1 neu1 wie3 $num-einer1:3 monat1 vorher2 schon1 zusammen1 treffen1 vorbereitung2
+thema1 konzentrieren1 erzählen4 und-dann1 prüfen1 $num-personenzahl1:3 zusammen3
+ergebnis1 $list1:1of3 aktiv2 $list1:2of3 $list1:3of3 sitzen1 $gest und-dann1 note3 geben1
+$index1 früher1 einteilen2 selbst1 leistung1 zeigen1
+jetzt3 gruppe1 $index1 sitzen1 beine-hochlegen1 aktiv2 wünschen1 gut1 note3 schaffen1
+ergebnis1 wie3 ziehen2 $gest
+besser1 nicht3
+bedeutung1 wenn1 $num-einer1:3 freund7 alle2 toll1 dann1 schaffen1 oben2 gut1
+aber1 wenn1 pech2 anders1 $index1 zusammen3 lassen2 sitzen1 $gest und-dann1
+note3 schlecht2
+ehemann1 $index1 $index1 konzept1 $gest $index1 um1
+jetzt1 eben-zeit2 wieder1 neu1 konzept1
+ehemann1 egal-sein1 dabei1 früher1 alt5 unterrichten1 bleiben3
+bald6 neu4 vergessen1 $gest-abwinken1
+wie-frage-vergleich1 wert1
+wie-frage-vergleich1 fördern1 alle2 mehr1 leistung1
+mehr3 sitzen1
+$index1 machen1 internet1 holen1 geben1 drucken-papier1 geben1 fertig6
+$prod dann7
+früher1 mehr1 praktisch2 mehr1 eigen1 aktiv3 überlegen1 vorbereitung2 mehr1
+jetzt1 verringern1
+$index1 ich1 wundern1 $index1 wünschen1 ziel2 besser1 machen1 ergebnis1 schlecht2
+bildung1 schlecht2
+$list1:3of3 jetzt1 neu1 kennen1 früher1 du1 ich1 lernen1 richtig1 schreiben1 wort3
+fehler2 durchstreichen1 falsch1
+$num-ord1:1 schon1 sofort6 richtig1 schreiben1
+jetzt1 $num-ord1:1 $gest-abwinken1 bleibt-überlassen1 schreiben1
+wie3 sprechen1 hören1 so1 sprechen1 schreiben1 lassen1
+nein2 danke2 $index1
+$gest danke2
+jetzt1 $num-jahr-vor-jetzt1:3 $num-jahr-vor-jetzt1:3 los-start1
+$num-jahr-vor-jetzt1:3 los-start1 $index1
+jetzt1 was1 $index1 schreiben1 hören2 so1 sprechen1 schreiben1 lehrer2 motivation1 nein1 lassen1
+wichtig1 motivation1 für1 schreiben1 motivation1 für1 lesen-buch1 fördern2
+ergebnis1 schlecht1
+gesamt1 jahr1 schon1
+jetzt1 mein1 ehemann1 sehen1 $num-ord1:5 klasse8 viel1 alle2 schreiben1 fehler2 alle2 auffallen1 mehr1 als3 früher1
+grund4 $index1 $num-ord1:1 verinnerlichen1 schreiben1 wort3 schreiben1 verinnerlichen1 erinnerung2 aus-vorbei1
+kennen1 erinnerung2 wechseln3 richtig1 wort3 $gest schwer1
+stimmt1 viel1 fehler2 schreiben1 merken1 mein1 merken1 $gest
+$index1
+jetzt1 ehemann1 wissen2 klar1 $gest-nm-kopfschütteln1
+wenn1 nächste1 $list1:3of3 schule1 eintreten1 ich1 sofort6 $num-ord1:1 ich1 sofort6 $index1 verbessern1
+sofort6 ich1 unten1 nein3
+sagen1 lehrer2 sagen1 nicht3 muss1 lassen1 sonst1 motivation1 reduzieren3 wie4 enttäuscht4
+keine-lust1 lernen1 lassen1
+ehemann1 sagen1 meinung1 folgen1 schicken1 wie-sieht-aus1
+$gest
+deshalb1 ich1 bisschen2 kritisieren1
+schule1 konzept1 was-bedeutet1 $gest
+$gest-abwinken1
+$index1 wie4 experiment1 machen2 $gest
+versuchen2 $index1 konzept1 konzept1 ab1 ändern1
+und5 mehr3 anführungszeichen1 anführungszeichen1 wer3 person1 entscheiden1 vorschlag1 $index1
+sehen1 wie4 wenig7 arbeiten2 für1 lehrer2 für1 schule1 ab2 erfolg2 sehen1
+$index1 merken2 $index1
+bedeutung1 für1 lehrer2 mehr1 wie4 $gest-nm woher1 $gest-nm fertig1
+aber1 gefühl3
+funktion2
+qualität1 schlecht2
+qualität1 schlecht2 mehr1 früher1
+mehr1 qualität1 qualität1 jetzt1 verringern1 $gest
+$index1 gegen1 $index1
+ich1 manchmal1 denken1 wünschen1 zuhause2 unterrichten1 ich1
+gehören1 unterrichten1
+$num-einer1:1 familie1 $index1 schaffen1 zuhause2 unterrichten1
+$index1 begeistert1 kind2 $num-einer1:3 alle2 praktisch1
+jetzt1 alle2 studieren2
+$gest-nm-kopfschütteln1 lassen1 gross5 $gest-nm-kopfnicken1 $index1 schule1 eintreten1
+ich1 kind2 frage1 alle2 vergleich1 zuhause2 schule1 $index1
+halb1
+schule1 $index1 klar1 freund7 da1 aber1 viel1 negativ1 beeinflussen1
+lieber1 zuhause2 ruhe1
+$index1 bub2 verstossen1 auf-person1 oder1 frech2 patzig-erwidern1 auf-person1
+betroffen2
+zuhause2 $gest mischen3 kann2 mehr1 lernen1 schule1 $index1
+ich1 sehen-auf1 manchmal1 wie4 lieber1 unterrichten1 beide2 so1 vorstellung3 person2 besser1 unterrichten1
+lassen1 schule1 konzept1 dazu-immer-mehr1 nein1 für1 ich1
+kuschen1 muss1 ich1
+$gest
+$gest-nm-kopfschütteln1
+konzept1 ehrlich1 quatsch1
+frage1 selbst1 gewesen1 früher1 lehrer1 wissen2 ich1 $gest früher1 unterrichten1 erfahrung6
+$gest-nm-schulterzucken1 professor1 gewesen1 studieren2 ich1 wissen2 besser1 wie-frage1 unterrichten1
+$gest-auge1
+schon1 immer1 $gest-abwinken1 schon1 immer1
+mehr1
+abweichung3 $alpha1:e ethik1 wie4 ethik1 $index1
+besser1
+biologie2
+besser1 was1 früher1 lehrer2 mitnehmen1 auge1 $prod
+schwein2 kuh1 auge1 $prod
+mädchen6 alle2 $gest hin2 fenster6 $gest
+ich1 $gest-nm
+lehrer2 schneiden1 klappt1 ich1
+$gest-aufmerksamkeit1 ich1 $prod spritzen4
+$prod rund6 linse-auge1 $prod
+$gest-nm
+interesse1 biologie2 etwas-lieben1 was1
+$oral
+herz1 leber3 mitnehmen1 $prod $prod gut1
+biologie2 ich1 lehrer2 gefallen1 mitnehmen1 er-sie-es1
+$list1:2of2 kunst6 gern1 kunst6
+anführungszeichen1 liebling1 lehrer2 schule1 auf-person1 tipp1 besser1 malen5 besser1 auf-person1
+beeinflussen1 ich1 malen5 und-dann1 beruf4 was1 beruf4
+ich1 $gest wünschen1 weiter1 schule1
+$gest-abwinken1 ich1 vorschlag1 du1 auflösung1 malen5 soll1 auf-person1
+$gest-nm ablehnen2
+sagen1 gut1 malen5 lieber1
+ich1
+jetzt1 ich1 denken1 $gest-hand-auf-brust1 kein7 gewesen1 eintreten1 malen2 dasselbe4
+nein2 nein1
+ich1 $gest-nm-schulterzucken1
+muss1 ab1 $alpha1:j $gest firma1 ich1
+$gest-abwinken1 bekannt1 $index1
+ich1 nein1
+lehrer2 gemütlich4 auf-person1
+$gest-hand-auf-brust1
+kunst6 $list1:1of1 $list1:2of2
+sport1 mathematik1 besser1 als4 deutsch1 $gest-nm
+schmal-dünn1
+auch1 name1 bestimmen1 stock3 $prod
+ich1 $prod stimmt1
+physik1
+physik1 person1 lehrer2 haar-lang1 $gest-takt1
+$gest-nm material1 physik1 $index1 und-dann1 etwas-nicht-mitbekommen1
+und-dann1 ich1 zeugnis3 note3 entscheiden1 empfehlen1 mund1 prüfen1
+mein-gott1 wie8 $index1 ich1 zusammen3 nach1 helfen1 anführungszeichen1 lesen1 thema1 bestimmt1 $index1 fertig3
+dann1 prüfen1 ich1 frage1 ich1 wissen2 schon1 antwort1
+ich1 aufzählen1 fertig1
+anders1 frage1 einfach2 frage1
+ich1 faden-verlieren1 $gest-nm-kopfschütteln1
+sehen-auf1 schreiben1
+$gest-nm mist1 $gest-abwinken1
+meistens1 sein-ihr1 auch1 etwas-lieben1 hörgerät1 $index1
+$oral dazu-immer-mehr1 technik1 besser1 hörgerät1
+alle2 $gest-nm $gest-aufmerksamkeit1 ich1 $gest-aufmerksamkeit1 frage1 $gest-aufmerksamkeit1 neu1 es-gibt3 für1 wasser1 in1 hörgerät1 kann1
+aber1 anpassen3 dazu-immer-mehr1
+thema1 unterrichten1 abweichung3 hörgerät1 oft2
+ich1 $gest-nm-kopfnicken1 $index1 erzählen4
+wirklich2 deshalb1 ich1 physik1 thema1 unterrichten1 stoff4 glauben2 wenig4 ich1 etwas-nicht-mitbekommen1
+meistens1 abweichung3 hörgerät1 frage1 anders1 wimmeln1
+wissen2 sein-ihr1 etwas-lieben1 $index1 was-bedeutet1 wir1 frage1 $gest-komm-her-her-damit1 erzählen4 sehen-auf1 fertig1 fertig4
+erleichtert2 los-sein1 nach-hause1
+$gest
+$gest
+und-dann1 wofür1
+$gest-nm-kopfnicken1
+früher1 schule1 kopfbedeckung7 gut3 ich1 $gest-nm-kopfwippen1
+viel1 kirche2 konzentrieren1
+lassen1 bisschen2 probe3 gebärden1 ja1 du1
+früher1 schule1 schön1 zeit5 ich1
+$index1 krankenschwester1 schule1 bleiben2 immer4 kirche2 hin-und-her1
+und-dann2 schule1 $num-einer1:8 bis1 abend2 halb1 $num-einer1:7
+schule1 durch1 bleiben2
+pause1 kurz1
+danach1 halb1 $num-einer1:7 bis1 $num-einer1:7 essen2 $num-einer1:8 schicken1 bett2
+schön1 ich2
+bis1 schule1 entlassen1 dorthin-gehen1 winnenden1 frei2
+anders1 meinung1 gebärden1
+vielfalt1
+$index2
+beide2 früher1 schule1 kopfbedeckung7 beide2 dasselbe2
+du1
+stimmt1
+stimmt1 ich1 null4 blockieren1
+früher1 bub2 mädchen2 trennen1 moment2
+früher1 bub2 mädchen2 trennen1
+wollen1 kontakt2 zusammen-person2 krankenschwester1 beten1 ablauf1 zusammen-person2 sehen-auf2
+abhängig5
+bis1 ich1 bald7 entlassen1 du1 $prod
+ich1 $num-zehner2:5 alt5
+du1
+klein3 $num-doppel1:4 du1
+stimmt1 jahr1 abstand5
+besser1
+verschiedenes2 besser1
+ich1 grenze1 viel1 wand1 viel1 ich1
+$num-einer1:1 rein-hinein2 fangen1 schaffen1 umarmen2 schaffen1
+dann1 ich1 $num-einer1:10 jahr1 $num-einer1:1 $num-einer1:2 ende1 schluss1
+wenig4 mehr1 schule1 in1
+internat1
+stimmt1 drehen7 $gest
+viel1 du1 phase1 besser1 verschiedenes2 du1
+du1 frei1 du1 schaukel1 fussball2 spielen2
+besonders1 denken1 $gest
+allgemein1 egal3
+leider1 schön1 ich2 $gest-nm-kopfschütteln1
+nur2 alle2 krankenschwester1 bereich1 du1 $alpha1:f
+$index1 kneten1 werkstatt1 malen2
+besonders1
+mehr1 perspektive1
+fussball1 kommen-auffordern1 fan2 kommen-auffordern1 bayern1
+vergangenheit1 treiben1
+schlecht2 alle1 fussball1 alle1 scheisse-verdammt1 nervös1
+ich1 $prod
+krankenschwester1 $num-einer1:1 einzig1 gut3
+stimmt1
+$index1 auch1 damals1 ich1 nicht3 vergessen1 $num-einer1:2 $num-zehner2:7 oder6 $num-einer1:4 $num-zehner2:7 deutsch1 welt1 fussball1 stimmt1
+$num-einer1:4 $num-zehner2:7
+krankenschwester1 $name $index1 motivation1 malen4 für1 treiben1 malen4 alle2 malen4 ich1 mit1 malen4 bereich1
+falten1 schicken2 welt1 danke1 schicken2
+treiben1 stimmt1 zurück1 wir1 enttäuscht5 nur2 autogramm1 karte2
+halten-blatt1 enttäuscht4
+ich1 $prod
+trotzdem2 konzentrieren1 abend2
+fernseher1 kaufen1 $prod schlafen1 zimmer1 bayern-münchen-$kandidat-stu28 gegen3 was1 gegen3
+$gest-verschränkte-arme1 morgen1 faust1 mein-gott1 $prod gebärden1 ich1 $prod
+$num-einer1:1 person1 besonders1 hirn1
+stimmt1
+dazu1 heimlich1 unter1 rauchen1 feuerzeug1 $gest-nm-kopfnicken1
+bescheid1 schutz2 einige1 schutz2 $index1 rauchen1 feuerzeug1 $gest-nm-schulterzucken1 gut3 rauchen1
+sich-hinwegsetzen-über1
+streng2 leider1 streng2 leider1 streng2
+mehr1 kirche2 mehr1 spülen-geschirr1 disziplin1
+spülen-geschirr1 schicken1
+essen2 mass2 warten1 alle1 da1
+ich1 ich1
+ich1 mögen-nicht1 was1 essen2 vor1 muss1 beten1
+ich1 stamm4 um-die-ecke1 klo1 lang-zeit1 sitzen1 $num-einer1:10 minute1 warten1 um-die-ecke1 sitzen1
+gehen4 alle1 sitzen-kreis1 ich1 gehen4
+$index1 kopf1 faden-verlieren1 warten1 bis1 ich1 kommen1
+rund-um-die-uhr5 essen2 lassen2
+rund-um-die-uhr6
+ich1 $prod kommen-auffordern2 hier1 ich1 geduld2 beten1
+fertig4 alle2 zufrieden2 gehören1
+fertig4 $index2 ich1 schlecht1 zeit5 phase3
+stimmt1
+ich2 handkuss1 diese2 kennen1 diese2
+erbrechen1
+alles2 $prod
+sehr6
+kennen1 $index1
+$num-uhr1:4 typisch1 $num-uhr1:4
+gut3
+stimmt1 früher1
+du1 stimmt1 früher1 schule1 bis1 $num-teen1:6 probe2 abend2 $num-einer1:8 bett2 schicken1 schicken1 du1
+stimmt1 schicken1 muss1
+gut1
+schicken1
+ach-so2 gut1
+ich1 bis1 $num-teen1:6 name1 durch1 $num-einer1:8 bett2 schicken1
+ob4 sommer8 und2 winter1 egal3
+schicken1 $num-einer1:8 durch1
+abend2 essen2 $num-einer1:7 fertig1 gegenüber1 stunde2 was1 spielen2 $prod sitzen1
+dialog2 wenig4
+nur2 einfach1 gebärden1 einfach1
+
+fertig1
+kann1 frage1 $index2
+kopf1 $gest verschiedenes2
+achtung1 ich1 aufwachsen1 eltern1 kein3 ich1 immer4 internat1 bleiben2
+ferien1 sommer8 ferien1 winter1 herbst1 ferien1 und2 weihnachten4 ferien1 immer4 heim1 bleiben2
+dort1 machen2 krankenschwester1 sich-die-hände-reiben1
+kommen2 hin2 kirche2 $prod durch1
+$num-ord1:1 $gest
+$num-einer1:4 $num-zehner2:2 dezember3 abend2 kirche2 $prod
+ich1 geduld2 schlange-personen1 krankenschwester1 geduld2
+nächste1 $num-ord1:1 $num-ord1:2 weihnachten4 auch3 kirche2 hin-und-her1
+silvester1 grausam4 $index1
+masse-person-aktiv2 feiern1 ich1 innen3 $num-einer1:8 bis1 $num-einer1:10 $num-teen2:1 kirche2 innen3
+sagen1 $num-teen2:9 $num-hunderter1:1 $num-doppel1:7 ab1 $num-einer1:8 $num-zehner2:7 besser1
+ich1 geduld2 stimmt1
+ich1 aufwachsen1
+ja2
+nächste1 $num-ord1:1 januar4 früh2 neu4 jahr2 kirche2 innen3
+nächste1 $num-einer1:6 januar4 fremd3 besuchen1 aufsetzen-kopfbekleidung1 $num-einer1:3 könig1 zusammen-person1 $gest
+gut1 ich1 nicht1
+achtung1 schule1 zurück1 was1 gebärden1 immer4 erzählen4 ski1 erzählen4 $index1 hütte1 erzählen4 $index1 ich1 immer4 ich1 dasselbe4 kirche2 $index2
+bis1 darum1 $num-ord1:8 schule1 klasse-$kandidat-stu29 abbruch1 abhauen1 winnenden1
+frei2 gebärden1 wohl1
+$gest-nm-kopfschütteln1 $num-einer1:8 abbruch1 abhauen1
+winnenden1 gebärden1 frei2
+bis-jetzt1 $gest
+nein1 internat1
+stimmt1 muss1 wegen1 jung2 amt1 $index1
+bezahlen1
+muss1 internat1 verknüpfen1 $index1 bescheid1
+internat1 springen2 bis1 $num-zehner2:2 name1 ungefähr1
+endlich3 ich1 selbstständig2 gehören1 miete2 bis1 $gest
+ich1 $index1 $num-zehner2:3 jahr4 zukunft1
+kind2 zusammen2 ci1 ich1 schauen1 kommen1 mehr8
+$index1 wichtig1 viel1 eltern1 wünschen1 kind2 ci1
+hörend1 eltern1 meistens1 $index1 wünschen1 $index1 kind2 ci1 ci1 ci1
+und5 auch3 $num-ord1:2 $list1:2of2 medizin1 beeinflussen1 ja1 eltern7 $index1
+und5 warum7 taub-gehörlos1 welt1 zusammen-gruppe1
+komma1 eltern7 wissen2 nicht3 wo1 $index1 kommen1 dort1 taub-gehörlos1 punkt1
+und2 auch1 wir1 leben1 noch1 $gest
+beispiel1 ich2 einmal1 fall1 vor-kurzem1 $name du1 ich2 eben-zeit2 zusammen3 erzählen4 über1 klein3 $gest ci1
+erstes-mal3 ci1 $num-ord1:2 ci1
+und5 eltern1 wünschen1 $index1 gebärden1 und2 $index1 kind2 sprechen6 $oral aber1 ich1 selbst1 wundern1 $gest-überlegen1 frage1 mutter2 warum1 du1
+$index1 feiern1 $index1 schlimm4 verwandt1 mutter2
+$gest-abwinken1 kind2 oma1 von4 $name $index1 $index1
+verwandt1 $index1 klein3 $name sein-ihr1 mutter2 $index1
+sein-ihr1
+$index1 vater1 $index1 $index1 $index1 $index1 mutter2 $index1 $index1
+$index1 sein-ihr1 verwandt1 tochter1 $index1
+du1 schuld2 sein-ihr1 sohn1 taub-gehörlos1
+$index1 ernüchtert-sein2
+$index1 kein1 $index1 kind2 stimmt1 $index1 $index1 mutter2 stimmt1 $index1
+diese2 ich2 vermuten1 $index1 viel1 $index1
+$gest-nm-kopfnicken1 mutter2 liebe1 betroffen2
+wollen5 fördern2 $index1 kann2 sprechen6 vielleicht3
+ich1 selbst1 fast2 angst1 warum1
+wenn1 kind2 ci1 druck-auf-person1 $index1 muss1 schule1 $index1 dorthin-gehen1 normal1 schule1 $index1 dorthin-gehen1 mit2 gebärdensprache1 dolmetscher1 einstellen-arbeit1
+aber1 taub-gehörlos1 wie-frage-vergleich1 internat1 $index1 früher2 grün8 wir2 kind2 treffen2 gebärden1 wohl1
+$index1 $gest heute1 wo1 bleiben2
+was2 meinung1 du1
+$index1 ich1 was1 für1 $num-einer1:2 sprache1 $index1 sprechen6 und2 $index1 gebärden1 beide2
+heute1 $gest $index1
+$gest zukunft1 $index1 mehr1 $index1 $index1 medien3 $index1 fernseher1 medien3 $prod
+sehen1 beide2 ende1 brauchen5 gebärdensprache1
+ob1 ci1 kind2 alles1 verstehen1 $gest lehrer1 sagen1 $index1 ich1 nicht3 $gest-abwinken1
+$oral und5 und5 schwierig1 wenn1 kind2 sitzen1 sitzen1 sprechen3
+sprechen4 hinten5 was2 sagen1 $index1
+$index1 ob1 alles1 mit1 $oral immer4 dolmetscher1 durch1
+aber1 beispiel1 taub-gehörlos1 schule1 $index1 auflösung1
+komma1 taub-gehörlos1 schule1 sehr-gut1 teuer2 brauchen5 bereich1 haus1 personal1 gefühl3
+$index1 nur2 dolmetscher1 einstellen-arbeit1 schule1 normal1 wimmeln1 $index1 dolmetscher1 einstellen-arbeit1
+abwägen1
+du1 du1 was2 dein1 meinung1 $index2 dein1
+ja1 stimmt1
+$index1 du1 meinung1 taub-gehörlos1 kultur1 bleiben2
+aber1 wie-frage-vergleich1 aber1 wie-frage-vergleich1 kann2 taub-gehörlos1 kultur1 stabil1 bleiben2 wie-frage-vergleich1 machen2 wie-frage-vergleich1
+stimmt1
+ich1 glauben2 wenn1 rund6 ci1 brauchen5 $index1 kein5 $prod
+du1 $gest-aufmerksamkeit1 meinung1 technik1 abhängig5
+$index1 schlecht2
+auch1 und2 $num-einer1:2 nerven1 schmecken3 geschmack1 $gest-abwinken1 schlecht2 schaden1
+$gest auf-person1 grund4 wenn1 operation1 öffnen3 schief-falsch2 rund6
+aber1 $index1 interesse1 nur2 positiv1 zeigen1 aber1 negativ1 sagen1 leer1 unter1
+ja2
+was1
+ich1 wenn1 sehen1 $prod früher1 $gest
+ich2 vermissen1 was1 taub-gehörlos1 wir2 früher1 taub-gehörlos1 schule1 aussen2
+$index1 eltern1 erklären1 kein7 mein1 eltern1 erklären1 kein7
+warum1 $index1 nur2 kommunikation1 sprechen6 $index1
+wir2 beide2 verstehen1 eltern1 wenn1 $gest gebärden1 erklären1 $index1
+aber1 wenn1 ci1 eltern1 kind2 erklären1 wie-frage-vergleich1 ob1 kind2 alles1 begreifen1 oder5 nicht3
+$index1 $prod hörgerät1 $gest-nm-kopfnicken1
+$gest-aufmerksamkeit1 alt5 $index1 aber1 alt5 $index1 dein1 ehemann1 alt5 $index1
+$num-einer1:10
+kind2 schutz1 kann1 druck-auf-person1 klar1
+aber1 schade1
+$index1 $name
+$index1 $index1 $index1 aber1
+ich1 ein1 klein11 geschichte2 $name
+sein-ihr1 $index1 mutter2 treffen2
+erstens1 treffen2 $index1 glauben2
+mutter2 wünschen4 $name $index1 ci1
+beide2 klar1 $index1 beeinflussen1 medizin1 beeinflussen1
+durch2 vater1 arbeiten1 ein1 firma1 monat1 nur2 england3 sprechen5 schicken2
+$index1 kennen1 $num-einer1:2 sprache1 fach2 $index1 deutsch1 und7 england3 hin-und-her1 $index1
+$oral $index1 vater1 unterschied1 sagen1 $index1 $name soll1 $num-einer1:2 sprache1 aufwachsen1
+er-sie-es2 $index1 selbst1 erwachsene2 okay1 er-sie-es2 selbst1 entscheiden1 wünschen1 was1 gebärden1 sprache4 oder5 laut1 sprache1 $index1
+$index1 interesse1 $index1
+$index1 durch2 $name gebärden1 sprache4 lernen1
+$index1 klein9 klein1 mass5 erzählen4 klein9 beispiel1 $index1
+ich1 wie-frage-vergleich1 $index1 hören2 wahrnehmung1 sprechen4 form1 $index1 noch-nicht3 nicht3
+$index1 $gest erklären1 wie-frage-vergleich1 ich1 $gest-überlegen2
+wissen2 rund-lang3 wissen2 $alpha1:s $index1 $index1 schreiben1 bunt3 du1 rund6 du1 rund-lang3 mass2
+$prod parallel1 tisch1 $prod
+$gest-nm $index1 sehen2 sich-die-hände-reiben1 $index1 wollen2 umarmen2
+ich1 nein1 zuerst1 $gest-abwinken1 farbe1 sortieren1 $index1 muss1 farbe1 sortieren1
+$index1 blau3 $index1 blau3 $num-einer1:2 $index1 rot1 $index1 $list1:3of3 gelb1 $list1:4of4 grün1 $num-einer1:4 $gest-abwinken1
+$index1 bitte1 $index1 $index1 begreifen1 $prod
+$pms becher1 trinken1 becher1 unterschied1 $index1 gelb1 $index1 $prod begreifen1
+dann1 später4 $gest-abwinken1 mutter2 $index1 auto1 weg-fort1 auto1 fahren1 $index1 blau3 $index1 rot1 $index1 grün48
+bisschen4 ablauf2
+mutter2 mutter2 aber1 froh1
+gehören1 mutter2 auch1 mit1 er-sie-es2 gebärden1 sehen1 $index1 lernen1 mit1 $index1
+wissen-bescheid1 hin-und-her1 bedeutung1 hin-und-her1
+und2 später6 mein1 buch1 $index1 schon1 sehen1 lesen-buch1
+$index1 $name $name muss1 lernen1 $prod auge1 $prod $index1 mehr7 hören1
+ich2 bescheid1 $gest-aufmerksamkeit1 bitte1 $prod
+$index1 ignorieren6 $index1 bescheid1 warten1 bis1 $prod
+ich1 mass-vertikal-kleiner2 warten3 warten1 warten1 schauen1 nachschlagen3
+$index1 $index1 treten-pedal3 roller1 $prod rad1 $prod $index1 kaputt4
+$index1 sehen1 still2 $prod schluss3 $num-zehner2:2 $num-teen1:5 bis1 $num-zehner2:2 minute1 gebärden1 fertig1 gehören1 ab1 spielen2 ab1
+$index1 ich1 sehen1 $index1 spielen2 fluss1 wissen2 rund-auge1 wissen2 verarbeitung1 $index1
+$index1 kaputt4 $gest
+interesse1 toilette2 $name muss1 toilette2 dorthin-gehen1 zuhause1 muss1 toilette2 dorthin-gehen1
+kommen3 kommen3 toilette2 kommen3 hose1 $prod $prod
+$gest-aufmerksamkeit1 mama1 $gest-aufmerksamkeit1 unterhose1 anziehen2 $prod kaputt4 $gest-aufmerksamkeit1 oma1 $index1 nähen1 $prod
+mutter2 begreifen1 $index1 froh1 ich2 verstehen1
+aber1 durch2 auch1 $num-ord1:2 nur2 gebärden1 $gest-nm-kopfnicken1 lernen1 mehr1 wort3 wort3
+$gest ich2 $gest spannung4 $gest wie-frage-vergleich1 zukunft1 wie-sieht-aus1
+ich2 $index1 bisschen2 angst1
+und6 ich2 wünschen1 $index1 $name $index1 wünschen1 dgs1 achtung1 gebärden1 sprache4 $index1 sprechen6 $num-einer1:2 trennen1
+eltern1 wünschen1 sprache1 laut1 sprache1 begleiten1 gebärden1
+ja1
+und5 ich1 mögen4 $name sein-ihr1 eltern1 ich1 irgendwann1 januar7 nochmal2 treffen2 $oral
+aber1 wie-frage-vergleich1 kann2 ich1 sagen1 $gest-überlegen1
+$index1 für1 $name besser1 wenn1 gebärden1 sprache4 $oral laut1 sagen1 $index1
+warum1 $index1 wenn1 lehrer1 sprechen6 $index1 gebärden1 $index1 ton2 abschalten-stimme1 störung1 nicht3
+$oral kind2 sehen1 $prod kind2 $gest-abwinken1 lernen1 gebärden1 $index1
+ich1 glauben2 nicht3
+$index1 ich1 glauben2 nicht3 möglich1 warum1 ich1 vermuten1 gebärden1 sprache4
+$gest-aufmerksamkeit1 warum1 $index1 ich1 dgs1 für1 kann2 leben1 durch1 lang-zeit1 durch1 brauchen1 ohne2 technik1 abhängig5
+mein1 meinung1
+$gest-nm schwer1 frage1 sehr-viel2
+aber1 ich2 frage1 für1 warum1 $index1 eltern1 wünschen1 $index1 kind2 ci1 $index1
+soll1 taub-gehörlos1 was1 behinderung1 um1 ab1 oder5
+aber1 frage1 wenn1 wir2 geburt1 $index1 taub-gehörlos1 $index1 was1 machen2 du1
+$index1 warum1 $index1 wenn1 beispiel1 wenn1 ich1 selbst1 geburt1 $prod $index1 ich1 wissen2 $index1 taub-gehörlos1 sofort6 gebärden1
+$wortteil-haupt1 hirn1 voll2 sprache1 ein1 sprache1 $list1:1of1 wichtig1 $list1:1of1
+gebärden1
+$index1 später4 dann6 kann2 muss1 zeit5 nehmen1 für1 kind2 $index1 buch1 $index1 erklären1 gebärden1
+später4 wenn1 schule1 dort1 muss2 lernen1 satz1
+der-die-das1 werden1 erklären1 kann2 $index1 so1 so4
+dann1 begreifen1 schnell3
+mein1 meinung1
+$gest
+$index1 warum1 wenn1 es-gibt2
+$num-einer1:1 aufzählen1 fall1 $index1 frankfurt1 $index1 familie1 taub-gehörlos1 klein5 mädchen1 klein3 auch1 taub-gehörlos1
+$oral $index1 schon1 vorher2 voll2 gebärden1 schule1 $prod
+stimmt1 oder1 kreuz1 dolmetscher1 $prod $index1 gebärden1 dolmetscher1 $prod
+oft1 dort1 muss1 kind2 lernen1 deutsch1 sprache1 satz1 grammatik1
+$index1 begreifen1 schnell3
+$index1 schon1 zuerst1 verinnerlichen1 da1 sprache1 $num-einer1:1 sprache1 wie4 verinnerlichen1 akzeptieren1 anders2 sprache1 auch1 akzeptieren1
+ich1 ich1 gefühl2 ja2
+$index1 warum1 ich1 wenn1 $index1 sehen1 zurück1 vergangenheit3 vergangenheit1 schule1 anders1 didaktik1 schule1 unterrichten1 anders1 form1 anders1
+vorher3 so4 aufzählen1
+wenn1 beispiel1 wenn1 lehrer1 ein1 lehrer1 $index1 gebärden1 kann2 $index1 kind1 faszinierend3
+stimmt1 ich1 $index1 wissen2 zurück1 vergangenheit1 internat1 $index1 mädchen2 klein5 $index1 sein-ihr1 eltern1 taub-gehörlos1
+wenn1 vater1 kommen1 alle1 kind2 angestachelt1 kreis1 sitzen-kreis1 $index1 faszinierend1 gebärden1 wir1 sitzen-halbkreis1 faszinierend1 gebärden1
+ich1 bis-heute2 noch1 merken1 was1 gebärden1 $index1
+gebärden1 früher1 kein7 auto1 kein7 zug3 $index1 ich1 sehen-auf2 heute1 noch1 merken1
+auch1 erzählen4 aber1 du1 stein10 sitzen1 $prod achtung1 kann2 du1 rücken-unten1 kalt1 urin2
+ich1 $index1 ich1 heute1 noch1 merken1
+frage1 $index1 $gest-abwinken1 $index-oral1 ich2 alles1 vergessen1
+$index1 frage1 $index1
+wenn1 beispiel1 wenn1 lehrer1 $index1 gebärden1 $index1 $prod gebärden1 $index1 $prod $index1 schmal-dünn1 so4 $prod kind2 begreifen1 schnell3
+ich2 gefühl3 ich2 mein1
+$index1 schaden1 du1
+$gest-aufmerksamkeit1 kind2 so1
+kein9
+$index1 früher1 dm1 mark1 um2 $init-kreis1 $index1 froh1 euro1 froh1 vergleich1
+gut1
+teuer1 doppel1
+$num-einer1:1 flasche1 $oral wirtschaft-gastronomie2 $index1
+$num-einer1:10
+wenn1 achtung1
+eben-grund1 lohn1 bleiben2 gleich1 erhöhen1 nicht3
+stimmt1 ab2
+$gest
+$gest stimmt1
+und5 $index1 arbeitslos1 person1 betroffen2 person1 arbeiten1 $wortteil-los1 bezahlen3 $index1 auch1 neu1 um1 vergangenheit1 $oral jahr1 jahr1 vergangenheit1 hartz1 $num-röm1:4 neu1
+selbst1 betroffen2 auf-person1 kein8
+aber1 viel1 $index1 sehr-viel2
+$oral armer1 ja1 aber1 hartz1 $num-röm1:4 bekommen1 miete2 frei-kostenlos1 vorteil1
+nur2 $index1 da1 ende2 ende2 wohnung1 wohnung3 $prod geld1 unterschied2 muss1 gut4 regel1
+$index1 über1 selbst1 geben-geld2
+$oral alle2 geben1
+wenn1 arbeiten2 dorthin-gehen1 lohn1
+oder4 $index1 ich1 $num-röm1:4 geld1 geben-geld2 frei1
+unterschied2 gleich1
+aber1 denken1 wissen2 schön1 aber1 wissen2 an1 danach1 zukunft1 rente1 $index1 kein7 sehr-viel2
+$index1 lieber1 arbeiten2 hin-und-her1 $gest-ich-weiss-nicht1
+viel1 alle2
+auch3 $num-einer1:1 euro1 job1 arbeiten1
+$index1 für1 taub-gehörlos1 grund4 kommunikation1 sitzen1 für-nichts-und-wieder-nichts1
+nein1 woher1
+manchmal2 schön1 besser1 als3 nichts1
+ich1 erfahrung6 ob4 zeuge1 ich1 wissen2 nicht3
+behinderung1 oder4 behinderung7 person1 zu9 beispiel1 taub-gehörlos1 $index1 kann1 doppel1 $num-einer1:2 euro1 bekommen1
+normal1 auf-person1 $num-einer1:1 euro1 $index1
+$oral ich1 selbst1 beispiel1 kein7 aber1 vor-kurzem1 gebärden1 merkwürdig1
+arbeiten1 arbeiten1 $wortteil-los1 geben-geld2 $num-einer1:1 euro1 $num-einer1:1 euro1 job1 update1
+$index1 $num-einer1:1 $num-hunderter1:1 $num-zehner2:6 euro1 monat1 ungefähr2
+update1
+besser1 als3 nichts1
+börse1 ich1 erfahrung6 kein8
+du1 $gest-nm-kopfschütteln1
+$gest-nm-kopfschütteln1
+
+börse1 nicht5 mein1 stark1 nicht5 mögen4 verrückt-sein-nach1 nicht6
+hoffen2 mein1 geld1 gut1 leben1 über1 leben1
+ungefähr1
+$gest-nm-kopfnicken1
+$oral erfahrung1 bank-geld1 geld1 in-bedrängnis-sein2 leihen1
+stimmt1
+$index1 brief1 geld1 $prod
+interesse1
+bar-bezahlen3 geld1
+du1 sagen1 brief1 lohn1 $prod geben-geld2 gut1 geben-geld2
+$index1 ich1 ausdehnen1 geld1 ausdehnen1 oben1 staat1 sehen1 wissen-nicht1
+bank-geld1 $index1 kann1 verraten1 $index1
+vor1 stimmt1
+$gest-nm-kopfnicken1
+jetzt1 mehr1 scharf1 ab2
+gleich8 aufklappen-buch1 sammeln1
+auch3 $name
+ich1 wissen2 früher1 ich1 letzte4 mauer3 mauerfall1 mehr3 versicherung2 vertretung2 ich1 besuchen1
+empfehlen1 $gest viel1
+ich1 früher1 $alpha1:d kennen1 nicht1
+leer1
+komma1 neu1 gut5 ich2 oder3
+$index1 leben1 versicherung2 gut1 wahrnehmen-ohr1 okay1 ich2 unterschreiben1 $num-einer1:1 $num-zehner2:2 jahr2 versicherung2 mass-sagittal2
+später3 rente1 aufstocken1
+ich1 okay1 $gest-abwinken1 aufwickeln1
+vielleicht1 jahr1 abbruch1 geld1 zurück1
+update1 verlust2 ja1 anders1 geben-geld2 nein3
+sparen2 buch1 sparen2 brief1 werfen1 lassen2 besser1 $index1 $index1 leben1 versicherung1 $index1 fast2 nichts1 ab2
+ich2 neu4 $gest-ich-weiss-nicht1
+konkurrenz1 $index1
+zukunft2 rente1 staat1 pflege1 fragezeichen2
+weniger-werden1
+und2 nachwuchs1 wo1
+
+ich1 leben1
+überlegen1 wie-frage-vergleich1
+wir2 wissen2 nicht3
+und2 urlaub2
+ab2
+gehören1 vorteil2 ab2 nachteil3
+selbst1 selbst1 stehen1
+ich1 rente1 versicherung2 geben-geld2 null2 kein8 bis-jetzt3 oder3
+$oral $index1 freiwillig4 antrag1 ich1 geben-festhalten1
+ich2
+$gest-nm-kopfschütteln1
+$gest-nm-kopfschütteln1 bis-jetzt3
+und5 arbeiten2 $wortteil-los1 versicherung2 neu1 auch3 für1 selbst1 stehen1 auch3 neu1
+ich2 kein7
+vorher2 alt5
+ich2 vergangenheit1 es-gibt3 kein1
+jetzt3 neu1 wenn1 arbeiten4 $wortteil-los1
+nein1 arbeiten2 selbst1 stehen1 $index1 empfehlen1 arbeiten2 $wortteil-los1 versicherung2 bescheid2
+$num-teen2:2 euro1 monat1 bezahlen1
+$index1 selbst1 stehen1 aufwärts1 schaffen1 nicht3 arbeiten2 $wortteil-los1 bezahlen3 vorteil1
+ich1 wenn1 ich1 selbst1 stehen1 schaffen1 nicht3 dann1 nein3
+bezahlen3 null2 sehr-viel2 risiko1
+$index1 rente1 versicherung2 hineinstecken3 früher1 ich2 zahn2 technik1 $num-teen2:5 jahr2 vergangenheit1 bis-jetzt3
+schon1 da1 mass-vertikal-kleiner2 so1
+
+ich1 schon1 $alpha1:r ich1 eben-zeit1 september2 vor2 besuchen1 handlung3
+grund4 ich1 vor1 ich1 fehlen1
+sagen1 nach1 bezahlen1 möglich1
+muss1 rechnen1 wie-viel5 muss1 bezahlen5 ich1 geld1 ich1 nach1 bezahlen1
+dann1 los-start1 phase1 wenn1 wünschen1 ich1
+überlegen1 $gest-abwinken1
+warten1 $gest
+oder1 ich2 ab1 $gest-nm-kopfschütteln1 kind2 geben-stapel2
+wissen2 ich1 leben1 ich1 lang-zeit4 bis1 $num-hunderter1:1 alt5 ich2 geld1 alle-leer3
+und-dann1 ich2 hilflos2
+muss1 strasse1 ich1 $index1 wohnung1 $index1
+ich2 kann1 nicht3
+
+$oral
+lang-zeit4
+stimmt1
+muss1 sparen2 buch1 sparen2
+sparen2 buch1 werfen1
+$index1 sparen2 brief1 werfen1
+kein8
+kein8
+$gest-nm-kopfschütteln1
+auch3 ich1 betroffen2 person1 $index1
+selbst1 vergangenheit1 geschichte1 $index1 früher1 $num-zehner2:6 $num-zehner2:6 $num-einer1:5 $num-zehner2:6 alt5 mann1 selbst1 $num-einer1:5 $num-zehner2:6 alt5 rente1
+dann1 irgendwann1 $index1 freiwillig4 $index1 geld1 mass-vertikal1 normal1 gehören1 staat1 zusammenhang1 gehören1 normal1 dann1 rente1 freiwillig1 zusätzlich1 update1 jahr1
+aber1 neben1 job1 da1 ab2 warum2 alt5 alt5 von-da-an1 gefühl4 fest1 noch1 $index1
+weiter1 arbeiten1 neben1 job1 gehören1 danach1 gewesen1
+jahr1 update1 dazu1 update1 zusätzlich1 versicherung2 update1 dann1 ergebnis1 $index1 wissen2 um1 um2 reform2
+neu1 wissen2 um1
+ab2 $index1 geld1 werfen1
+wütend1 nein3 $index1
+darum1 ich1 $index1 selbst1 stehen1 ich1 $index1 empfehlen1 nicht3
+quatsch1 $gest geld1 werfen1
+ich2 durch2 zweifel3
+muss1 selbst1 anders1 wo1 werfen1
+aber1 nur2 risiko1 was1 für1 mein1 leben1 leben1 lang-zeit4 leben1 lang-zeit4 sehr-viel2 $index1
+nahe1 stimmt2
+wer4 wissen2
+jahr2
+$index1 $index1 für1 was1 $index1
+$oral
+$oral
+kennen1
+stimmt1
+ich2 online1 angenehm2 schnell3
+extra1 ich1 fahren1 bank-geld1 zeit1 wann1
+schnell3 online1 schicken2 morgen1 oder4 wenn1 vormittag2 werfen1 nachmittag1 da1
+schnell3
+nein3 angenehm2
+bekommen3 $alpha1:p viereck2 eintragen1 schreiben3 nummer2 eintragen1 durchstreichen1 $gest
+$num-einer1:1 erlebnis1 was-bedeutet1
+
+aber1 es-gibt3 gut1 ende1 schön3 erinnerung2 ende1
+wissen2 kann2 gut4
+wegen1 heimat4
+wegen1 heimat4 mein1 person1 mein1
+$gest-abwinken1 wie-sieht-aus1
+ich1 ich1 früher1 ich1 früher1 wilhelmsdorf1 $index1 ich2 war1 verein2 hörend1 fussball1 ich1 $index1 alle3
+fertig2 fertig1 training1 spielen1 spielen2 $prod fertig1 taub-gehörlos1 $num-einer1:2 ich1 fertig1 alle3 fertig1 ich1 zusammen-person1 gehen2
+ich1 heimlich1 $prod
+war1 ich2 $num-teen2:4 alt4
+heimlich1 $prod ich1 rauchen1
+fertig1 ich1 $prod
+erziehung2 $index1 stinken2 ihr-plural1 rauchen1
+ich1 nein2 ich1 kein7
+anders4 hörend1 treffen2 problem2 auf-person1 rauchen1 pusten2 $prod ich1
+erziehung2 $oral blöd3 ich1 $prod
+ich1 selbst1 rauchen1 ich2
+erziehung2 $index1 du1 $prod ich1 ja1 $prod blöd3 ich1 protest1 gestank1 ich2 erziehung2 verstehen1 auf-person1
+ja1 ich2 früher2 ich1 früher2 kind2 eintreten1 mein1 eltern1 früher2 erziehung2 schwer1 kommunikation1
+treffen2 russland4 voll2 deutsch1 bisschen2 kommunikation1 $gest
+du1 zufall1 erziehung2 russland4 kann2
+entschuldigung1 $gest-kein-problem1 $gest-hand-auf-brust1
+aber1 $index1 russland4 ich1 mit3 kommen1
+vater1 vater1 eltern1 kann2 voll2 deutsch1 unsicher1
+erziehung2 kommunikation1
+erziehung2 kommen3 dann6 kann2 dolmetscher1 kann2 russland4 kann2 russland4 sprechen5 dolmetscher1 einstellen-arbeit1 gut1
+dann1 sprechen3 fertig4 $index1 heim6 fertig4
+ich2 kind2 morgen1 kind2 $index1 ich1 schon1 schrei1 $prod ich2 schrei1 $prod
+ich1 merken-nicht1 ich1
+erziehung2 erziehung2 $index1 erzählen4 auf-person1 sehr6
+ich1 wissen2 warum1
+ich2 wissen2 merken-nicht1 ich1 selbst1 ich1 merken-nicht1
+erziehung2 $index1 erzählen4 auf-person1 ich1 stimmt1
+ich1 sehr6 warum2 grund4 eltern1 verschwunden1 ab1
+ich1 traurig2 weinen1 ich2 schrei1 $list1:1of1 viel1 kann1
+später4 zwischen1 ungefähr1 $num-einer1:2 $num-einer1:1 $num-einer1:2 tag1 besser1
+dann2 besser1 $gest
+ja1 beide2 zusammen3 zusammen-person1 kind2 zusammen3 ja2
+ja2
+nein1 nein1 nur2 ich1 bruder1 ja1 weinen1 ja1
+klar1
+$num-einer1:4 schon1 jahr1 ich2 zusammen-person1 begleiten1
+sehen-auf1
+dann2 ich2 internat1 ich1 werfen1 ich1
+klar1 ich2 eltern1 weg-verschwinden1
+ich1 wie3 kennen1 leute2 kennen1 leute2 sehen-auf2
+gefühl3 körper1 stimmt1 körper1
+darum1 ich1 schrei1
+kein7 nein2 nein2 null6 nein3
+erstes-mal3 deutsch1 hier1 erstes-mal3 ich1 hier1 deutsch1
+grund4 ich2 mein1 mutter2 arbeiten1 kollege1 $num-einer1:1 taub-gehörlos1
+ich2 mutter2 $index1 frage1 wo1 es-gibt3 mein1 sohn1 kind1 $num-einer1:2 taub-gehörlos1 $num-einer1:2 taub-gehörlos1
+bescheid1 ja2 ja2 wilhelmsdorf1 $index1 wilhelmsdorf1 taub-gehörlos1 schule1 kind2 alles1 in3
+mutter2 stimmt1 körper1 toll4 ich1
+zurück1 vorher2 halbes-jahr2 körper1 $prod halb4 $prod
+deshalb1 ich1 werfen1 hören1 wilhelmsdorf1 werfen1
+deshalb1
+gleich1 ja2 gleich1 zeit1 gleich1 eintreten1
+ja2 anfang1 $index1 ich1 zusammen-person1 zusammen-person2
+wenn1 ich1 bett1 trotzdem2 $index1 mögen4 bett1 zusammen3 ich2 zusammen-person1 zusammen-person2
+er-sie-es2 angst1 allein1 angst1
+$index1 ich1 zusammen-person1 $num-einer1:2 seite-körper1 zusammen-person1 seite-körper1
+bis1 nach3 jahr1 zusammen-person1
+auf-person1 später10 nehmen1 wie3 erziehung2 muss1 trennen1 kann1 ich1 bruder1 ignorieren6
+ich1 wahrnehmung1 wie3 sehen1 ich1 zusammen-person2 weg-entfernen1
+langsam2 trennen4 zusammen-person1 zusammen-person2 trennen4
+ab2 ab1 $prod vorbei4
+gut1 frage1 auf-person1
+beispiel1 erziehung2 wie3 kommen-auffordern1 ich1 begleiten1 erziehung2 abholen1 begleiten1
+$index1 lernen1 erziehung2 $prod zusammen-person1 gehen2 bruder1 sport1 wie3 anders2 richtung3 ich1 anders2 richtung3 $index1 ich1 sport1 oder4 oder4
+$index1 viel1 auch1 $index1 sport1 oder4 $prod anders2 $prod
+gewohnheit1 $prod gewohnheit1 $prod fertig4 ab1 richtung3
+$index1 erzählen4 sprechen4 mehr1 $index1 bisschen2 sprechen5
+bisschen2 gebärden1 bisschen2 gebärden1
+ich1
+ich1 anfang1 $num-ord1:1 zeugnis2 bereich1
+sprechen1 anders2 erziehung2 $prod ich1
+$num-ord1:1 zeugnis2 lehrer3 ich2 sehen-auf2
+wie3 $gest-nm-sprechen1 ich1 null6 $num-einer1:1 verstehen1 nicht3 $index1
+ablauf2 gewohnheit1 sehen1 ablauf2 gewohnheit1 gewohnheit1 sehen1 fertig4
+ich1
+wenig4 ich1 allein7
+ich1 wenig4
+nein2
+wenn1 muss1 sprechen1 satz2 muss1 sprechen1 satz2
+ich2 ich1 sprechen1 mund1 sprechen1 mit1 gebärden1 ablesen1 gebärden1 beide2 zusammen-person2 lbg1 wie3
+klar1
+klar1 wenn1 schutz2 auf-person1 auf-person1 schimpfen2
+zuerst1 ermahnen1
+$prod schutz2 schimpfen1 geben2 strafe1
+oder4 nach-ort1 draussen1 wie3 draussen1 $num-einer1:5 minute1 warten1 $num-einer1:5 minute1 draussen1
+wie3 flur1 draussen1 wie3 flur1 wie3 flur1 draussen1
+tür1 ja2
+draussen1 warten1 nein3 klar1 fertig4
+gleich1 flur1 draussen1 wie3 ich1 überlegen4 nicht3 gebärden1 wie3 ich1 überlegen4
+ich2 überlegen4 fertig1 $prod
+was1 meinung1 gehören1
+ab1 nein2 strafe1 nein2 ab1
+
+ich2 schule1 fertig4 erziehung2 wie3 zeit1
+schicken1 mittag2 essen1
+ich1 geduld2 $prod
+ich1 egal-sein2 ich1 $gest-ruhig-bleiben1 erziehung2 schimpfen2
+ich1 $prod lassen1
+ich1 stamm4 mittag2 viel1 fussball2 ich1 fussball2 mittag2 fussball2
+gleich1 du1 früher1 mit1 fussball2 du1
+ich2 früher1 mit1 fussball2 fertig1 sekunde1 fussball2 anfang1 schule1 $prod schule1 hin-und-her1 fussball2 fertig1 hin-und-her1
+nein1 nein1 bis1 wie3 stunde2 stunde2
+stunde2 lassen1 stunde2 wie3 stunde2 mittag2 essen1 kann2 stunde2 lassen1 dann1 schule1
+ich1 fussball2 bereich1 fertig1 zeit1 schule1 ich1 $prod $prod schule1
+ja2 aber1 ab1 kaffee2 pause1 kaffee2 pause1
+kaffee2 pause1 dann2 wie3 kaffee2 dann2 kaffee2 fertig1 sekunde1 fussball2
+wenn1 regen1 ich1 in-der-klemme-stecken2 $gest sitzen1 internat1
+buch1 lesen-buch1 spielen2 $prod
+wie4 wie3 ferien1 haus1 hin-und-her1
+hausaufgabe1 ja1 mathematik1 und1 $list1:2of2 deutsch1
+und2 wie3 $index1 dazu1 beispiel1 ich2 schreiben1 aber1 nein2 unterbrechen3 muss1 hausaufgabe1 ich1 kuschen1 ich1 geben-festhalten1 schreiben1 fertig1
+wenn1 vergessen1 ich2 wie3 strafe1 geben1 strafe1 ich1
+fertig1
+leihen1 ja2 verstehen1 leihen1 leihen1 ja1
