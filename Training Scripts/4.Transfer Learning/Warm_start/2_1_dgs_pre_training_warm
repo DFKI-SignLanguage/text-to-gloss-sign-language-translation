@@ -1,0 +1,117 @@
+#!/bin/bash
+pip install sacrebleu
+echo "export LC_ALL=C">>~/.bashrc
+source ~/.bashrc
+
+MODELNAME=dgs_baseline_transformer_lemmnorm_pretrain_bpe_32k_dede
+PWD=/netscratch/zhu/submission
+SEC=$PWD/section4
+TRAINTEXT=$PWD/data/t2g_dgs/train/dgs_sentences_train_lower_lemm.txt
+TRAINGLOSS=$PWD/data/t2g_dgs/train/dgs_glosses_train_lower_all_cleaned.txt
+DEVTEXT=$PWD/data/t2g_dgs/dev/dgs_sentences_dev_lower_lemm.txt
+DEVGLOSS=$PWD/data/t2g_dgs/dev/dgs_glosses_dev_lower_all_cleaned.txt
+TESTTEXT=$PWD/data/t2g_dgs/test/dgs_sentences_test_lower_lemm.txt
+TESTGLOSS=$PWD/data/t2g_dgs/test/dgs_glosses_test_lower_all_cleaned.txt
+mosesdecoder=$PWD/mosesdecoder
+subword_nmt=$PWD/subword-nmt/subword_nmt
+#Here SRC and TRG are only used to distinguish the filename
+SRC=de
+TRG=en
+bpe_operations=32000
+PRE=/netscratch/zhu/submission/section4/data/release/v2021-08-07/deu-deu
+mkdir -p $SEC/model/$MODELNAME
+mkdir -p $SEC/model/$MODELNAME/output
+path=$SEC/model/$MODELNAME
+
+cat $PRE/train.src > $path/pre-traindata.$SRC
+cat $PRE/train.trg > $path/pre-traindata.$TRG
+cat $SEC/model/$MODELNAME/pre-traindata.$SRC \
+        | $mosesdecoder/scripts/tokenizer/normalize-punctuation.perl -l $SRC \
+        | $mosesdecoder/scripts/tokenizer/tokenizer.perl -a -l $SRC > $SEC/model/$MODELNAME/pre-traindata.tok.$SRC
+test -f $SEC/model/$MODELNAME/pre-traindata.$TRG || continue
+cat $SEC/model/$MODELNAME/pre-traindata.$TRG \
+	| $mosesdecoder/scripts/tokenizer/normalize-punctuation.perl -l $SRC \
+        | $mosesdecoder/scripts/tokenizer/tokenizer.perl -a -l $SRC > $SEC/model/$MODELNAME/pre-traindata.tok.$TRG
+
+
+$mosesdecoder/scripts/recaser/train-truecaser.perl -corpus $SEC/model/$MODELNAME/pre-traindata.tok.$SRC -model $path/tc.$SRC
+$mosesdecoder/scripts/recaser/train-truecaser.perl -corpus $SEC/model/$MODELNAME/pre-traindata.tok.$TRG -model $path/tc.$TRG
+
+$mosesdecoder/scripts/recaser/truecase.perl -model $path/tc.$SRC < $SEC/model/$MODELNAME/pre-traindata.tok.$SRC > $SEC/model/$MODELNAME/pre-traindata.tc.$SRC
+test -f $SEC/model/$MODELNAME/pre-traindata.tok.$TRG || continue
+$mosesdecoder/scripts/recaser/truecase.perl -model $path/tc.$TRG < $SEC/model/$MODELNAME/pre-traindata.tok.$TRG > $SEC/model/$MODELNAME/pre-traindata.tc.$TRG
+$mosesdecoder/scripts/recaser/truecase.perl -model $path/tc.$SRC < $PRE/dev.src > $SEC/model/$MODELNAME/dev.tc.$SRC
+test -f $PRE/dev.trg || continue
+$mosesdecoder/scripts/recaser/truecase.perl -model $path/tc.$TRG < $PRE/dev.trg > $SEC/model/$MODELNAME/dev.tc.$TRG
+
+left=$SEC/model/$MODELNAME/pre-traindata.tc.$SRC
+right=$SEC/model/$MODELNAME/pre-traindata.tc.$TRG
+
+cat $left $TRAINTEXT > $SEC/model/$MODELNAME/newtext.txt
+cat $right $TRAINGLOSS > $SEC/model/$MODELNAME/newgloss.txt
+
+cat $TRAINTEXT > $SEC/model/$MODELNAME/newtext_for_tr.txt
+cat $TRAINGLOSS > $SEC/model/$MODELNAME/newgloss_for_tr.txt
+
+NEWTEXT=$SEC/model/$MODELNAME/newtext.txt
+NEWGLOSS=$SEC/model/$MODELNAME/newgloss.txt
+TRNEWTEXT=$SEC/model/$MODELNAME/newtext_for_tr.txt
+TRNEWGLOSS=$SEC/model/$MODELNAME/newgloss_for_tr.txt
+
+mkdir -p $SEC/model/data_transfer_learningnewdgs
+transfer_data=$SEC/model/data_transfer_learningnewdgs
+
+cat $NEWTEXT $NEWGLOSS | $subword_nmt/learn_bpe.py -s $bpe_operations > $path/$SRC$TRG.bpe
+
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $NEWTEXT > $path/corpus.bpe.$SRC
+test -f $NEWGLOSS || continue
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $NEWGLOSS > $path/corpus.bpe.$TRG
+
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $path/dev.tc.de > $path/valid.bpe.$SRC
+test -f $path/dev.tc.en || continue
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $path/dev.tc.en > $path/valid.bpe.$TRG
+
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $TRNEWTEXT > $transfer_data/train.bpe.$SRC
+test -f $TRNEWGLOSS || continue
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $TRNEWGLOSS > $transfer_data/train.bpe.$TRG
+
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $DEVTEXT > $transfer_data/dev.bpe.$SRC
+test -f $DEVGLOSS || continue
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $DEVGLOSS > $transfer_data/dev.bpe.$TRG
+
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $TESTTEXT > $transfer_data/test.bpe.$SRC
+test -f $TESTGLOSS || continue
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $TESTGLOSS > $transfer_data/test.bpe.$TRG
+
+cat $path/corpus.bpe.de $path/corpus.bpe.en | /marian/build/marian-vocab --max-size 32000 > $path/vocab.deen.yml
+        /marian/build/marian \
+        --devices 0 1 \
+        --model $path/$MODELNAME.npz \
+        --type transformer \
+        --layer-normalization \
+        --mini-batch-fit -w 10000 --maxi-batch 1000 \
+        --quiet-translation \
+        --learn-rate 0.0003 --lr-warmup 16000 \
+        --lr-decay-inv-sqrt 16000 --lr-report \
+        --optimizer adam \
+        --early-stopping 5 \
+        --cost-type=ce-mean-words \
+        --valid-metrics perplexity bleu-detok ce-mean-words translation chrf bleu \
+        --train-sets $path/corpus.bpe.de $path/corpus.bpe.en \
+        --vocabs $path/vocab.deen.yml $path/vocab.deen.yml \
+        --valid-sets $path/valid.bpe.de $path/valid.bpe.en \
+        --log $path/train.log \
+        --valid-log $path/valid.log --valid-mini-batch 64 \
+        --valid-script-path $SEC/valid_de.sh \
+        --valid-translation-output $path/output/dev_output_pre.txt \
+        --keep-best \
+        --valid-freq 5000 \
+        --disp-freq 5000 \
+        --dim-emb 512 --transformer-dim-ffn 2048 --transformer-heads 8 --transformer-ffn-activation relu --enc-depth 6 --dec-depth 6 --enc-cell lstm \
+        --enc-cell-depth 2 --dec-cell-base-depth 2 --dec-cell lstm \
+        --sync-sgd --dropout-src 0.1 --dropout-trg 0.1 \
+        --optimizer-params 0.9 0.98 1e-09 --clip-norm 5 --beam-size 6 --normalize 0.6 \
+        --exponential-smoothing --seed 1111 \
+        --tied-embeddings-all \
+        --transformer-dropout 0.2 --label-smoothing 0.1 \
+

@@ -1,0 +1,63 @@
+#!/bin/bash
+pip install sacrebleu
+MODELNAME=phoenix_baseline_transformer_lemmnorm_bpe_2000_fttag
+PWD=/netscratch/zhu/submission
+SEC=$PWD/section2
+TRAINTEXT=$PWD/data/t2g_phoenix/train/phoenix_sentences_train_lower_lemm_norm.txt
+TRAINGLOSS=$PWD/data/t2g_phoenix/train/phoenix_glosses_train_lower.txt
+DEVTEXT=$PWD/data/t2g_phoenix/dev/phoenix_sentences_dev_lower_lemm_norm.txt
+DEVGLOSS=$PWD/data/t2g_phoenix/dev/phoenix_glosses_dev_lower.txt
+TESTTEXT=$PWD/data/t2g_phoenix/test/phoenix_sentences_test_lower_lemm_norm.txt
+TESTGLOSS=$PWD/data/t2g_phoenix/test/phoenix_glosses_test_lower.txt
+mkdir -p $SEC/model/$MODELNAME
+mkdir -p $SEC/model/$MODELNAME/output
+
+cat $PWD/data/forward_text_lemm_norm.txt | sed 's/^/<FT> /' $PWD/data/forward_text_lemm_norm.txt > $PWD/data/forward_text_lemm_norm_tagged.txt
+
+cat $TRAINTEXT $PWD/data/forward_text_lemm_norm_tagged.txt > $SEC/model/$MODELNAME/newtext.txt
+cat $TRAINGLOSS $PWD/data/ph_forward_output.txt > $SEC/model/$MODELNAME/newgloss.txt
+NEWTEXT=$SEC/model/$MODELNAME/newtext.txt
+NEWGLOSS=$SEC/model/$MODELNAME/newgloss.txt
+	/marian/build/marian \
+	--devices 0 1 \
+	--model $SEC/model/$MODELNAME/$MODELNAME.npz \
+	--type transformer \
+	--layer-normalization \
+	--mini-batch 64 \
+	--quiet-translation \
+	--learn-rate 0.0005 \
+	--optimizer adam \
+	--early-stopping 10 \
+	--cost-type=ce-mean-words \
+	--valid-metrics bleu-detok perplexity ce-mean-words translation chrf \
+	--dim-vocabs 2000 2000 \
+	--sentencepiece-options '--model_type=bpe --vocab_size=2000 --hard_vocab_limit=true' \
+	--train-sets $NEWTEXT $NEWGLOSS \
+	--vocabs $SEC/model/$MODELNAME/vocab.spm $SEC/model/$MODELNAME/vocab.spm \
+	--valid-sets $DEVTEXT $DEVGLOSS \
+	--log $SEC/model/$MODELNAME/train.log \
+	--valid-log $SEC/model/$MODELNAME/valid.log \
+	--valid-translation-output $SEC/model/$MODELNAME/output/dev_output_pre.txt \
+	--lr-warmup 16000 \
+	--keep-best \
+	--valid-freq 400 \
+	--disp-freq 1000 \
+	--dim-emb 512 --transformer-dim-ffn 2048 --transformer-heads 8 --transformer-ffn-activation relu --enc-depth 1 --dec-depth 2 --enc-cell lstm \
+        --enc-cell-depth 2 --dec-cell-base-depth 2 --dec-cell lstm \
+        --sync-sgd --dropout-src 0.1 --dropout-trg 0.1 \
+        --optimizer-params 0.9 0.98 1e-09 --clip-norm 5 --beam-size 6 --normalize 0.6 \
+        --exponential-smoothing --seed 1111 \
+        --tied-embeddings-all \
+        --transformer-dropout 0.2 --label-smoothing 0.2 \
+
+#:<<!
+cat $DEVTEXT | /marian/build/marian-decoder -c $SEC/model/$MODELNAME/$MODELNAME.npz.best-bleu-detok.npz.decoder.yml -d 0 1 -b 6 -n 0.6 \
+	--mini-batch 64 --maxi-batch 100 --maxi-batch-sort src > $SEC/model/$MODELNAME/output/dev_output.txt
+
+cat $TESTTEXT | /marian/build/marian-decoder -c $SEC/model/$MODELNAME/$MODELNAME.npz.best-bleu-detok.npz.decoder.yml -d 0 1 -b 6 -n 0.6 \
+	--mini-batch 64 --maxi-batch 100 --maxi-batch-sort src > $SEC/model/$MODELNAME/output/test_output.txt
+echo "------------------BLEU SCORE OF DEV--------------------"
+$PWD/sacrebleu/sacrebleu/sacrebleu.py $DEVGLOSS -i $SEC/model/$MODELNAME/output/dev_output.txt -m bleu chrf ter -b -w 4 -tok none
+echo "------------------BLEU SCORE OF TEST-------------------"
+$PWD/sacrebleu/sacrebleu/sacrebleu.py $TESTGLOSS -i $SEC/model/$MODELNAME/output/test_output.txt -m bleu chrf ter -b -w 4 -tok none
+#!

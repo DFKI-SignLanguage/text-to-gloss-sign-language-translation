@@ -1,0 +1,57 @@
+#!/bin/bash
+pip install sacrebleu
+MODELNAME=dgs_baseline_transformer_word_5000
+PWD=/netscratch/zhu/submission
+SEC=$PWD/section1
+TRAINTEXT=$PWD/data/t2g_dgs/train/dgs_sentences_train_lower_lemm.txt
+TRAINGLOSS=$PWD/data/t2g_dgs/train/dgs_glosses_train_lower_all_cleaned.txt
+DEVTEXT=$PWD/data/t2g_dgs/dev/dgs_sentences_dev_lower_lemm.txt
+DEVGLOSS=$PWD/data/t2g_dgs/dev/dgs_glosses_dev_lower_all_cleaned.txt
+TESTTEXT=$PWD/data/t2g_dgs/test/dgs_sentences_test_lower_lemm.txt
+TESTGLOSS=$PWD/data/t2g_dgs/test/dgs_glosses_test_lower_all_cleaned.txt
+
+mkdir -p $SEC/model/$MODELNAME
+mkdir -p $SEC/model/$MODELNAME/output
+	/marian/build/marian \
+	--devices 0 1 \
+	--model $SEC/model/$MODELNAME/$MODELNAME.npz \
+	--type transformer \
+	--layer-normalization \
+	--mini-batch 64 \
+	--quiet-translation \
+	--learn-rate 0.0003 \
+	--optimizer adam \
+	--early-stopping 10 \
+	--cost-type=ce-mean-words \
+	--valid-metrics bleu-detok perplexity ce-mean-words translation chrf \
+	--dim-vocabs 5000 5000 \
+	--sentencepiece-options '--model_type=word --vocab_size=5000' \
+	--train-sets $TRAINTEXT $TRAINGLOSS \
+	--vocabs $SEC/model/$MODELNAME/vocab.spm $SEC/model/$MODELNAME/vocab.spm \
+	--valid-sets $DEVTEXT $DEVGLOSS \
+	--log $SEC/model/$MODELNAME/train.log \
+	--valid-log $SEC/model/$MODELNAME/valid.log \
+	--valid-translation-output $SEC/model/$MODELNAME/output/dev_output_pre.txt \
+	--lr-warmup 16000 \
+	--keep-best \
+	--valid-freq 400 \
+	--disp-freq 1000 \
+	--dim-emb 512 --transformer-dim-ffn 2048 --transformer-heads 8 --transformer-ffn-activation relu --enc-depth 1 --dec-depth 2 --enc-cell lstm \
+        --enc-cell-depth 2 --dec-cell-base-depth 2 --dec-cell lstm \
+        --sync-sgd --dropout-src 0.1 --dropout-trg 0.1 \
+        --optimizer-params 0.9 0.98 1e-09 --clip-norm 5 --beam-size 6 --normalize 0.6 \
+        --exponential-smoothing --seed 1111 \
+        --tied-embeddings-all \
+        --transformer-dropout 0.2 --label-smoothing 0.2 \
+
+#:<<!
+cat $DEVTEXT | /marian/build/marian-decoder -c $SEC/model/$MODELNAME/$MODELNAME.npz.best-bleu-detok.npz.decoder.yml -d 0 1 -b 6 -n 0.6 \
+	--mini-batch 64 --maxi-batch 100 --maxi-batch-sort src > $SEC/model/$MODELNAME/output/dev_output.txt
+
+cat $TESTTEXT | /marian/build/marian-decoder -c $SEC/model/$MODELNAME/$MODELNAME.npz.best-bleu-detok.npz.decoder.yml -d 0 1 -b 6 -n 0.6 \
+	--mini-batch 64 --maxi-batch 100 --maxi-batch-sort src > $SEC/model/$MODELNAME/output/test_output.txt
+echo "------------------BLEU SCORE OF DEV--------------------"
+$PWD/sacrebleu/sacrebleu/sacrebleu.py $DEVGLOSS -i $SEC/model/$MODELNAME/output/dev_output.txt -m bleu chrf ter -b -w 4 -tok none
+echo "------------------BLEU SCORE OF TEST-------------------"
+$PWD/sacrebleu/sacrebleu/sacrebleu.py $TESTGLOSS -i $SEC/model/$MODELNAME/output/test_output.txt -m bleu chrf ter -b -w 4 -tok none
+#!

@@ -1,0 +1,112 @@
+#!/bin/bash
+pip install sacrebleu
+MODELNAME=dgs_baseline_transformer_lemmnorm_mono_bpe_32k_all
+PWD=/netscratch/zhu/submission
+SEC=$PWD/section33
+TRAINTEXT=$PWD/data/t2g_dgs/train/dgs_sentences_train_lower_lemm.txt
+TRAINGLOSS=$PWD/data/t2g_dgs/train/dgs_glosses_train_lower_all_cleaned.txt
+DEVTEXT=$PWD/data/t2g_dgs/dev/dgs_sentences_dev_lower_lemm.txt
+DEVGLOSS=$PWD/data/t2g_dgs/dev/dgs_glosses_dev_lower_all_cleaned.txt
+TESTTEXT=$PWD/data/t2g_dgs/test/dgs_sentences_test_lower_lemm.txt
+TESTGLOSS=$PWD/data/t2g_dgs/test/dgs_glosses_test_lower_all_cleaned.txt
+
+mosesdecoder=$PWD/mosesdecoder
+subword_nmt=$PWD/subword-nmt/subword_nmt
+# Here SRC and TRG are only used to distiguish the filename ending
+SRC=de
+TRG=en
+bpe_operations=32000
+mkdir -p $SEC/model/$MODELNAME
+mkdir -p $SEC/model/$MODELNAME/output
+path=$SEC/model/$MODELNAME
+cat $SEC/europarl-v10.de.tsv | awk -F'\t' '{print $1}' > $SEC/model/$MODELNAME/europarl-v10.$SRC
+cat $SEC/europarl-v10.de.tsv | awk -F'\t' '{print $1}' > $SEC/model/$MODELNAME/europarl-v10.$TRG
+
+cat $SEC/model/$MODELNAME/europarl-v10.$SRC \
+        | $mosesdecoder/scripts/tokenizer/normalize-punctuation.perl -l $SRC \
+        | $mosesdecoder/scripts/tokenizer/tokenizer.perl -a -l $SRC > $SEC/model/$MODELNAME/europarl-v10.tok.$SRC
+test -f $SEC/model/$MODELNAME/europarl-v10.$TRG || continue
+cat $SEC/model/$MODELNAME/europarl-v10.$TRG \
+        | $mosesdecoder/scripts/tokenizer/normalize-punctuation.perl -l de \
+        | $mosesdecoder/scripts/tokenizer/tokenizer.perl -a -l de > $SEC/model/$MODELNAME/europarl-v10.tok.$TRG
+mv $SEC/model/$MODELNAME/europarl-v10.tok.$SRC $SEC/model/$MODELNAME/europarl-v10.tok.uncleaned.$SRC
+mv $SEC/model/$MODELNAME/europarl-v10.tok.$TRG $SEC/model/$MODELNAME/europarl-v10.tok.uncleaned.$TRG
+$mosesdecoder/scripts/training/clean-corpus-n.perl $SEC/model/$MODELNAME/europarl-v10.tok.uncleaned $SRC $TRG $SEC/model/$MODELNAME/europarl-v10.tok 1 100
+
+$mosesdecoder/scripts/recaser/train-truecaser.perl -corpus $SEC/model/$MODELNAME/europarl-v10.tok.$SRC -model $path/tc.$SRC
+$mosesdecoder/scripts/recaser/train-truecaser.perl -corpus $SEC/model/$MODELNAME/europarl-v10.tok.$TRG -model $path/tc.$TRG
+$mosesdecoder/scripts/recaser/truecase.perl -model $path/tc.$SRC < $SEC/model/$MODELNAME/europarl-v10.tok.$SRC > $SEC/model/$MODELNAME/europarl-v10.tc.$SRC
+test -f $SEC/model/$MODELNAME/europarl-v10.tok.$TRG || continue
+$mosesdecoder/scripts/recaser/truecase.perl -model $path/tc.$TRG < $SEC/model/$MODELNAME/europarl-v10.tok.$TRG > $SEC/model/$MODELNAME/europarl-v10.tc.$TRG
+left=$SEC/model/$MODELNAME/europarl-v10.tc.$SRC
+right=$SEC/model/$MODELNAME/europarl-v10.tc.$TRG
+
+cat $left $TRAINTEXT > $SEC/model/$MODELNAME/newtext.txt
+cat $right $TRAINGLOSS > $SEC/model/$MODELNAME/newgloss.txt
+NEWTEXT=$SEC/model/$MODELNAME/newtext.txt
+NEWGLOSS=$SEC/model/$MODELNAME/newgloss.txt
+cat $NEWTEXT $NEWGLOSS | $subword_nmt/learn_bpe.py -s $bpe_operations > $path/$SRC$TRG.bpe
+
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $NEWTEXT > $path/corpus.bpe.$SRC
+test -f $NEWGLOSS || continue
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $NEWGLOSS > $path/corpus.bpe.$TRG
+
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $DEVTEXT > $path/dev.bpe.$SRC
+test -f $DEVGLOSS || continue
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $DEVGLOSS > $path/dev.bpe.$TRG
+
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $TESTTEXT > $path/test.bpe.$SRC
+test -f $TESTGLOSS || continue
+$subword_nmt/apply_bpe.py -c $path/$SRC$TRG.bpe < $TESTGLOSS > $path/test.bpe.$TRG
+
+cat $path/corpus.bpe.de $path/corpus.bpe.en | /marian/build/marian-vocab --max-size 32000 > $path/vocab.deen.yml
+        /marian/build/marian \
+        --devices 0 1 \
+        --model $path/$MODELNAME.npz \
+        --type transformer \
+        --layer-normalization \
+        --mini-batch-fit -w 10000 --maxi-batch 1000 \
+        --quiet-translation \
+        --learn-rate 0.0003 --lr-warmup 16000 \
+        --lr-decay-inv-sqrt 16000 --lr-report \
+        --optimizer adam \
+        --early-stopping 10 \
+        --cost-type=ce-mean-words \
+        --valid-metrics perplexity bleu-detok ce-mean-words translation chrf bleu \
+        --train-sets $path/corpus.bpe.de $path/corpus.bpe.en \
+        --vocabs $path/vocab.deen.yml $path/vocab.deen.yml \
+        --valid-sets $path/dev.bpe.de $path/dev.bpe.en \
+        --log $path/train.log \
+        --valid-log $path/valid.log --valid-mini-batch 64 \
+        --valid-script-path $SEC/valid_dgs.sh \
+        --valid-translation-output $path/output/dev_output_pre.txt \
+        --keep-best \
+        --valid-freq 5000 \
+        --disp-freq 5000 \
+        --dim-emb 512 --transformer-dim-ffn 2048 --transformer-heads 8 --transformer-ffn-activation relu --enc-depth 6 --dec-depth 6 --enc-cell lstm \
+        --enc-cell-depth 2 --dec-cell-base-depth 2 --dec-cell lstm \
+        --sync-sgd --dropout-src 0.1 --dropout-trg 0.1 \
+        --optimizer-params 0.9 0.98 1e-09 --clip-norm 5 --beam-size 6 --normalize 0.6 \
+        --exponential-smoothing --seed 1111 \
+        --tied-embeddings-all \
+        --transformer-dropout 0.2 --label-smoothing 0.1 \
+
+#:<<!
+cat $path/dev.bpe.de | /marian/build/marian-decoder -c $path/$MODELNAME.npz.best-bleu-detok.npz.decoder.yml -d 0 1 -b 6 -n 0.6 \
+        --mini-batch 64 --maxi-batch 100 --maxi-batch-sort src \
+        | sed 's/\@\@ //g' \
+        | $mosesdecoder/scripts/tokenizer/detokenizer.perl -l de \
+        > $path/output/dev_output.txt
+
+cat $path/test.bpe.de | /marian/build/marian-decoder -c $path/$MODELNAME.npz.best-bleu-detok.npz.decoder.yml -d 0 1 -b 6 -n 0.6 \
+        --mini-batch 64 --maxi-batch 100 --maxi-batch-sort src \
+        | sed 's/\@\@ //g' \
+        | $mosesdecoder/scripts/tokenizer/detokenizer.perl -l de \
+        > $path/output/test_output.txt
+echo "------------------BLEU SCORE OF DEV--------------------"
+$PWD/sacrebleu/sacrebleu/sacrebleu.py $DEVGLOSS -i $SEC/model/$MODELNAME/output/dev_output.txt -m bleu chrf ter -b -w 4 -tok none
+echo "------------------BLEU SCORE OF TEST-------------------"
+$PWD/sacrebleu/sacrebleu/sacrebleu.py $TESTGLOSS -i $SEC/model/$MODELNAME/output/test_output.txt -m bleu chrf ter -b -w 4 -tok none
+#!
+
+

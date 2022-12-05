@@ -1,0 +1,69 @@
+#!/bin/bash
+pip install sacrebleu
+MODELNAME=ph_tr
+mkdir -p model/ph_transfer
+subword_nmt=/netscratch/zhu/exp/subword-nmt
+path=model/ph_transfer
+mkdir -p $path/$MODELNAME
+mkdir -p $path/$MODELNAME/output
+
+/netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/opus-2020-01-20/preprocess.sh de /netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/opus-2020-01-20/source.spm < /netscratch/zhu/exp/data/phoenix_t2g/dev/phoenix_dev_sentences_lowercase.txt > $path/signdev.bpe.de 
+/netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/preprocess.sh de /netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/opus-2020-01-20/source.spm < /netscratch/zhu/exp/data/phoenix_t2g/dev/phoenix_dev_glosses_lowercase.txt > $path/signdev.bpe.en
+/netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/preprocess.sh de /netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/opus-2020-01-20/source.spm < /netscratch/zhu/exp/data/phoenix_t2g/test/phoenix_test_sentences_lowercase.txt > $path/signtest.bpe.de
+/netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/preprocess.sh de /netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/opus-2020-01-20/source.spm < /netscratch/zhu/exp/data/phoenix_t2g/test/phoenix_test_glosses_lowercase.txt > $path/signtest.bpe.en
+
+	/marian/build/marian \
+	--devices 0 1 \
+	--model $path/$MODELNAME/$MODELNAME.npz \
+	--type transformer \
+	--no-restore-corpus --valid-reset-stalled \
+	--pretrained-model /netscratch/zhu/exp/opus-2020-01-20/opus.spm32k-spm32k.transformer-align.model1.npz.best-perplexity.npz \
+	--layer-normalization \
+	--mini-batch-fit -w 10000 --maxi-batch 1000 \
+	--quiet-translation \
+	--learn-rate 0.0001 --lr-warmup 16000 \
+	--lr-decay-inv-sqrt 16000 --lr-report \
+	--optimizer adam \
+	--early-stopping 5 \
+	--cost-type=ce-mean-words \
+	--valid-metrics perplexity bleu-detok ce-mean-words translation chrf bleu \
+	--train-sets $path/signtrain.bpe.de $path/signtrain.bpe.en \
+	--vocabs $path/ph_vocab.yml $path/ph_vocab.yml \
+	--valid-sets $path/signdev.bpe.de $path/signdev.bpe.en \
+	--log $path/$MODELNAME/train.log \
+	--valid-log $path/$MODELNAME/valid.log --valid-mini-batch 64 \
+	--valid-translation-output $path/$MODELNAME/output/dev_output_pre.txt \
+	--keep-best \
+	--valid-freq 100 \
+	--disp-freq 1000 \
+	--dim-emb 512 --transformer-dim-ffn 2048 --transformer-heads 8 --transformer-ffn-activation relu --enc-depth 6 --dec-depth 6 --enc-cell lstm \
+	--enc-cell-depth 2 --dec-cell-base-depth 2 --dec-cell lstm \
+	--sync-sgd --dropout-src 0.1 --dropout-trg 0.1 \
+	--optimizer-params 0.9 0.98 1e-09 --clip-norm 5 --beam-size 6 --normalize 0.6 \
+	--exponential-smoothing --seed 1111 \
+	--tied-embeddings-all \
+        --transformer-dropout 0.2 --label-smoothing 0.1 \
+
+#:<<!
+cat $path/signdev.bpe.de | /marian/build/marian-decoder -c $path/$MODELNAME/$MODELNAME.npz.best-bleu-detok.npz.decoder.yml -d 0 1 -b 6 -n 0.6 \
+	--mini-batch 64 --maxi-batch 100 --maxi-batch-sort src \
+       	| sed 's/\@\@ //g' \
+        | /marian/examples/tools/moses-scripts/scripts/tokenizer/detokenizer.perl -l de \
+	> $path/$MODELNAME/output/dev_output.txt
+     
+cat $path/signtest.bpe.de | /marian/build/marian-decoder -c $path/$MODELNAME/$MODELNAME.npz.best-bleu-detok.npz.decoder.yml -d 0 1 -b 6 -n 0.6 \
+	--mini-batch 64 --maxi-batch 100 --maxi-batch-sort src \
+        | sed 's/\@\@ //g' \
+        | /marian/examples/tools/moses-scripts/scripts/tokenizer/detokenizer.perl -l de \
+        > $path/$MODELNAME/output/test_output.txt
+/netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/postprocess.sh < $path/$MODELNAME/output/dev_output.txt > $path/$MODELNAME/output/dev_output1.txt
+/netscratch/zhu/exp/model/mixed_lemm/phoenix_mixed_train0617lemm/postprocess.sh < $path/$MODELNAME/output/test_output.txt > $path/$MODELNAME/output/test_output1.txt
+
+tr '[:upper:]' '[:lower:]' < $path/$MODELNAME/output/dev_output1.txt > $path/$MODELNAME/output/dev_output_lower.txt
+tr '[:upper:]' '[:lower:]' < $path/$MODELNAME/output/test_output1.txt > $path/$MODELNAME/output/test_output_lower.txt
+
+echo "------------------BLEU SCORE OF DEV--------------------"
+sacrebleu/sacrebleu/sacrebleu.py /netscratch/zhu/exp/data/phoenix_t2g/dev/phoenix_dev_glosses_lowercase.txt -i $path/$MODELNAME/output/dev_output_lower.txt -m bleu chrf ter -f text -w 4 -tok none
+echo "------------------BLEU SCORE OF TEST-------------------"
+sacrebleu/sacrebleu/sacrebleu.py /netscratch/zhu/exp/data/phoenix_t2g/test/phoenix_test_glosses_lowercase.txt -i $path/$MODELNAME/output/test_output_lower.txt -m bleu chrf ter -f text -w 4 -tok none
+#!
