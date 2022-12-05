@@ -4,7 +4,7 @@
 
 1. Clone the repository or download the repository
  
-        git clone https://github.com/yvanzhu/text-to-gloss-sign-language-translation.git
+        git clone https://github.com/DFKI-SignLanguage/text-to-gloss-sign-language-translation.git
         
 2. Install the Python3 (Better the newest version)
 3. Open the Terminal and change directory to
