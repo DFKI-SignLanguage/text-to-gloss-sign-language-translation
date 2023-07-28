@@ -1,6 +1,6 @@
 # Neural Machine Translation Methods for Translating Text to Sign Language Glosses
 
-This repository provides complementary material to aid the replication of the experiments described in the thesis work of  [Neural Machine Translation Methods for Translating Text to Sign Language Glosses].
+This repository provides complementary material to aid the replication of the experiments described in the thesis work as well as ACL'23 publication of [Neural Machine Translation Methods for Translating Text to Sign Language Glosses](https://aclanthology.org/2023.acl-long.700/).
 
 
 ## Introduction
